@@ -1,11 +1,12 @@
 import { ALL_UFS, BRAZIL_STATES_GEO } from "@/data/brazil-states-svg";
-import { PresidentialRegistrySummary, StateTseSummary, TsePollRegistry, UF } from "@/types/election";
+import { PresidentialRegistrySummary, Poll, PollResult, StateTseSummary, TsePollRegistry, UF } from "@/types/election";
 
 /**
  * Calcula os resumos por UF com base exclusivamente nos registros oficiais do TSE
  * (protocolos, institutos, contratantes e valores pagos). O TSE não publica os
- * resultados de intenção de voto das pesquisas que registra, então não há
- * "candidato líder" real a exibir por estado a partir desses dados.
+ * resultados de intenção de voto das pesquisas que registra, então essa função
+ * não determina "candidato líder" — isso vem de pesquisas reais e publicadas
+ * (ver getStatePresidentialPolls), quando existirem para a UF.
  */
 export function getStateTseSummaries(
   tseRegistries: TsePollRegistry[]
@@ -90,4 +91,43 @@ export function getPresidentialRegistrySummary(
     earliestRegistrationDate: registrationDates[0] || null,
     latestRegistrationDate: registrationDates[registrationDates.length - 1] || null,
   };
+}
+
+/**
+ * Agrupa, por UF, as pesquisas presidenciais reais e publicadas (scope != "BR")
+ * já carregadas no app — vindas de institutos que divulgaram os números
+ * (não do TSE, que não publica resultado). Cada grupo é ordenado com o 1º
+ * turno mais recente primeiro, para servir como "pesquisa em destaque" da UF.
+ */
+export function getStatePresidentialPolls(allPolls: Poll[]): Partial<Record<UF, Poll[]>> {
+  const grouped: Partial<Record<UF, Poll[]>> = {};
+
+  allPolls
+    .filter((p) => p.scope !== "BR")
+    .forEach((p) => {
+      const uf = p.scope as UF;
+      if (!grouped[uf]) grouped[uf] = [];
+      grouped[uf]!.push(p);
+    });
+
+  Object.values(grouped).forEach((polls) => {
+    polls!.sort((a, b) => {
+      if (a.round !== b.round) return a.round === "1º Turno" ? -1 : 1;
+      return new Date(b.date).getTime() - new Date(a.date).getTime();
+    });
+  });
+
+  return grouped;
+}
+
+/**
+ * Retorna o resultado com maior percentual em uma pesquisa, ignorando
+ * brancos/nulos/indecisos e o "outros" usado para representar o resto do
+ * 2º turno (quando só os dois principais candidatos foram detalhados).
+ */
+export function getPollLeader(poll: Poll): PollResult | null {
+  const ranked = [...poll.results]
+    .filter((r) => !["brancos_nulos", "indecisos", "outros"].includes(r.candidateId))
+    .sort((a, b) => b.percentage - a.percentage);
+  return ranked[0] || null;
 }

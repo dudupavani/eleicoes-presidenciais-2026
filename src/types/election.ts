@@ -43,8 +43,11 @@ export interface Poll {
   marginOfError: number; // Ex: 2.2
   results: PollResult[];
   sourceUrl?: string;
+  sourceName?: string; // Nome do veículo/publicação que divulgou o resultado
+  tseProtocol?: string; // Protocolo de registro no TSE correspondente (cruzado e verificado)
   notes?: string;
   isCustom?: boolean; // Se veio de upload CSV
+  isVerified?: boolean; // Se os números foram checados contra o registro oficial do TSE (instituto, data, amostra)
 }
 
 export interface StateGeoData {
@@ -83,7 +86,7 @@ export interface TsePollRegistry {
   position?: string;
 }
 
-export type MapMetricKey = "count" | "investment";
+export type MapMetricKey = "count" | "investment" | "leader";
 
 export interface PresidentialRegistrySummary {
   registries: TsePollRegistry[];

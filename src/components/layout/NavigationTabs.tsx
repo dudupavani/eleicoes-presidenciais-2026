@@ -2,12 +2,18 @@
 
 import React from "react";
 import { usePollsData, NavTab } from "@/context/PollsDataContext";
-import { Map, Database, Scale } from "lucide-react";
+import { Map, Database, Scale, Vote } from "lucide-react";
 
 export function NavigationTabs() {
-  const { activeTab, setActiveTab, diagnosticReports, tseRegistries } = usePollsData();
+  const { activeTab, setActiveTab, diagnosticReports, tseRegistries, allPolls } = usePollsData();
 
   const tabs: { id: NavTab; label: string; icon: React.ComponentType<{ className?: string }>; badge?: number }[] = [
+    {
+      id: "polls",
+      label: "Pesquisas para Presidente",
+      icon: Vote,
+      badge: allPolls.length > 0 ? allPolls.length : undefined,
+    },
     {
       id: "map",
       label: "Mapa por Estados (UFs)",

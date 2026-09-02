@@ -3,16 +3,19 @@
 import React, { useMemo } from "react";
 import { usePollsData } from "@/context/PollsDataContext";
 import { BRAZIL_STATES_GEO } from "@/data/brazil-states-svg";
+import { CANDIDATES } from "@/data/candidate-profiles";
 import { formatPercent, formatInteger } from "@/lib/color-utils";
-import { X, Calendar, Building2, FileCheck2, DollarSign } from "lucide-react";
+import { X, Calendar, Building2, FileCheck2, DollarSign, ExternalLink, BadgeCheck } from "lucide-react";
 
 export function StateDetailDrawer() {
-  const { selectedUf, setSelectedUf, stateSummaries, tseRegistries, setActiveTab } = usePollsData();
+  const { selectedUf, setSelectedUf, stateSummaries, statePolls, tseRegistries, setActiveTab } = usePollsData();
 
   const stateRegistries = useMemo(
     () => (selectedUf ? tseRegistries.filter((r) => r.uf === selectedUf) : []),
     [tseRegistries, selectedUf]
   );
+
+  const statePollsForUf = selectedUf ? statePolls[selectedUf] || [] : [];
 
   if (!selectedUf) return null;
 
@@ -72,6 +75,56 @@ export function StateDetailDrawer() {
                 </span>
               </div>
             </div>
+
+            {/* Pesquisas Presidenciais Reais e Publicadas nesta UF */}
+            {statePollsForUf.length > 0 && (
+              <div className="space-y-3">
+                <h4 className="text-xs font-bold uppercase tracking-wider text-slate-400">
+                  Pesquisas para Presidente em {selectedUf} (publicadas)
+                </h4>
+                <div className="space-y-3">
+                  {statePollsForUf.map((p) => {
+                    const sorted = [...p.results].sort((a, b) => b.percentage - a.percentage);
+                    return (
+                      <div key={p.id} className="bg-slate-800/70 rounded-xl p-3.5 border border-slate-700/60 space-y-2">
+                        <div className="flex items-center justify-between text-xs">
+                          <span className="font-bold text-white flex items-center gap-1.5">
+                            {p.institute}
+                            {p.isVerified && <BadgeCheck className="w-3.5 h-3.5 text-emerald-400" />}
+                          </span>
+                          <span className="text-slate-400">{p.round} • {p.date}</span>
+                        </div>
+                        <div className="space-y-1.5">
+                          {sorted.map((r) => (
+                            <div key={r.candidateId} className="flex justify-between items-center text-[11px]">
+                              <span className="flex items-center gap-1.5 text-slate-300">
+                                <span
+                                  className="w-2 h-2 rounded-full shrink-0"
+                                  style={{ backgroundColor: CANDIDATES[r.candidateId]?.color || "#64748B" }}
+                                />
+                                {r.candidateName}
+                              </span>
+                              <span className="font-bold text-white">{formatPercent(r.percentage)}</span>
+                            </div>
+                          ))}
+                        </div>
+                        {p.sourceUrl && (
+                          <a
+                            href={p.sourceUrl}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1 text-[10px] text-blue-400 hover:text-blue-300"
+                          >
+                            <span>Fonte: {p.sourceName || "ver publicação"}</span>
+                            <ExternalLink className="w-3 h-3" />
+                          </a>
+                        )}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
 
             {/* Investimento Total */}
             <div className="bg-slate-800/60 rounded-xl p-4 border border-slate-700/60 flex items-center justify-between">

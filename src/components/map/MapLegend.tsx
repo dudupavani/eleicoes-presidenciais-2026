@@ -1,13 +1,56 @@
 "use client";
 
-import React from "react";
-import { MapMetricKey } from "@/types/election";
+import React, { useMemo } from "react";
+import { MapMetricKey, Poll, UF } from "@/types/election";
+import { CANDIDATES } from "@/data/candidate-profiles";
+import { getPollLeader } from "@/lib/poll-aggregator";
 
 interface MapLegendProps {
   metric: MapMetricKey;
+  statePolls: Partial<Record<UF, Poll[]>>;
 }
 
-export function MapLegend({ metric }: MapLegendProps) {
+export function MapLegend({ metric, statePolls }: MapLegendProps) {
+  const leaderCandidates = useMemo(() => {
+    const set = new Map<string, { name: string; color: string }>();
+    Object.values(statePolls).forEach((polls) => {
+      const featured = polls?.[0];
+      if (!featured) return;
+      const leader = getPollLeader(featured);
+      if (!leader) return;
+      const profile = CANDIDATES[leader.candidateId];
+      set.set(leader.candidateId, { name: profile?.shortName || leader.candidateName, color: profile?.color || "#64748B" });
+    });
+    return Array.from(set.values());
+  }, [statePolls]);
+
+  if (metric === "leader") {
+    return (
+      <div className="bg-slate-900/95 border border-slate-800 rounded-xl p-3.5 shadow-lg backdrop-blur-md text-xs">
+        <h4 className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mb-2">
+          Candidato Líder (pesquisa real)
+        </h4>
+        <div className="space-y-1.5 mb-3">
+          {leaderCandidates.map((c) => (
+            <div key={c.name} className="flex items-center space-x-2">
+              <span className="w-3 h-3 rounded-full shrink-0 shadow-sm" style={{ backgroundColor: c.color }} />
+              <span className="text-slate-200 font-medium">{c.name}</span>
+            </div>
+          ))}
+          <div className="flex items-center space-x-2">
+            <span className="w-3 h-3 rounded-full shrink-0 bg-slate-800 border border-slate-700" />
+            <span className="text-slate-500">Sem pesquisa real na UF</span>
+          </div>
+        </div>
+        <p className="text-[10px] text-slate-500 pt-2.5 border-t border-slate-800 leading-relaxed">
+          Cor = candidato líder na pesquisa mais recente e publicada para aquele estado, conferida contra o
+          registro no TSE. Só {Object.keys(statePolls).length} estado(s) têm pesquisa estadual real disponível
+          até agora.
+        </p>
+      </div>
+    );
+  }
+
   const metricLabel = metric === "count" ? "Nº de Pesquisas Registradas" : "Valor Investido Declarado";
 
   return (

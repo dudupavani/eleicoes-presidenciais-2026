@@ -4,6 +4,8 @@ import React, { useState, useEffect, useRef, useMemo, useCallback } from "react"
 import { geoMercator, geoPath } from "d3-geo";
 import { usePollsData } from "@/context/PollsDataContext";
 import { getTseIntensityColor } from "@/lib/color-utils";
+import { getPollLeader } from "@/lib/poll-aggregator";
+import { CANDIDATES } from "@/data/candidate-profiles";
 import { MapTooltip } from "./MapTooltip";
 import { MapLegend } from "./MapLegend";
 import { StateDetailDrawer } from "./StateDetailDrawer";
@@ -23,8 +25,9 @@ const MAP_WIDTH = 900;
 const MAP_HEIGHT = 780;
 
 export function BrazilMap() {
-  const { stateSummaries, setSelectedUf } = usePollsData();
-  const [metric, setMetric] = useState<MapMetricKey>("count");
+  const { stateSummaries, statePolls, setSelectedUf } = usePollsData();
+  const hasAnyStatePoll = useMemo(() => Object.keys(statePolls).length > 0, [statePolls]);
+  const [metric, setMetric] = useState<MapMetricKey>(hasAnyStatePoll ? "leader" : "count");
 
   const [geoData, setGeoData] = useState<BrazilFeatureCollection | null>(null);
   const [pathStrings, setPathStrings] = useState<Map<string, string>>(new Map());
@@ -158,6 +161,16 @@ export function BrazilMap() {
         </div>
         <div className="flex items-center space-x-2">
           <div className="flex items-center bg-slate-800 rounded-lg p-0.5 border border-slate-700 text-xs">
+            {hasAnyStatePoll && (
+              <button
+                onClick={() => setMetric("leader")}
+                className={`px-2.5 py-1.5 rounded-md font-semibold transition-all ${
+                  metric === "leader" ? "bg-blue-600 text-white" : "text-slate-400 hover:text-slate-200"
+                }`}
+              >
+                Candidato Líder
+              </button>
+            )}
             <button
               onClick={() => setMetric("count")}
               className={`px-2.5 py-1.5 rounded-md font-semibold transition-all ${
@@ -234,8 +247,15 @@ export function BrazilMap() {
                 if (!pathD) return null;
 
                 const summary = stateSummaries[uf as UF];
-                const value = summary ? (metric === "count" ? summary.registriesCount : summary.totalInvestment) : 0;
-                const fillColor = getTseIntensityColor(value, maxValue);
+                let fillColor: string;
+                if (metric === "leader") {
+                  const featuredPoll = statePolls[uf as UF]?.[0];
+                  const leader = featuredPoll ? getPollLeader(featuredPoll) : null;
+                  fillColor = leader ? (CANDIDATES[leader.candidateId]?.color || "#64748B") : "#1e293b";
+                } else {
+                  const value = summary ? (metric === "count" ? summary.registriesCount : summary.totalInvestment) : 0;
+                  fillColor = getTseIntensityColor(value, maxValue);
+                }
 
                 const isHovered = hoveredUf === uf;
 
@@ -287,6 +307,8 @@ export function BrazilMap() {
           {tooltip && (
             <MapTooltip
               summary={stateSummaries[tooltip.uf as UF] || null}
+              featuredPoll={statePolls[tooltip.uf as UF]?.[0] || null}
+              metric={metric}
               position={{ x: tooltip.x, y: tooltip.y }}
             />
           )}
@@ -294,7 +316,7 @@ export function BrazilMap() {
 
         {/* Legenda lateral */}
         <div className="w-52 shrink-0 hidden lg:block">
-          <MapLegend metric={metric} />
+          <MapLegend metric={metric} statePolls={statePolls} />
         </div>
       </div>
 

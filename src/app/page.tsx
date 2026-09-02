@@ -6,6 +6,7 @@ import { NavigationTabs } from "@/components/layout/NavigationTabs";
 import { BrazilMap } from "@/components/map/BrazilMap";
 import { TseRegistryPanel } from "@/components/tse/TseRegistryPanel";
 import { PresidentialSummaryBanner } from "@/components/tse/PresidentialSummaryBanner";
+import { PresidentialPollsPanel } from "@/components/polls/PresidentialPollsPanel";
 import { CsvUploader } from "@/components/upload/CsvUploader";
 import { DiagnosticPanel } from "@/components/upload/DiagnosticPanel";
 import { SampleCsvTemplates } from "@/components/upload/SampleCsvTemplates";
@@ -26,7 +27,14 @@ export default function Home() {
 
       {/* 3. Área de Conteúdo Dinâmico */}
       <div className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6">
-        {/* ABA 1: MAPA POR ESTADOS (UFs) */}
+        {/* ABA 1: PESQUISAS PARA PRESIDENTE (dados reais, publicados pelos institutos) */}
+        {activeTab === "polls" && (
+          <div className="space-y-6 animate-in fade-in duration-200">
+            <PresidentialPollsPanel />
+          </div>
+        )}
+
+        {/* ABA 2: MAPA POR ESTADOS (UFs) */}
         {activeTab === "map" && (
           <div className="space-y-6 animate-in fade-in duration-200">
             <PresidentialSummaryBanner />

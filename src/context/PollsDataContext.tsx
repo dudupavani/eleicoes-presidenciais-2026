@@ -12,9 +12,9 @@ import {
 import { DEFAULT_POLLS } from "@/data/default-polls-data";
 import { DEFAULT_TSE_REGISTRIES } from "@/data/default-tse-registries";
 import { parseMultiplePollCsvs } from "@/lib/csv-parser";
-import { getPresidentialRegistrySummary, getStateTseSummaries } from "@/lib/poll-aggregator";
+import { getPresidentialRegistrySummary, getStatePresidentialPolls, getStateTseSummaries } from "@/lib/poll-aggregator";
 
-export type NavTab = "map" | "tse_audit" | "data_manager";
+export type NavTab = "polls" | "map" | "tse_audit" | "data_manager";
 
 interface PollsDataContextType {
   allPolls: Poll[];
@@ -24,6 +24,7 @@ interface PollsDataContextType {
   selectedUf: UF | null;
   setSelectedUf: (uf: UF | null) => void;
   stateSummaries: Record<UF, StateTseSummary>;
+  statePolls: Partial<Record<UF, Poll[]>>;
   presidentialSummary: PresidentialRegistrySummary;
   diagnosticReports: CsvDiagnosticReport[];
   isProcessingUpload: boolean;
@@ -39,7 +40,7 @@ const PollsDataContext = createContext<PollsDataContextType | undefined>(undefin
 export function PollsDataProvider({ children }: { children: React.ReactNode }) {
   const [allPolls, setAllPolls] = useState<Poll[]>(DEFAULT_POLLS);
   const [tseRegistries, setTseRegistries] = useState<TsePollRegistry[]>(DEFAULT_TSE_REGISTRIES);
-  const [activeTab, setActiveTab] = useState<NavTab>("map");
+  const [activeTab, setActiveTab] = useState<NavTab>("polls");
   const [selectedUf, setSelectedUf] = useState<UF | null>(null);
   const [diagnosticReports, setDiagnosticReports] = useState<CsvDiagnosticReport[]>([]);
   const [isProcessingUpload, setIsProcessingUpload] = useState<boolean>(false);
@@ -54,6 +55,11 @@ export function PollsDataProvider({ children }: { children: React.ReactNode }) {
   const presidentialSummary = useMemo(() => {
     return getPresidentialRegistrySummary(tseRegistries);
   }, [tseRegistries]);
+
+  // Pesquisas presidenciais reais e publicadas, agrupadas por UF (scope != "BR")
+  const statePolls = useMemo(() => {
+    return getStatePresidentialPolls(allPolls);
+  }, [allPolls]);
 
   // Manipulador de upload de múltiplos CSVs (suporta pesquisas eleitorais e arquivos oficiais TSE)
   const handleFileUpload = async (files: File[]) => {
@@ -108,6 +114,7 @@ export function PollsDataProvider({ children }: { children: React.ReactNode }) {
         selectedUf,
         setSelectedUf,
         stateSummaries,
+        statePolls,
         presidentialSummary,
         diagnosticReports,
         isProcessingUpload,
