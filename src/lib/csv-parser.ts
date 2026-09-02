@@ -458,6 +458,8 @@ export function parseTseCsv(csvContent: string, fileName: string = "tse_contrata
       const year = Number(row["AA_ELEICAO"] || 2026);
       const isSelfFunded = String(row["ST_CONTRATANTE_PAGANTE"] || "").trim().toUpperCase().includes("S");
       const resourceOrigin = String(row["DS_ORIGEM_RECURSO"] || "Recurso Próprio").trim().replace(/"/g, "");
+      const payerName = String(row["NM_PAGANTE"] || "").trim().replace(/"/g, "");
+      const payerCnpj = String(row["NR_CPF_CNPJ_PAGANTE"] || "").trim().replace(/"/g, "");
 
       ufsSet.add(uf);
       contractorsSet.add(contractorName);
@@ -477,6 +479,8 @@ export function parseTseCsv(csvContent: string, fileName: string = "tse_contrata
         contractorId,
         contractorCnpj,
         contractorName,
+        payerName: payerName || undefined,
+        payerCnpj: payerCnpj || undefined,
         sampleSize,
         statisticianName,
         conreId,

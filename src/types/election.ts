@@ -70,6 +70,8 @@ export interface TsePollRegistry {
   contractorId: number;
   contractorCnpj: string;
   contractorName: string;
+  payerName?: string; // NM_PAGANTE: quem efetivamente pagou, quando difere do contratante
+  payerCnpj?: string;
   sampleSize?: number;
   statisticianName?: string;
   conreId?: string;
@@ -81,78 +83,18 @@ export interface TsePollRegistry {
   position?: string;
 }
 
-export interface StatePollSummary {
+export type MapMetricKey = "count" | "investment";
+
+export interface StateTseSummary {
   uf: UF;
   stateName: string;
   region: Region;
-  leaderId: string | null;
-  leaderName: string | null;
-  leaderPercentage: number;
-  runnerUpId: string | null;
-  runnerUpName: string | null;
-  runnerUpPercentage: number;
-  margin: number;
-  color: string;
-  intensity: number; // 0 to 1
-  pollCount: number;
-  tseRegistriesCount?: number;
-  totalTseInvestment?: number;
-  latestPollDate: string | null;
-  results: {
-    candidateId: string;
-    candidateName: string;
-    party: string;
-    percentage: number;
-    color: string;
-  }[];
-  isSimulated: boolean; // Se foi projetado com base em dados regionais/nacionais
-}
-
-export interface NationalConsolidated {
-  totalPolls: number;
-  dateRange: { start: string; end: string };
-  institutes: string[];
-  leader: {
-    candidateId: string;
-    name: string;
-    percentage: number;
-    validPercentage: number;
-    color: string;
-  } | null;
-  runnerUp: {
-    candidateId: string;
-    name: string;
-    percentage: number;
-    validPercentage: number;
-    color: string;
-  } | null;
-  margin: number;
-  candidatesRanking: {
-    candidateId: string;
-    name: string;
-    shortName: string;
-    party: string;
-    color: string;
-    averagePercentage: number;
-    averageValidPercentage: number;
-    minPercentage: number;
-    maxPercentage: number;
-    trend: number; // Mudança recente (+1.2, -0.5, etc.)
-  }[];
-  blanksAndNulls: number;
-  undecided: number;
-}
-
-export interface FilterOptions {
-  scenario: string;
-  round: RoundType | "Todos";
-  type: PollType | "Todos";
-  institutes: string[];
-  dateRange: "all" | "30d" | "90d" | "180d" | "365d" | "custom";
-  customStartDate?: string;
-  customEndDate?: string;
-  useValidVotes: boolean;
-  selectedUf?: UF | null;
+  registriesCount: number;
+  totalInvestment: number;
+  uniqueAgencies: number;
+  uniqueContractors: number;
+  topAgency: string | null;
+  latestRegistrationDate: string | null;
 }
 
 export interface CsvDiagnosticReport {

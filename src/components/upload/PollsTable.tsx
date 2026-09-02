@@ -7,7 +7,7 @@ import { Search, Trash2, Database, MapPin, Building2, Calendar, FileSpreadsheet 
 import { CANDIDATES } from "@/data/candidate-profiles";
 
 export function PollsTable() {
-  const { allPolls, deletePoll, filters } = usePollsData();
+  const { allPolls, deletePoll } = usePollsData();
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedInstitute, setSelectedInstitute] = useState("all");
   const [selectedScope, setSelectedScope] = useState("all");
@@ -178,9 +178,7 @@ export function PollsTable() {
                   <div className="flex flex-wrap gap-1.5 max-w-md">
                     {p.results.map((r) => {
                       const profile = CANDIDATES[r.candidateId];
-                      const val = filters.useValidVotes
-                        ? r.validPercentage ?? r.percentage
-                        : r.percentage;
+                      const val = r.percentage;
 
                       return (
                         <span

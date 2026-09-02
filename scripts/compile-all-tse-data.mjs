@@ -4,6 +4,7 @@ import Papa from "papaparse";
 
 const eleitoralDir = "./data/csvs/tse_eleitoral";
 const contratanteDir = "./data/csvs/tse_contratante";
+const paganteDir = "./data/csvs/tse_pagante";
 const outputFile = "./src/data/default-tse-registries.ts";
 
 console.log("=== COMPILANDO BASE COMPLETA NACIONAL DE REGISTROS TSE 2026 ===");
@@ -165,7 +166,48 @@ contratanteFiles.forEach((file) => {
 
 console.log(`Total compilado: ${allRegistries.length} registros oficiais de contratantes no TSE!`);
 
-// 3. Escrever arquivo TypeScript compilado
+// 3. Ler arquivos de pesquisa_pagante (identifica quem efetivamente pagou, quando difere do contratante)
+if (fs.existsSync(paganteDir)) {
+  const paganteFiles = fs.readdirSync(paganteDir).filter((f) => f.endsWith(".csv"));
+  const payerMap = new Map();
+
+  console.log(`Lendo ${paganteFiles.length} arquivos de pagantes...`);
+
+  paganteFiles.forEach((file) => {
+    const content = fs.readFileSync(path.join(paganteDir, file), "latin1");
+    const parsed = Papa.parse(content, {
+      header: true,
+      skipEmptyLines: true,
+      delimiter: ";",
+    });
+
+    parsed.data.forEach((row) => {
+      const protocol = cleanString(row["NR_PROTOCOLO_REGISTRO"]);
+      const contractorId = Number(cleanString(row["CD_CONTRATANTE"]) || 0);
+      if (!protocol || !contractorId) return;
+
+      const payerName = cleanString(row["NM_PAGANTE"]);
+      const payerCnpj = cleanString(row["NR_CPF_CNPJ_PAGANTE"]);
+      if (!payerName) return;
+
+      payerMap.set(`${protocol}_${contractorId}`, { payerName, payerCnpj });
+    });
+  });
+
+  let matched = 0;
+  allRegistries.forEach((reg) => {
+    const payer = payerMap.get(`${reg.protocol}_${reg.contractorId}`);
+    if (payer) {
+      reg.payerName = payer.payerName;
+      reg.payerCnpj = payer.payerCnpj;
+      matched += 1;
+    }
+  });
+
+  console.log(`Vinculados ${matched} registros a um pagante identificado.`);
+}
+
+// 4. Escrever arquivo TypeScript compilado
 const fileContent = `import { TsePollRegistry } from "@/types/election";
 
 /**

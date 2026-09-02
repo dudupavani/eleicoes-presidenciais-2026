@@ -3,13 +3,13 @@
 import React, { useState, useEffect, useRef, useMemo, useCallback } from "react";
 import { geoMercator, geoPath } from "d3-geo";
 import { usePollsData } from "@/context/PollsDataContext";
-import { getStateColor } from "@/lib/color-utils";
+import { getTseIntensityColor } from "@/lib/color-utils";
 import { MapTooltip } from "./MapTooltip";
 import { MapLegend } from "./MapLegend";
 import { StateDetailDrawer } from "./StateDetailDrawer";
 import { ZoomIn, ZoomOut, RotateCcw } from "lucide-react";
 import type { Feature, FeatureCollection, Geometry } from "geojson";
-import type { UF } from "@/types/election";
+import type { UF, MapMetricKey } from "@/types/election";
 
 interface GeoFeatureProperties {
   sigla: string;
@@ -24,6 +24,7 @@ const MAP_HEIGHT = 780;
 
 export function BrazilMap() {
   const { stateSummaries, setSelectedUf } = usePollsData();
+  const [metric, setMetric] = useState<MapMetricKey>("count");
 
   const [geoData, setGeoData] = useState<BrazilFeatureCollection | null>(null);
   const [pathStrings, setPathStrings] = useState<Map<string, string>>(new Map());
@@ -39,6 +40,15 @@ export function BrazilMap() {
   const dragStart = useRef<{ x: number; y: number; panX: number; panY: number } | null>(null);
   const svgRef = useRef<SVGSVGElement>(null);
 
+  const maxValue = useMemo(() => {
+    return Math.max(
+      0,
+      ...Object.values(stateSummaries).map((s) =>
+        metric === "count" ? s.registriesCount : s.totalInvestment
+      )
+    );
+  }, [stateSummaries, metric]);
+
   // Load GeoJSON
   useEffect(() => {
     fetch("/brazil-states.geojson")
@@ -46,7 +56,6 @@ export function BrazilMap() {
       .then((data: BrazilFeatureCollection) => {
         setGeoData(data);
 
-        // Build projection
         const projection = geoMercator()
           .center([-53, -14])
           .scale(830)
@@ -138,16 +147,34 @@ export function BrazilMap() {
 
   return (
     <div className="bg-slate-900 border border-slate-800 rounded-2xl overflow-hidden shadow-2xl">
-      <div className="px-5 py-4 border-b border-slate-800 flex items-center justify-between">
+      <div className="px-5 py-4 border-b border-slate-800 flex items-center justify-between flex-wrap gap-3">
         <div>
           <h2 className="text-base font-bold text-white">
-            Mapa de Intenção de Voto por Estado
+            Mapa de Registros de Pesquisas Eleitorais no TSE por Estado
           </h2>
           <p className="text-xs text-slate-400 mt-0.5">
-            Passe o mouse para ver detalhes. Clique para abrir o histórico de pesquisas. Use o scroll para dar zoom.
+            Passe o mouse para ver detalhes. Clique para abrir a lista de registros. Use o scroll para dar zoom.
           </p>
         </div>
         <div className="flex items-center space-x-2">
+          <div className="flex items-center bg-slate-800 rounded-lg p-0.5 border border-slate-700 text-xs">
+            <button
+              onClick={() => setMetric("count")}
+              className={`px-2.5 py-1.5 rounded-md font-semibold transition-all ${
+                metric === "count" ? "bg-blue-600 text-white" : "text-slate-400 hover:text-slate-200"
+              }`}
+            >
+              Nº de Pesquisas
+            </button>
+            <button
+              onClick={() => setMetric("investment")}
+              className={`px-2.5 py-1.5 rounded-md font-semibold transition-all ${
+                metric === "investment" ? "bg-blue-600 text-white" : "text-slate-400 hover:text-slate-200"
+              }`}
+            >
+              Valor Investido
+            </button>
+          </div>
           <button
             onClick={() => setZoom((z) => Math.min(6, z * 1.3))}
             className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition-colors border border-slate-700"
@@ -196,10 +223,6 @@ export function BrazilMap() {
               <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
                 <feDropShadow dx="0" dy="1" stdDeviation="2" floodColor="rgba(0,0,0,0.5)" />
               </filter>
-              <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-                <feGaussianBlur stdDeviation="3" result="blur" />
-                <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
-              </filter>
             </defs>
 
             <g transform={`translate(${pan.x}, ${pan.y}) scale(${zoom})`} style={{ transformOrigin: `${MAP_WIDTH / 2}px ${MAP_HEIGHT / 2}px` }}>
@@ -211,9 +234,8 @@ export function BrazilMap() {
                 if (!pathD) return null;
 
                 const summary = stateSummaries[uf as UF];
-                const fillColor = summary
-                  ? getStateColor(summary.color, summary.margin)
-                  : "#1e293b";
+                const value = summary ? (metric === "count" ? summary.registriesCount : summary.totalInvestment) : 0;
+                const fillColor = getTseIntensityColor(value, maxValue);
 
                 const isHovered = hoveredUf === uf;
 
@@ -239,7 +261,6 @@ export function BrazilMap() {
 
               {/* Rótulos dos estados */}
               {centroids && Array.from(centroids.entries()).map(([uf, [cx, cy]]) => {
-                const summary = stateSummaries[uf as UF];
                 const fontSize = labelSize(uf) / zoom;
                 return (
                   <text
@@ -273,7 +294,7 @@ export function BrazilMap() {
 
         {/* Legenda lateral */}
         <div className="w-52 shrink-0 hidden lg:block">
-          <MapLegend />
+          <MapLegend metric={metric} />
         </div>
       </div>
 

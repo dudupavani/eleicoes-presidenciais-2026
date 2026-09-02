@@ -587,6 +587,16 @@ export function TseRegistryPanel() {
                 )}
               </div>
 
+              {selectedRegistryModal.payerName && (
+                <div className="bg-slate-800/60 p-3 rounded-xl border border-slate-700/50 col-span-2">
+                  <span className="text-slate-400 block mb-0.5">Pagante (quando difere do contratante):</span>
+                  <span className="font-bold text-amber-300 text-sm block truncate">{selectedRegistryModal.payerName}</span>
+                  {selectedRegistryModal.payerCnpj && (
+                    <span className="text-[10px] text-slate-500 font-mono">CNPJ: {selectedRegistryModal.payerCnpj}</span>
+                  )}
+                </div>
+              )}
+
               <div className="bg-slate-800/60 p-3 rounded-xl border border-slate-700/50">
                 <span className="text-slate-400 block mb-0.5">Valor Pago / Custo:</span>
                 <span className="font-bold text-emerald-400 text-base font-mono">

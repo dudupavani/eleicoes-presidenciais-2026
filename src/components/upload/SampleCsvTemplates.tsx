@@ -4,21 +4,14 @@ import React from "react";
 import { Download, FileText, Sparkles } from "lucide-react";
 
 export function SampleCsvTemplates() {
-  // Gera modelo CSV em formato LONGO
+  // Gera modelo CSV em formato LONGO (valores ilustrativos — substitua pelos números reais da pesquisa publicada)
   const downloadLongTemplate = () => {
     const content = `data,instituto,uf,cenario,turno,tipo,candidato,votos,margem_erro,amostra
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Lula,38.5,2.0,2500
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Flávio Bolsonaro,29.0,2.0,2500
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Romeu Zema,7.5,2.0,2500
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Ciro Gomes,5.0,2.0,2500
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Simone Tebet,3.5,2.0,2500
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Branco / Nulo,9.5,2.0,2500
-2026-08-25,Datafolha,BR,Cenário 1,1º Turno,Estimulada,Indecisos,7.0,2.0,2500
-2026-08-22,Quaest,SP,Cenário 1,1º Turno,Estimulada,Lula,35.0,2.5,1600
-2026-08-22,Quaest,SP,Cenário 1,1º Turno,Estimulada,Flávio Bolsonaro,33.5,2.5,1600
-2026-08-22,Quaest,SP,Cenário 1,1º Turno,Estimulada,Romeu Zema,9.8,2.5,1600
-2026-08-22,Quaest,SP,Cenário 1,1º Turno,Estimulada,Branco / Nulo,9.5,2.5,1600
-2026-08-22,Quaest,SP,Cenário 1,1º Turno,Estimulada,Indecisos,6.0,2.5,1600`;
+2026-08-25,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,Candidato A,0.0,2.0,2500
+2026-08-25,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,Candidato B,0.0,2.0,2500
+2026-08-25,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,Candidato C,0.0,2.0,2500
+2026-08-25,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,Branco / Nulo,0.0,2.0,2500
+2026-08-25,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,Indecisos,0.0,2.0,2500`;
 
     const blob = new Blob(["\uFEFF" + content], { type: "text/csv;charset=utf-8;" });
     const url = URL.createObjectURL(blob);
@@ -30,13 +23,11 @@ export function SampleCsvTemplates() {
     document.body.removeChild(a);
   };
 
-  // Gera modelo CSV em formato AMPLO (Wide)
+  // Gera modelo CSV em formato AMPLO (Wide) (valores ilustrativos — substitua pelos números reais da pesquisa publicada)
   const downloadWideTemplate = () => {
-    const content = `data,instituto,uf,cenario,turno,tipo,amostra,margem_erro,Lula,Flávio Bolsonaro,Romeu Zema,Tarcísio de Freitas,Ciro Gomes,Simone Tebet,Branco / Nulo,Indecisos
-2026-08-28,AtlasIntel,BR,Cenário 1,1º Turno,Estimulada,4200,1.5,41.2,30.8,7.1,0.0,4.8,4.1,7.2,4.8
-2026-08-20,Paraná Pesquisas,BR,Cenário 1,1º Turno,Estimulada,2020,2.2,36.8,31.4,8.4,0.0,5.2,3.5,8.5,6.2
-2026-08-18,Datafolha,BR,Cenário 2º Turno,2º Turno,Estimulada,2540,2.0,49.5,41.0,0.0,0.0,0.0,0.0,6.5,3.0
-2026-08-15,Quaest,MG,Cenário 1,1º Turno,Estimulada,1500,2.5,32.8,20.5,33.5,0.0,4.0,2.5,8.5,5.2`;
+    const content = `data,instituto,uf,cenario,turno,tipo,amostra,margem_erro,Candidato A,Candidato B,Candidato C,Branco / Nulo,Indecisos
+2026-08-28,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,4200,1.5,0.0,0.0,0.0,0.0,0.0
+2026-08-20,Nome do Instituto,BR,Cenário 1,1º Turno,Estimulada,2020,2.2,0.0,0.0,0.0,0.0,0.0`;
 
     const blob = new Blob(["\uFEFF" + content], { type: "text/csv;charset=utf-8;" });
     const url = URL.createObjectURL(blob);
@@ -93,7 +84,7 @@ export function SampleCsvTemplates() {
               <span>Formato Amplo (Wide - colunas por candidato)</span>
             </div>
             <p className="text-[11px] text-slate-400 mt-1">
-              Ideal para tabelas manuais de jornais e planilhas resumidas. Colunas com os nomes dos candidatos: <code>Lula, Flávio Bolsonaro, Zema, Indecisos...</code>
+              Ideal para tabelas manuais de jornais e planilhas resumidas. Colunas com os nomes dos candidatos: <code>Candidato A, Candidato B, Indecisos...</code>
             </p>
           </div>
 

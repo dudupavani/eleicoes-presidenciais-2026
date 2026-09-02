@@ -2,7 +2,7 @@
 
 import React from "react";
 import { usePollsData, NavTab } from "@/context/PollsDataContext";
-import { Map, BarChart3, Swords, Database, Scale } from "lucide-react";
+import { Map, Database, Scale } from "lucide-react";
 
 export function NavigationTabs() {
   const { activeTab, setActiveTab, diagnosticReports, tseRegistries } = usePollsData();
@@ -12,16 +12,6 @@ export function NavigationTabs() {
       id: "map",
       label: "Mapa por Estados (UFs)",
       icon: Map,
-    },
-    {
-      id: "national",
-      label: "Painel Nacional & Tendências",
-      icon: BarChart3,
-    },
-    {
-      id: "scenarios",
-      label: "Comparador de Cenários & 2º Turno",
-      icon: Swords,
     },
     {
       id: "tse_audit",

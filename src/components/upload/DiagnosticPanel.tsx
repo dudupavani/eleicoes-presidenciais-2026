@@ -20,18 +20,22 @@ export function DiagnosticPanel() {
     return (
       <div className="bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-xl">
         <div className="flex items-center space-x-3 mb-3">
-          <div className="w-8 h-8 rounded-lg bg-emerald-500/20 text-emerald-400 flex items-center justify-center">
+          <div className="w-8 h-8 rounded-lg bg-blue-500/20 text-blue-400 flex items-center justify-center">
             <CheckCircle className="w-5 h-5" />
           </div>
           <div>
             <h3 className="text-sm font-bold text-white">Status da Base de Dados Atual</h3>
-            <p className="text-xs text-slate-400">Base de dados padrão de pesquisas eleitorais 2026 pré-carregada e ativa</p>
+            <p className="text-xs text-slate-400">
+              Nenhuma pesquisa de intenção de voto carregada ainda. O TSE não publica resultados de pesquisas,
+              apenas registros de quem as contratou — envie um CSV real (ex: de um instituto que publicou os
+              números) para vê-los aqui.
+            </p>
           </div>
         </div>
 
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs mt-4">
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 text-xs mt-4">
           <div className="bg-slate-800/60 p-3 rounded-xl border border-slate-700/50">
-            <span className="text-slate-400 block mb-0.5">Total de Pesquisas</span>
+            <span className="text-slate-400 block mb-0.5">Pesquisas Carregadas</span>
             <span className="text-base font-bold text-white">{allPolls.length} pesquisas</span>
           </div>
 
@@ -40,11 +44,6 @@ export function DiagnosticPanel() {
             <span className="text-base font-bold text-blue-400">
               {Array.from(new Set(allPolls.map((p) => p.institute))).length} institutos
             </span>
-          </div>
-
-          <div className="bg-slate-800/60 p-3 rounded-xl border border-slate-700/50">
-            <span className="text-slate-400 block mb-0.5">Estados Mapeados</span>
-            <span className="text-base font-bold text-emerald-400">27 UFs</span>
           </div>
 
           <div className="bg-slate-800/60 p-3 rounded-xl border border-slate-700/50">

@@ -94,3 +94,15 @@ export function getStateColor(candidateColor: string, margin: number): string {
   const { opacity } = calculateStateColorIntensity(margin, 0);
   return hexToRgba(candidateColor, opacity);
 }
+
+/**
+ * Cor de preenchimento de um estado no mapa de auditoria TSE, com intensidade
+ * proporcional ao valor (ex: nº de registros ou valor investido) em relação ao
+ * maior valor observado entre todos os estados.
+ */
+export function getTseIntensityColor(value: number, maxValue: number): string {
+  if (maxValue <= 0 || value <= 0) return "#1e293b"; // slate-800 (sem registros)
+  const ratio = Math.min(1, value / maxValue);
+  const opacity = 0.25 + ratio * 0.75;
+  return hexToRgba("#3B82F6", opacity); // blue-500
+}
