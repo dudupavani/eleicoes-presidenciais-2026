@@ -31,6 +31,7 @@ export function TseRegistryPanel() {
   const [selectedUf, setSelectedUf] = useState("all");
   const [selectedAgency, setSelectedAgency] = useState("all");
   const [fundingType, setFundingType] = useState("all");
+  const [selectedCargo, setSelectedCargo] = useState("all");
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage, setItemsPerPage] = useState(25);
   const [selectedRegistryModal, setSelectedRegistryModal] = useState<TsePollRegistry | null>(null);
@@ -54,6 +55,19 @@ export function TseRegistryPanel() {
 
   const uniqueContractors = useMemo(() => {
     return Array.from(new Set(tseRegistries.map((r) => r.contractorName)));
+  }, [tseRegistries]);
+
+  // Cargos declarados (DS_CARGO) presentes na base, para o filtro "Cargo"
+  const uniqueCargos = useMemo(() => {
+    const set = new Set<string>();
+    tseRegistries.forEach((r) => {
+      if (r.position) set.add(r.position);
+    });
+    return Array.from(set).sort();
+  }, [tseRegistries]);
+
+  const presidentialCount = useMemo(() => {
+    return tseRegistries.filter((r) => (r.position || "").includes("Presidente")).length;
   }, [tseRegistries]);
 
   // Ranking dos Maiores Institutos / Empresas Executoras
@@ -125,6 +139,9 @@ export function TseRegistryPanel() {
       if (fundingType === "third_party" && (r.isSelfFunded || r.valuePaid === 0)) {
         return false;
       }
+      if (selectedCargo !== "all" && r.position !== selectedCargo) {
+        return false;
+      }
       if (searchTerm.trim()) {
         const q = searchTerm.toLowerCase();
         const matchesProt = r.protocol.toLowerCase().includes(q);
@@ -139,7 +156,7 @@ export function TseRegistryPanel() {
       }
       return true;
     });
-  }, [tseRegistries, selectedUf, selectedAgency, fundingType, searchTerm]);
+  }, [tseRegistries, selectedUf, selectedAgency, fundingType, selectedCargo, searchTerm]);
 
   // Paginação
   const totalPages = Math.ceil(filteredRegistries.length / itemsPerPage);
@@ -322,6 +339,19 @@ export function TseRegistryPanel() {
           </div>
 
           <div className="flex items-center space-x-2">
+            <button
+              onClick={() => {
+                setSelectedCargo(selectedCargo === "Presidente" ? "all" : "Presidente");
+                setCurrentPage(1);
+              }}
+              className={`text-xs px-3 py-1 rounded-full font-semibold border transition-colors w-fit ${
+                selectedCargo === "Presidente"
+                  ? "bg-blue-600 text-white border-blue-500"
+                  : "bg-slate-800 text-blue-300 border-slate-700 hover:border-blue-500"
+              }`}
+            >
+              Só Presidente ({presidentialCount})
+            </button>
             <span className="text-xs px-3 py-1 rounded-full bg-slate-800 text-slate-300 font-semibold border border-slate-700 w-fit">
               {filteredRegistries.length} de {tseRegistries.length} registros
             </span>
@@ -329,8 +359,8 @@ export function TseRegistryPanel() {
         </div>
 
         {/* Filtros da Tabela */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
-          
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
+
           {/* Busca Geral */}
           <div className="relative">
             <Search className="w-4 h-4 text-slate-400 absolute left-3 top-3" />
@@ -344,6 +374,26 @@ export function TseRegistryPanel() {
               }}
               className="w-full bg-slate-800/90 text-white text-xs rounded-xl pl-9 pr-3 py-2.5 border border-slate-700 focus:outline-none focus:border-blue-500 placeholder-slate-500"
             />
+          </div>
+
+          {/* Filtro por Cargo */}
+          <div className="flex items-center space-x-2 bg-slate-800/90 rounded-xl px-3 py-2 border border-slate-700 text-xs">
+            <UserCheck className="w-4 h-4 text-slate-400 shrink-0" />
+            <select
+              value={selectedCargo}
+              onChange={(e) => {
+                setSelectedCargo(e.target.value);
+                setCurrentPage(1);
+              }}
+              className="bg-transparent text-white font-medium focus:outline-none cursor-pointer w-full"
+            >
+              <option value="all" className="bg-slate-900 text-white">Todos os Cargos</option>
+              {uniqueCargos.map((cargo) => (
+                <option key={cargo} value={cargo} className="bg-slate-900 text-white">
+                  {cargo}
+                </option>
+              ))}
+            </select>
           </div>
 
           {/* Filtro por UF */}
@@ -412,6 +462,7 @@ export function TseRegistryPanel() {
               <tr>
                 <th className="py-3 px-3">Protocolo TSE</th>
                 <th className="py-3 px-3">UF</th>
+                <th className="py-3 px-3">Cargo</th>
                 <th className="py-3 px-3">Instituto Executor</th>
                 <th className="py-3 px-3">Contratante</th>
                 <th className="py-3 px-3">Amostra / Estatístico</th>
@@ -437,6 +488,19 @@ export function TseRegistryPanel() {
                     <span className="px-2 py-0.5 rounded font-mono text-[10px] font-bold bg-slate-800 text-slate-200 border border-slate-700">
                       {r.uf}
                     </span>
+                  </td>
+
+                  {/* Cargo */}
+                  <td className="py-3.5 px-3 whitespace-nowrap">
+                    {r.position?.includes("Presidente") ? (
+                      <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-blue-500/20 text-blue-300 border border-blue-500/30">
+                        Presidente
+                      </span>
+                    ) : (
+                      <span className="text-slate-400 text-[11px] truncate max-w-[140px] block" title={r.position}>
+                        {r.position || "-"}
+                      </span>
+                    )}
                   </td>
 
                   {/* Instituto Executor */}
@@ -558,7 +622,10 @@ export function TseRegistryPanel() {
                       {selectedRegistryModal.uf}
                     </span>
                   </h3>
-                  <p className="text-xs text-slate-400">Registro oficial no Tribunal Superior Eleitoral</p>
+                  <p className="text-xs text-slate-400">
+                    Registro oficial no Tribunal Superior Eleitoral
+                    {selectedRegistryModal.position && ` • Cargo: ${selectedRegistryModal.position}`}
+                  </p>
                 </div>
               </div>
 

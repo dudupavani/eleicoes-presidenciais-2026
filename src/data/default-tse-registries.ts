@@ -26,7 +26,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RAIMUNDO ADEMIR M. DE SOUZA / JORNAL DE NOTICIAS DA HORA",
+    "payerCnpj": "03340836000123"
   },
   {
     "protocol": "AC067872026",
@@ -48,7 +50,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Acre, com 16 anos ou mais. A coleta de dados será realizada por entrevistas presenciais (face a face) em 18 municípios do estado. As entrevistas presenciais serão conduzidas por entrevistadores devidamente trein",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "AC034662026",
@@ -70,7 +74,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada pesquisa quantitativa, com objetivo  de caracterizar a opinião política do público-alvo e quantificar a intenção de voto para as eleições Gerais de 2026. Para consecução da pesquisa, será aplicado questionário padrão survey 100% digital e geolocalizado contendo perguntas espontâneas e",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "E. A. DE CARVALHO E CIA LTDA. / AMBIENTA - SOLUCOES AMBIENTAIS",
+    "payerCnpj": "02521188000149"
   },
   {
     "protocol": "AC080982026",
@@ -92,7 +98,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada pesquisa quantitativa  , com objetivo  de caracterizar a opinião política do público-alvo e quantificar a intenção de voto para as eleições Gerais de 2026. Para consecução da pesquisa, será aplicado questionário padrão survey 100% digital e geolocalizado contendo perguntas espontâneas",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "E. A. DE CARVALHO E CIA LTDA. / AMBIENTA - SOLUCOES AMBIENTAIS",
+    "payerCnpj": "02521188000149"
   },
   {
     "protocol": "AC079002026",
@@ -114,7 +122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião por meio de um questionário estruturado aplicado no estado do Acre. Uma amostra representativa da população-alvo será criada usando a metodologia, que levará em consideração as informações demográficas e geográficas relevantes. A coleta de dados será realizada por me",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA / TV E RADIO JURUA",
+    "payerCnpj": "01020851000169"
   },
   {
     "protocol": "AC091062026",
@@ -136,7 +146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Acre. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "AC029782026",
@@ -158,7 +170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBAL PRESS LATINA LTDA / ALERTA CIDADE.COM",
+    "payerCnpj": "48439330000104"
   },
   {
     "protocol": "AC026582026",
@@ -180,7 +194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Acre, com 16 anos ou mais. A coleta de dados será realizada por entrevistas presenciais (face a face) em 18 municípios do estado. As entrevistas presenciais serão conduzidas por entrevistadores devidamente trein",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "AC010692026",
@@ -202,7 +218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "AC088822026",
@@ -224,7 +242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "AC072902026",
@@ -246,7 +266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza eleitoral, realizada em municípios representativos do Estado do Acre, mediante aplicação de questionário estruturado, com abordagem pessoal em pontos de fluxo e em domicílios.\nO conjunto da população eleitora dos municípios representativos, com idade igual ou super",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FREEMEDIA MARKETING DIGITAL LTDA / FREEMEDIA MARKETING DIGITAL",
+    "payerCnpj": "44691365000185"
   },
   {
     "protocol": "AC053872026",
@@ -268,7 +290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Acre, com 16 anos ou mais. A coleta de dados será realizada por meio de metodologia híbrida, combinando entrevistas presenciais (face a face) e telefônicas assistidas por computador (CATI - Computer Assisted Tel",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "AC078152026",
@@ -290,7 +314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Acre.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "AC 24 HORAS LTDA / AC 24 HORAS",
+    "payerCnpj": "13218533000196"
   },
   {
     "protocol": "AC083542026",
@@ -312,7 +338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "AC090562026",
@@ -334,7 +362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-AC com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "AC026992026",
@@ -356,7 +386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada pesquisa quantitativa, com objetivo  de caracterizar a opinião política do público-alvo e quantificar a intenção de voto para as eleições Gerais de 2026. Para consecução da pesquisa, será aplicado questionário padrão survey 100% digital e geolocalizado contendo perguntas espontâneas e",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "E. A. DE CARVALHO E CIA LTDA. / AMBIENTA - SOLUCOES AMBIENTAIS",
+    "payerCnpj": "02521188000149"
   },
   {
     "protocol": "AC083542026",
@@ -378,7 +410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "AC088162026",
@@ -400,7 +434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "AC011822026",
@@ -422,7 +458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Acre.",
-    "position": "Governador, Senador, Deputado Federal"
+    "position": "Governador, Senador, Deputado Federal",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "AC072342026",
@@ -444,7 +482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "AC033332026",
@@ -466,7 +506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "AC007702026",
@@ -488,7 +530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa a ser realizada em municípios representativos do Estado do Acre, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pe",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "AC016492026",
@@ -510,7 +554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião por meio de um questionário estruturado aplicado no no estado do Acre. Uma amostra representativa da população-alvo será criada usando a metodologia, que levará em consideração as informações demográficas e geográficas relevantes. A coleta de dados será realizada por",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA / TV E RADIO JURUA",
+    "payerCnpj": "01020851000169"
   },
   {
     "protocol": "AC099672026",
@@ -532,7 +578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-AC com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RAIMUNDO ADEMIR M. DE SOUZA / JORNAL DE NOTICIAS DA HORA",
+    "payerCnpj": "03340836000123"
   },
   {
     "protocol": "AC007182026",
@@ -554,7 +602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-AC com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "W.D COMERCIO E SERVICOS LTDA / W.D EMPREENDIMENTOS",
+    "payerCnpj": "65485452000156"
   },
   {
     "protocol": "AC031292026",
@@ -576,7 +626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, totalmente digital e geolocalizado, a",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DATA CONTROL INSTITUTO DE PESQUISA LTDA - ME",
+    "payerCnpj": "02170847000140"
   },
   {
     "protocol": "AC013992026",
@@ -598,7 +650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Acre.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "AC049142026",
@@ -620,7 +674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Acre (AC).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "AC094662026",
@@ -642,7 +698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, totalmente digital e geolocalizado, a",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO NOVO PERFIL PESQUISAS LTDA",
+    "payerCnpj": "44338241000110"
   },
   {
     "protocol": "AL033162026",
@@ -3424,7 +3482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA025812026",
@@ -3470,7 +3530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "BR036562026",
@@ -3492,7 +3554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Levantamento quantitativo, por meio de pesquisa individual, utilizando questionário estruturado e padronizado, junto à amostra representativa do eleitorado regional, com dados do TRE-SP, com base no total de eleitores da cidade de Santos, no litoral de SP, onde a pesquisa será realizada.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ENFOQUE ASSESSORIA DE COMUNICACAO INTEGRADA LTDA - ME",
+    "payerCnpj": "62292602000117"
   },
   {
     "protocol": "RN020472026",
@@ -3514,7 +3578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "QUALITTA EMPREEDIMENTOS LTDA",
+    "payerCnpj": "36461578000192"
   },
   {
     "protocol": "GO029012026",
@@ -3680,7 +3746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Paraná. ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR098852026",
@@ -3702,7 +3770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RN068552026",
@@ -3724,7 +3794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa possui caráter quantitativo e será realizada mediante aplicação de questionário estruturado e padronizado, composto por perguntas abertas, fechadas e de múltipla escolha, com o objetivo de aferir a opinião do eleitorado do Estado do Rio Grande do Norte acerca de temas políticos, ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AGORASEI PESQUISA LTDA",
+    "payerCnpj": "14263830000116"
   },
   {
     "protocol": "BR001362026",
@@ -3746,7 +3818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com realização de entrevistas pessoais e aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do estado do Amapá.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TIMES BRASIL MEDIA LTDA",
+    "payerCnpj": "51247041000118"
   },
   {
     "protocol": "BR087912026",
@@ -3768,7 +3842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR057142026",
@@ -3790,7 +3866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "SE060092026",
@@ -3908,7 +3986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Ceará. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "SP001422026",
@@ -3954,7 +4034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "RN053112026",
@@ -3976,7 +4058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "TV PONTA NEGRA LTDA",
+    "payerCnpj": "08713653000120"
   },
   {
     "protocol": "BR018942026",
@@ -3998,7 +4082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "PE000282026",
@@ -4020,7 +4106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "NIVALDO A. GALINDO FILHO / BLOG DO NII JUNIOR",
+    "payerCnpj": "07257404000104"
   },
   {
     "protocol": "BR086022026",
@@ -4042,7 +4130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PE033232026",
@@ -4064,7 +4154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, realizada por meio de questionário estruturado, aplicado via contatos telefônicos por entrevistadores treinados. O universo da pesquisa é composto pelo eleitorado do estado de Pernambuco, com 16 anos ou mais, que está com a situação eleitoral regular.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO ELIELSON LTDA / BLOG DO ELIELSON",
+    "payerCnpj": "28287999000110"
   },
   {
     "protocol": "ES068392026",
@@ -4110,7 +4202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI079102026",
@@ -4132,7 +4226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "MT056752026",
@@ -4178,7 +4274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será adotada a metodologia quantitativa do tipo ¿survey¿, com entrevistas pessoais, do tipo face-a-face, domiciliar ou em pontos de fluxo, por meio da utilização de questionário estruturado, sendo o universo representado pelos eleitores de UBERABA/MG.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "LIGRE PROPAGANDA LTDA / SOLIS PROPAGANDA",
+    "payerCnpj": "08600564000177"
   },
   {
     "protocol": "PR070342026",
@@ -4200,7 +4298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa adotará a metodologia quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político do Estado do Paraná, permitindo ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA KARINA LTDA / EDITORA KARINA",
+    "payerCnpj": "81912818000182"
   },
   {
     "protocol": "MA076872026",
@@ -4270,7 +4370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PB083532026",
@@ -4292,7 +4394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CAMPINA GRANDE.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "RN047542026",
@@ -4314,7 +4418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio Grande do Norte.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO FM CIDADE DO SOL LTDA",
+    "payerCnpj": "08514036000103"
   },
   {
     "protocol": "PI034622026",
@@ -4336,7 +4442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR079962026",
@@ -4358,7 +4466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de BAYEUX/PB.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "PB092192026",
@@ -4380,7 +4490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de BAYEUX/PB.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "BR069352026",
@@ -4402,7 +4514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será adotada metodologia quantitativa do tipo survey, com realização de entrevistas presenciais, face a face, em domicílios e em pontos de fluxo, mediante aplicação de questionário estruturado. O universo da pesquisa é composto pelo conjunto de eleitores e eleitoras do Brasil com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONFEDERACAO NACIONAL DO TRANSPORTE",
+    "payerCnpj": "00721183000134"
   },
   {
     "protocol": "GO044912026",
@@ -4448,7 +4562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados, de acordo com a definição do IBGE ¿ Instituto Brasileiro de Geografia e Estatística. O conjunto do eleitorado da Região do ABC Paulista, n",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "BR060482026",
@@ -4470,7 +4586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "PA045332026",
@@ -4492,7 +4610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Pará.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FEDERACAO DAS ASSOCIACOES COMERCIAIS E EMPRESARIAIS DO PARA - FACIAPA",
+    "payerCnpj": "04869202000125"
   },
   {
     "protocol": "PA008992026",
@@ -4514,7 +4634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE março/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "BR035622026",
@@ -4536,7 +4658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado da Paraíba (PB).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "MG021092026",
@@ -4606,7 +4730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR039652026",
@@ -4628,7 +4754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa caracteriza-se como um estudo científico quantitativo, de natureza amostral, realizado por meio de entrevistas pessoais domiciliares, sem utilização de pontos de fluxo. A coleta de dados foi realizada mediante aplicação de questionário estruturado a uma amostra representativa do eleitorad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "BR049562026",
@@ -4650,7 +4778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR014952026",
@@ -4672,7 +4802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com técnica de survey de opinião, consistindo de entrevistas individuais pessoais de forma presencial em residência \"inloco\" definidas conforme a proporcionalidade de eleitores de cada região e município de Mato Grosso por meio do método PPT (probabilidade proporcional ao taman",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CBA TV ABERTA DE COMUNICACAO LTDA / O DOC COMUNICACAO",
+    "payerCnpj": "32105564000185"
   },
   {
     "protocol": "BR076012026",
@@ -4694,7 +4826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "NASSAU EDITORA RADIO E TV LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "27065150000130"
   },
   {
     "protocol": "SE026822026",
@@ -4764,7 +4898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "DF097962026",
@@ -4786,7 +4922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR087762026",
@@ -4808,7 +4946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "MG064752026",
@@ -4878,7 +5018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "NIVALDO A. GALINDO FILHO / BLOG DO NII JUNIOR",
+    "payerCnpj": "07257404000104"
   },
   {
     "protocol": "BR077012026",
@@ -4900,7 +5042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR060052026",
@@ -4922,7 +5066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE julho/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "MS071902026",
@@ -5016,7 +5162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Espírito",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SA ESTADO DE MINAS",
+    "payerCnpj": "17247933000180"
   },
   {
     "protocol": "PI044882026",
@@ -5038,7 +5186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de JAICÓS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 3 estágios com abordagem aleatória si",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "GUILHERME BENTO SOARES",
+    "payerCnpj": "03134472333"
   },
   {
     "protocol": "TO010562026",
@@ -5108,7 +5258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN020952026",
@@ -5130,7 +5282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa possui natureza quantitativa e utilizou, como instrumento de coleta, um questionário estruturado, aplicado a uma amostra representativa de eleitores residentes em domicílios de municípios do Rio Grande do Norte. As entrevistas foram realizadas de forma individual e presencial, no formato ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DATAVERO PESQUISA E CONSULTORIA LTDA",
+    "payerCnpj": "43941908000102"
   },
   {
     "protocol": "PA012722026",
@@ -5152,7 +5306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR089262026",
@@ -5174,7 +5330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Roraima.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "BR019272026",
@@ -5196,7 +5354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado de Pernambuco, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangê",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "PI022942026",
@@ -5218,7 +5378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa ocorreu por meio de amostragem por cotas de sexo, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. As entrevistas foram residencial e individuais. Coleta dos dados realizada por meio de TABLET/SMARTPHONE.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "J C S HOLANDA  LTDA / JC COMUNICACAO",
+    "payerCnpj": "07961379000145"
   },
   {
     "protocol": "RJ065802026",
@@ -5240,7 +5402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado em uma amostra da população residente no município de Macaé (RJ), com idade igual ou superior a 16 anos, selecionada por cotas amostrais controladas, proporcionais por bairro/locali",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "RJ COMUNICACAO E GESTAO LTDA / RJINTERIOR COMUNICACAO",
+    "payerCnpj": "44550792000143"
   },
   {
     "protocol": "CE092772026",
@@ -5286,7 +5450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO048942026",
@@ -5332,7 +5498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa adotará a metodologia quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político do Estado do Paraná, permitindo ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA KARINA LTDA / EDITORA KARINA",
+    "payerCnpj": "81912818000182"
   },
   {
     "protocol": "RJ076612026",
@@ -5354,7 +5522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas (URA), junto a uma parcela representativa do eleitorado do município de Angra dos Reis, Estado do Rio de Janeiro.",
-    "position": "Governador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Deputado Federal, Deputado Estadual",
+    "payerName": "PROGRESSISTAS-RIO DE JANEIRO-RJ-ESTADUAL",
+    "payerCnpj": "08810753000174"
   },
   {
     "protocol": "RO090682026",
@@ -5376,7 +5546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR015532026",
@@ -5398,7 +5570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR006092026",
@@ -5420,7 +5594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de JOÃO PESSOA.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR093462026",
@@ -5442,7 +5618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza amostral, realizada no município de Caicó, Estado do Rio Grande do Norte, tendo como população-alvo os eleitores regularmente inscritos e aptos a votar no município. O universo eleitoral de referência é de 45.294 eleitores, conforme os dados oficiais do Tribunal Su",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GISELLE MURIELLE QUEIROZ DE AZEVEDO",
+    "payerCnpj": "22516570000171"
   },
   {
     "protocol": "BR044882026",
@@ -5464,7 +5642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa:\nPesquisa quantitativa, que consiste na realização de entrevistas via telefone/celular com sistema (CATI -Computer Assisted Telephone Interviewing que significa Entrevista Telefónica Assistida por Computador.), com a aplicação de questionário estruturado junto a uma amostra r",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TRANSAMERICA DE SAO PAULO LTDA",
+    "payerCnpj": "44060192000105"
   },
   {
     "protocol": "TO043782026",
@@ -5510,7 +5690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio Grande do Sul.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "SE018162026",
@@ -5556,7 +5738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com técnica de survey de opinião, consistindo de entrevistas individuais pessoais de forma presencial em residência \"inloco\" definidas conforme a proporcionalidade de eleitores de cada bairro e região de Rondonópolis por meio do método PPT (probabilidade proporcional ao tamanho",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MCS COMUNICACOES LTDA / PAINEL DIARIO",
+    "payerCnpj": "46340190000197"
   },
   {
     "protocol": "BR072902026",
@@ -5578,7 +5762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "MT050422026",
@@ -5624,7 +5810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa cobrirá o município envolvendo todas regiões do município de Várzea Paulista/SP Universo da pesquisa será dos eleitores com 16 anos ou mais. A amostra representará os eleitores do Município, selecionados em 2(dois) estágios. No primeiro estágio, os setores censitários, onde as entrevistas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CNV COMERCIO E SERVICOS DE PRODUTOS PARA EDUCACAO LTDA / CNV EDUCACIONAL",
+    "payerCnpj": "13837135000158"
   },
   {
     "protocol": "BR071542026",
@@ -5646,7 +5834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa caracteriza-se como um estudo científico quantitativo, de natureza amostral, realizado por meio de entrevistas pessoais domiciliares, sem utilização de pontos de fluxo. A coleta de dados foi realizada mediante aplicação de questionário estruturado a uma amostra representativa do eleitorad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "MT062412026",
@@ -5692,7 +5882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa quantitativa de opinião pública, do tipo survey, a ser realizada no Distrito Federal por meio de entrevistas pessoais presenciais, com aplicação face a face junto a eleitores residentes nas áreas definidas para o estudo.\nA coleta de dados será executada com questionário estruturado, aplicad",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "PODEMOS DISTRITO FEDERAL - DF - ESTADUAL / PTN - DF",
+    "payerCnpj": "20329974000120"
   },
   {
     "protocol": "RN066482026",
@@ -5714,7 +5906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "MT065442026",
@@ -5760,7 +5954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "PB069922026",
@@ -5782,7 +5978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de JOÃO PESSOA.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "DF013262026",
@@ -5804,7 +6002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR061882026",
@@ -5826,7 +6026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "BR009762026",
@@ -5848,7 +6050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado do estado da Bahia.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "63.721.370 LUANA MOREIRA MARTINS",
+    "payerCnpj": "63721370000138"
   },
   {
     "protocol": "BR056722026",
@@ -5870,7 +6074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do Piauí foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV RADIO CLUBE DE TERESINA SA",
+    "payerCnpj": "06847495000175"
   },
   {
     "protocol": "RN098622026",
@@ -5892,7 +6098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "PARLA MENTORS CONSULTORIA LTDA",
+    "payerCnpj": "61407109000132"
   },
   {
     "protocol": "BR005302026",
@@ -5914,7 +6122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, com abrangencia :\t\t\t\t\t\t\tESPIRITO SANTO\t\t, contempla eleitores \nresidentes nas zonas urbana e rural, por intermedo de entrevistar presenciais, aplicada tanto em domicilio quanto em ponto de fluxo \t\t\t\t\t\t\t\t\t\npopulacional como (vias publicas, c",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BDC COMUNICACOES LTDA",
+    "payerCnpj": "23895081000130"
   },
   {
     "protocol": "PB006362026",
@@ -5936,7 +6146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político e administrativo do estado da PARAÍBA, ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INDICE INTELIGENCIA LTDA",
+    "payerCnpj": "13539940000103"
   },
   {
     "protocol": "PB037482026",
@@ -5958,7 +6170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado da Paraíba (PB).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR073352026",
@@ -5980,7 +6194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio Grande do Norte.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM CIDADE DO SOL LTDA",
+    "payerCnpj": "08514036000103"
   },
   {
     "protocol": "BR051212026",
@@ -6002,7 +6218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa possui natureza quantitativa e utilizou, como instrumento de coleta, um questionário estruturado, aplicado a uma amostra representativa de eleitores residentes em domicílios de municípios do Rio Grande do Norte. As entrevistas foram realizadas de forma individual e presencial, no formato ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DATAVERO PESQUISA E CONSULTORIA LTDA",
+    "payerCnpj": "43941908000102"
   },
   {
     "protocol": "PI042432026",
@@ -6024,7 +6242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de TERESINA PI e que no momento da pesquisa se encontrava na sua residência. Trata-se de uma pesquisa face a face, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória simples atra",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "RJ029452026",
@@ -6046,7 +6266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do Rio de Janeiro foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "RJ029452026",
@@ -6068,7 +6290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do Rio de Janeiro foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "RS047902026",
@@ -6090,7 +6314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "SE053182026",
@@ -6208,7 +6434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE junho/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "BR017842026",
@@ -6230,7 +6458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RJ094982026",
@@ -6252,7 +6482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MT062322026",
@@ -6298,7 +6530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "MT048462026",
@@ -6368,7 +6602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "MT002752026",
@@ -6414,7 +6650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "QUALITTA EMPREEDIMENTOS LTDA",
+    "payerCnpj": "36461578000192"
   },
   {
     "protocol": "PI080812026",
@@ -6436,7 +6674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no estado do PIAUÍ, sendo a coleta dos dados realizada por meio de SMARTPHO",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "BR009682026",
@@ -6458,7 +6698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "SE009792026",
@@ -6504,7 +6746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia da pesquisa é quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político e administrativo do Estado da Paraíba",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INTELIGENCIA.COM SERVICOS LTDA / FONTE 83",
+    "payerCnpj": "51990064000118"
   },
   {
     "protocol": "PE015282026",
@@ -6526,7 +6770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "PE015282026",
@@ -6548,7 +6794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "RN022772026",
@@ -6570,7 +6818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais (domiciliares e em lugares preestabelecidos de fluxo populacional), presenciais e de interação face a face, com aplicação de questionário estruturado e abordagem junto a uma amostra representativa do eleitorado do e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA OESTE DE COMUNICACAO LTDA / TCM TV CABO MOSSORO",
+    "payerCnpj": "00713377000198"
   },
   {
     "protocol": "SP010612026",
@@ -6616,7 +6866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de VILA NOVA DO PIAUÍ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "LAURO MARCELO VIEIRA ANDRADE",
+    "payerCnpj": "05553793378"
   },
   {
     "protocol": "BR098232026",
@@ -6638,7 +6890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOTA JORNALISMO S/A",
+    "payerCnpj": "21050733000100"
   },
   {
     "protocol": "RO031122026",
@@ -6660,7 +6914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR097142026",
@@ -6682,7 +6938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma presencial utilizando questionário estruturado junto a uma amostra representativa do eleitorado SERGIPE",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO JORNAL FM A VOZ DO POVO DE ARACAJU SERGIPE LTDA / RADIO JORNAL FM A VOZ DO POVO DE ARACAJU",
+    "payerCnpj": "34333507000189"
   },
   {
     "protocol": "RO043692026",
@@ -6704,7 +6962,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR065962026",
@@ -6726,7 +6986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é survey quantitativo online por questionário estruturado com amostragem não-probabilística, baseada em recrutamento por meio de anúncios em plataformas de redes sociais, controlada por cotas de sexo, faixa etária e geografia, e com os dados submetidos a ajuste de pesos itera",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PALVER CONSULTORIA E DESENVOLVIMENTO TECNOLOGICO LTDA.",
+    "payerCnpj": "41522141000151"
   },
   {
     "protocol": "SC031922026",
@@ -6772,7 +7034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR051822026",
@@ -6794,7 +7058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa e será realizada por meio de entrevistas presenciais, individuais, com questionário estruturado e padronizado, aplicadas em pontos de fluxo distribuídos entre áreas urbanas e rurais dos municípios de Pelotas, Canguçu, Capão do Leão, Jaguarão, Arroio do Padre e São Lourenço ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EVA FRANCIELI DE SOUZA PEREIRA",
+    "payerCnpj": "37524035000130"
   },
   {
     "protocol": "PI033172026",
@@ -6816,7 +7082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de SUSSUAPARA (PI). Sendo a coleta dos dados realizada por meio",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "MOURA & LEAL COMUNICACAO E MARKETING LTDA / PORTAL PICOS 40 GRAUS",
+    "payerCnpj": "23863083000148"
   },
   {
     "protocol": "SP069642026",
@@ -6862,7 +7130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa realizada por meio de entrevistas, com aplicação de questionário estruturado a uma amostra representativa do eleitorado em estudo. A pesquisa foi conduzida no Estado do Rio Grande do Sul (RS).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "VERITAS PLANEJAMENTO E ASSESSORIA LTDA",
+    "payerCnpj": "27844225000180"
   },
   {
     "protocol": "BR058642026",
@@ -6884,7 +7154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR062362026",
@@ -6906,7 +7178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa caracteriza-se como um estudo científico quantitativo, de natureza amostral, realizado por meio de entrevistas pessoais domiciliares, sem utilização de pontos de fluxo. A coleta de dados foi realizada mediante aplicação de questionário estruturado a uma amostra representativa do eleitorad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE RIO FM LTDA / REDE RIO FM",
+    "payerCnpj": "39966766000160"
   },
   {
     "protocol": "BR080632026",
@@ -6928,7 +7202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Goiás. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR005762026",
@@ -6950,7 +7226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do São Paulo com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR012552026",
@@ -6972,7 +7250,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de Rondônia.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "C. GOMES MARKETING",
+    "payerCnpj": "23854801000110"
   },
   {
     "protocol": "BR082462026",
@@ -6994,7 +7274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado do Distrito Federal.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "SE053172026",
@@ -7040,7 +7322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR054082026",
@@ -7062,7 +7346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "SP069692026",
@@ -7132,7 +7418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de Minas Gerais com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "RN093072026",
@@ -7154,7 +7442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é do tipo quantitativa e será realizada mediante entrevistas presenciais domiciliares com aplicação de questionário estruturado junto a eleitores residentes no Estado do Rio Grande do Norte, aptos ao exercício do voto na data da coleta.\nA coleta dos dados será realizada por entrevistadore",
-    "position": "Senador, Deputado Federal, Deputado Estadual"
+    "position": "Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "RN034682026",
@@ -7176,7 +7466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "QUALITTA EMPREEDIMENTOS LTDA",
+    "payerCnpj": "36461578000192"
   },
   {
     "protocol": "GO013082026",
@@ -7222,7 +7514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa científica quantitativa, amostral, do tipo Survey, consistindo em entrevistas pessoais domiciliares, com aplicação de questionário estruturado junto a uma amostra representativa, com distribuição proporcional ao tamanho da população das regiões e  municípios de Sergipe.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "BR090482026",
@@ -7244,7 +7538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Mato Grosso (MT).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR000642026",
@@ -7266,7 +7562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa será do tipo quantitativo, por amostragem aleatória, com aplicação de questionário estruturado e abordagem de moradores eleitores nos municípios do estado de Goias, divididos nas regiões dentro do estado. O conjunto da população do Estado de Goias com 16 anos ou mais e que são votantes no",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ASSOCIACAO DAS EMPRESAS DE ENGENHARIA E LIMPEZA URBANA DO BRASIL / ALUBRAS",
+    "payerCnpj": "43310149000180"
   },
   {
     "protocol": "BR098182026",
@@ -7288,7 +7586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Minas Ge",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "MA063072026",
@@ -7334,7 +7634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa científica quantitativa, amostral, do tipo Survey, consistindo em entrevistas pessoais domiciliares, com aplicação de questionário estruturado junto a uma amostra representativa, com distribuição proporcional ao tamanho da população dos municípios de Sergipe.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "SP041872026",
@@ -7404,7 +7706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MT000882026",
@@ -7474,7 +7778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais (domiciliares e em lugares preestabelecidos de fluxo populacional), presenciais e de interação face a face, com aplicação de questionário estruturado e abordagem junto a uma amostra representativa do eleitorado do e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA OESTE DE COMUNICACAO LTDA / TCM TV CABO MOSSORO",
+    "payerCnpj": "00713377000198"
   },
   {
     "protocol": "MG034902026",
@@ -7520,7 +7826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Paraná. ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR078452026",
@@ -7542,7 +7850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "SP049562026",
@@ -7588,7 +7898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "BR055732026",
@@ -7610,7 +7922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira de Tocantins a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasil",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FEDERACAO DAS ASSOCIACOES DAS RADIOS COMUNITARIAS DO ESTADO DO TOCANTINS / FARCOM-TO",
+    "payerCnpj": "22688387000153"
   },
   {
     "protocol": "RO058932026",
@@ -7632,7 +7946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa que consiste na realização de entrevistas pessoais com a aplicação de\nquestionário estruturado junto a uma amostra representativa do eleitorado (16 anos e +) e\nvotante no Estado de Rondônia (RO).",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BRASIL DADOS INTELIGENCIA EM DADOS E SOLUCOES E PESQUISAS LTDA",
+    "payerCnpj": "19812752000185"
   },
   {
     "protocol": "BR034792026",
@@ -7654,7 +7970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Espírito",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A GAZETA DO ESPIRITO SANTO RADIO E TV LTDA / TV GAZETA",
+    "payerCnpj": "27063726000120"
   },
   {
     "protocol": "BR038102026",
@@ -7676,7 +7994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Pernambu",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR046052026",
@@ -7698,7 +8018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR051142026",
@@ -7720,7 +8042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas através de pesquisa telefônica, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores do Estado de Goias.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR090282026",
@@ -7742,7 +8066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "GO020322026",
@@ -7788,7 +8114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Goiás.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PI067852026",
@@ -7810,7 +8138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR089892026",
@@ -7832,7 +8162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "CE056822026",
@@ -7878,7 +8210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta presencial domiciliar via questionário estruturado, aplicado por entrevistadores treinados, com seleção probabilística de municípios, setores censitários e domicílios, e pós-estratificação da amostra de acordo com as características do eleitorado do Maranhão.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TV DIFUSORA DO MARANHAO LTDA",
+    "payerCnpj": "06275598000108"
   },
   {
     "protocol": "PI030842026",
@@ -7900,7 +8234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de PAES LANDIM PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatór",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JOSE DIAMANTINO DELMONDES",
+    "payerCnpj": "32048987842"
   },
   {
     "protocol": "BR086122026",
@@ -7922,7 +8258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RBS PARTICIPACOES S A / TELEVISAO GAUCHA S.A.",
+    "payerCnpj": "68737857000203"
   },
   {
     "protocol": "GO017012026",
@@ -8016,7 +8354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará (CE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR019012026",
@@ -8038,7 +8378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população de Tocantins a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado com acesso a tele",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FEDERACAO DAS ASSOCIACOES DAS RADIOS COMUNITARIAS DO ESTADO DO TOCANTINS / FARCOM-TO",
+    "payerCnpj": "22688387000153"
   },
   {
     "protocol": "SE065362026",
@@ -8084,7 +8426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RBS PARTICIPACOES S A / TELEVISAO GAUCHA S.A.",
+    "payerCnpj": "68737857000203"
   },
   {
     "protocol": "BR037612026",
@@ -8106,7 +8450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Paraná. ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SOCIEDADE RADIO EMISSORA PARANAENSE SA / TV PARANAENSE, REDE PARANAENSE",
+    "payerCnpj": "76494806000145"
   },
   {
     "protocol": "BR083542026",
@@ -8128,7 +8474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN008762026",
@@ -8150,7 +8498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TELEVISAO CABUGI LTDA / TV CABUGI",
+    "payerCnpj": "10704625000198"
   },
   {
     "protocol": "BR034912026",
@@ -8172,7 +8522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado de PB.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "PE002972026",
@@ -8194,7 +8546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa face a face, realizada através de entrevistas pessoais nas quais é aplicado um questionário estruturado. As pessoas entrevistadas constituem uma amostra representativa do eleitorado para o qual se pretende generalizar os resultados obtidos, ou seja, o eleitorado do estado de Pe",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA FOLHA DE PERNAMBUCO LTDA / FOLHA DE PERNAMBUCO",
+    "payerCnpj": "01935632000100"
   },
   {
     "protocol": "BR084922026",
@@ -8216,7 +8570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PA073152026",
@@ -8238,7 +8594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE abril/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Deputado Federal, Deputado Estadual"
+    "position": "Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "RO011862026",
@@ -8260,7 +8618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey 100% digital, aplicado via WhatsApp, c",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "INSTITUTO NOVO PERFIL PESQUISAS LTDA",
+    "payerCnpj": "44338241000110"
   },
   {
     "protocol": "PB085792026",
@@ -8282,7 +8642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da unidade da federação. Assim como em sua parte conceitual, a pesquisa foi realizada no município de Rio Tinto, do ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR079892026",
@@ -8304,7 +8666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, domiciliares e em pontos de fluxo, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada, no caso eleitores do Município de Parnamirim/RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "VIA CERTA NATAL COMUNICACAO DIGITAL LTDA / VIA CERTA NATAL",
+    "payerCnpj": "60941319000143"
   },
   {
     "protocol": "PB011182026",
@@ -8326,7 +8690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Paraíba.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PA006362026",
@@ -8348,7 +8714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Pará com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando todo o ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "CE099712026",
@@ -8418,7 +8786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, totalmente digital e geolocalizado, a",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DATA CONTROL INSTITUTO DE PESQUISA LTDA - ME",
+    "payerCnpj": "02170847000140"
   },
   {
     "protocol": "BR008222026",
@@ -8440,7 +8810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com técnica de survey de opinião, consistindo de entrevistas individuais pessoais de forma presencial em residência \"inloco\" definidas conforme a proporcionalidade de eleitores de cada região e município de Mato Grosso por meio do método PPT (probabilidade proporcional ao taman",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CBA TV ABERTA DE COMUNICACAO LTDA / O DOC COMUNICACAO",
+    "payerCnpj": "32105564000185"
   },
   {
     "protocol": "BR036882026",
@@ -8462,7 +8834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MG003662026",
@@ -8508,7 +8882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "CE041222026",
@@ -8554,7 +8930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR038682026",
@@ -8576,7 +8954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, tipo survey, de opinião pública, a ser realizada junto ao eleitorado do estado da Bahia (população de 16 anos ou mais apta a votar nesta eleição), com aplicação de questionários estruturados e padronizados. As entrevistas são pessoais e domiciliares, com realização em pontos d",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ALVES QUATRO ASSESSORIA DE COMUNICACAO LTDA / ALVES QUATRO",
+    "payerCnpj": "11523951000161"
   },
   {
     "protocol": "DF013252026",
@@ -8598,7 +8978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "SEDEK SERVICOS, TECNOLOGIA & INFORMACAO LTDA / SEDEK",
+    "payerCnpj": "14750877000104"
   },
   {
     "protocol": "SE041672026",
@@ -8668,7 +9050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba no município d",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR031132026",
@@ -8690,7 +9074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião por meio de um questionário estruturado aplicado no no estado do Acre. Uma amostra representativa da população-alvo será criada usando a metodologia, que levará em consideração as informações demográficas e geográficas relevantes. A coleta de dados será realizada por",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA / TV E RADIO JURUA",
+    "payerCnpj": "01020851000169"
   },
   {
     "protocol": "RS096402026",
@@ -8712,7 +9098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR062552026",
@@ -8734,7 +9122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Espírito",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A GAZETA DO ESPIRITO SANTO RADIO E TV LTDA / TV GAZETA",
+    "payerCnpj": "27063726000120"
   },
   {
     "protocol": "PB038852026",
@@ -8756,7 +9146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no  Estado da Paraíba, no município",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "SE076392026",
@@ -8802,7 +9194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Estado de Goiás.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL RECORD NEWS",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "TO080982026",
@@ -8872,7 +9266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR067202026",
@@ -8894,7 +9290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de São Paulo com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando to",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "PI091172026",
@@ -8916,7 +9314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "ES076032026",
@@ -9010,7 +9410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa possui natureza quantitativa e utilizou, como instrumento de coleta, um questionário estruturado, aplicado a uma amostra representativa de eleitores residentes de municípios do Rio Grande do Norte. As entrevistas foram realizadas de forma individual e presencial no formato face a face, ut",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "TL COMUNICACAO E MARKETING LTDA",
+    "payerCnpj": "42930940000120"
   },
   {
     "protocol": "BR053092026",
@@ -9032,7 +9434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO LIBERAL SA / TELEVISAO LIBERAL",
+    "payerCnpj": "04832721000119"
   },
   {
     "protocol": "SE084322026",
@@ -9078,7 +9482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com aplicação de questionário estruturado e padronizado realizado por meio de entrevistas pessoais. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado pernambucano com acesso a telefonia fixa e móvel. Todas as entrevist",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "MARIA GORETTI BORBA DA CUNHA / MGBCUNHA",
+    "payerCnpj": "24996087000167"
   },
   {
     "protocol": "MG037972026",
@@ -9124,7 +9530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO090032026",
@@ -9170,7 +9578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE024612026",
@@ -9216,7 +9626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Intervalo de confiança: 95%.\nMargem de erro máxima estimada: 2,5 pontos percentuais para mais ou para menos Pesquisa quantitativa de opinião pública survey, realizada por meio de entrevistas pessoais presenciais (face a face), aplicadas em domicílios localizados nas Regiões Administrativas do Distri",
-    "position": "Deputado Federal, Deputado Distrital"
+    "position": "Deputado Federal, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "CE011492026",
@@ -9262,7 +9674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturado junto a uma amostra representativa do eleitorado em estudo. Eleitorado do município de Sertânia",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "BR089002026",
@@ -9284,7 +9698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "BR045402026",
@@ -9306,7 +9722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RN062762026",
@@ -9328,7 +9746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE054452026",
@@ -9446,7 +9866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR010552026",
@@ -9468,7 +9890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião por meio de um questionário estruturado aplicado no estado do Acre. Uma amostra representativa da população-alvo será criada usando a metodologia, que levará em consideração as informações demográficas e geográficas relevantes. A coleta de dados será realizada por me",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA CRUZEIRENSE DE TELEC DE RADIO E TV LTDA / TV E RADIO JURUA",
+    "payerCnpj": "01020851000169"
   },
   {
     "protocol": "BR090782026",
@@ -9490,7 +9914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "BR036212026",
@@ -9512,7 +9938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado de Presidente Prudente, Est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "TO044652026",
@@ -9558,7 +9986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR044032026",
@@ -9580,7 +10010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ERIVALDO TRINDADE DE ARAUJO",
+    "payerCnpj": "10307514000148"
   },
   {
     "protocol": "BR003412026",
@@ -9602,7 +10034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "BR027432026",
@@ -9624,7 +10058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO061862026",
@@ -9670,7 +10106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio de J",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR024452026",
@@ -9692,7 +10130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "PB098802026",
@@ -9714,7 +10154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "PR033992026",
@@ -9736,7 +10178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "SEDEK SERVICOS, TECNOLOGIA & INFORMACAO LTDA / SEDEK",
+    "payerCnpj": "14750877000104"
   },
   {
     "protocol": "BR066292026",
@@ -9758,7 +10202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR088702026",
@@ -9780,7 +10226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Bahia. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO BAHIA S.A. / TV BAHIA",
+    "payerCnpj": "13425269000161"
   },
   {
     "protocol": "SP058622026",
@@ -9850,7 +10298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MS030772026",
@@ -9896,7 +10346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO085092026",
@@ -9942,7 +10394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE julho/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "BR071842026",
@@ -9964,7 +10418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Acre, com 16 anos ou mais. A coleta de dados será realizada por entrevistas presenciais (face a face) em 18 municípios do estado. As entrevistas presenciais serão conduzidas por entrevistadores devidamente trein",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "BR053372026",
@@ -9986,7 +10442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa possui natureza quantitativa e utilizou, como instrumento de coleta, um questionário estruturado, aplicado a uma amostra representativa de eleitores residentes de municípios do Rio Grande do Norte. As entrevistas foram realizadas de forma individual e presencial no formato face a face, ut",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DATAVERO PESQUISA E CONSULTORIA LTDA",
+    "payerCnpj": "43941908000102"
   },
   {
     "protocol": "PI095652026",
@@ -10008,7 +10466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR029122026",
@@ -10030,7 +10490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR024102026",
@@ -10052,7 +10514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DON7 MEDIA LTDA / DON7 MEDIA",
+    "payerCnpj": "40950269000153"
   },
   {
     "protocol": "DF083032026",
@@ -10074,7 +10538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL 9 ZONA ELEITORAL - DF - REGIONAL (DF) / PL 9 ZONAL - DF",
+    "payerCnpj": "57952980000140"
   },
   {
     "protocol": "SC058462026",
@@ -10120,7 +10586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR035332026",
@@ -10142,7 +10610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "PI027302026",
@@ -10164,7 +10634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "BR037422026",
@@ -10186,7 +10658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J C CHAVES CARNEIRO / BLOG DO JESO",
+    "payerCnpj": "18804432000110"
   },
   {
     "protocol": "MA098852026",
@@ -10232,7 +10706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de PAULISTANA PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatóri",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "RN072402026",
@@ -10254,7 +10730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa tipo quantitativa em municípios representativos do Estado do Rio Grande do Norte com aplicação de questionário estruturado, abordagem pessoal/em ponto de fluxo e domiciliar. O conjunto da população eleitora dos município representativos com 16 anos ou mais foi tomado como universo da pesqui",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "TO022512026",
@@ -10300,7 +10778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR034732026",
@@ -10322,7 +10802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Pernambu",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR043202026",
@@ -10344,7 +10826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Assim como em sua parte conceitual a pesquisa será realizada em municípios no Estado da Bahia, subdividido por 07 Mesorregiões.  Mesorregião Vale São Franciscano da Bahia, Mesorregião Nordeste Baiano, Mesorregião Centro-Norte Baiano, Mesorregião Metropolitana de Salvador, Mesorregião Sul Baiano, Mes",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "S2R COMUNICACAO LTDA / BAHIA NOTICIAS",
+    "payerCnpj": "08259692000107"
   },
   {
     "protocol": "CE076452026",
@@ -10390,7 +10874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO FUTURO E PRODUCOES LTDA / TELEVISAO FUTURO",
+    "payerCnpj": "10786149000100"
   },
   {
     "protocol": "BR042422026",
@@ -10412,7 +10898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "NASSAU EDITORA RADIO E TV LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "27065150000130"
   },
   {
     "protocol": "MT037732026",
@@ -10458,7 +10946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR079092026",
@@ -10480,7 +10970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa tipo quantitativa em municípios representativos do Estado do Rio Grande do Norte com aplicação de questionário estruturado, abordagem pessoal/em ponto de fluxo e domiciliar. O conjunto da população eleitora dos município representativos com 16 anos ou mais foi tomado como universo da pesqui",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "PR011662026",
@@ -10502,7 +10994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR095542026",
@@ -10524,7 +11018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR003622026",
@@ -10546,7 +11042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI081982026",
@@ -10568,7 +11066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa foi realizada por meio de amostragem por cotas proporcionais, com seleção aleatória dos entrevistados dentro de cada cota, considerando as variáveis gênero, faixa etária, grau de instrução e nível econômico, de modo a refletir a composição sociodemográfica do eleitorado do município de PI",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "RAIMUNDO ALVES FILHO",
+    "payerCnpj": "09766677387"
   },
   {
     "protocol": "BR024162026",
@@ -10590,7 +11090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do BRASIL com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "BR067982026",
@@ -10612,7 +11114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. A população do estado de São Paulo, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "GO020582026",
@@ -10658,7 +11162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma CATI/FONE utilizando questionário estruturado junto a uma amostra representativa do eleitorado de BRASÍLIA¿ DF.\r\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação do ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "BR043152026",
@@ -10680,7 +11186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR002112026",
@@ -10702,7 +11210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RJ005422026",
@@ -10724,7 +11234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PR085702026",
@@ -10746,7 +11258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RN071952026",
@@ -10768,7 +11282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "MT068462026",
@@ -10838,7 +11354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de DOM EXPEDITO LOPES PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ABIMAEL JOSE DO NASCIMENTO LIMA",
+    "payerCnpj": "02902272324"
   },
   {
     "protocol": "BR031452026",
@@ -10860,7 +11378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a \r\numa amostra representativa do eleitorado do Distrito Federal.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "PI032452026",
@@ -10882,7 +11402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "SP091012026",
@@ -10928,7 +11450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR099642026",
@@ -10950,7 +11474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pernambuco (PE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "TO018432026",
@@ -10996,7 +11522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR081862026",
@@ -11018,7 +11546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI043022026",
@@ -11040,7 +11570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR027782026",
@@ -11062,7 +11594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores residentes e aptos a votar no ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FM NORDESTE LTDA. / FM NORDESTE",
+    "payerCnpj": "08562027000180"
   },
   {
     "protocol": "PE099442026",
@@ -11084,7 +11618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pernambuco (PE).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "DF036412026",
@@ -11106,7 +11642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia Survey com amostra presencial face a face, com amostra auto ponderada, com distribuição baseada no censo populacional DF 2022 do IBGE",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "BR079702026",
@@ -11128,7 +11666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PB088262026",
@@ -11150,7 +11690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR006152026",
@@ -11172,7 +11714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com realização de entrevistas pessoais e presenciais, mediante aplicação de questionário estruturado a uma amostra representativa de eleitores com 16 anos ou mais residentes no Estado de Mato Grosso do Sul. A coleta de dados será realizada por entrevistadore",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CAMPO GRANDE NOTICIAS LTDA / CAMPO GRANDE NEWS LTDA",
+    "payerCnpj": "07364083000147"
   },
   {
     "protocol": "BR016562026",
@@ -11194,7 +11738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Paraná. ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR089082026",
@@ -11216,7 +11762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RO001822026",
@@ -11238,7 +11786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RS020542026",
@@ -11260,7 +11810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com a realização de entrevistas pessoais e presenciais, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Rio Grande do Sul.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO METHODUS ANALISE DE MERCADO SOCIEDADE SIMPLES LIMITADA",
+    "payerCnpj": "00853528000103"
   },
   {
     "protocol": "PE076112026",
@@ -11282,7 +11834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "RS053382026",
@@ -11304,7 +11858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa realizada por meio de entrevistas, com aplicação de questionário estruturado a uma amostra representativa do eleitorado em estudo. A pesquisa foi conduzida no Estado do Rio Grande do Sul (RS).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "VERITAS PLANEJAMENTO E ASSESSORIA LTDA",
+    "payerCnpj": "27844225000180"
   },
   {
     "protocol": "SE051982026",
@@ -11350,7 +11906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR045502026",
@@ -11372,7 +11930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A pesquisa tem como população-alvo eleitores residentes no Estado do Rio Grande do Norte, aptos ao voto, conforme cadastro eleitoral do Tribunal Superior Eleitoral (TSE), totalizando 2.649.282 eleitores, conforme cadastro eleitoral do TSE atualizado em 12.09.2025.\r\n1.\tABRANGÊNCIA E REPRESENTATIVIDAD",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "SE086082026",
@@ -11418,7 +11978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio de J",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "GO020702026",
@@ -11464,7 +12026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "MG059112026",
@@ -11510,7 +12074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de Paraná com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "RJ089772026",
@@ -11532,7 +12098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "CE004182026",
@@ -11578,7 +12146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE097802026",
@@ -11624,7 +12194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado da Paraiba.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "RN040972026",
@@ -11646,7 +12218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR030242026",
@@ -11668,7 +12242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de São Paulo com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "GO087742026",
@@ -11738,7 +12314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais e pelo sistema CAT (Computer Assisted Telephone Interviewing), utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR082542026",
@@ -11760,7 +12338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "RN085952026",
@@ -11782,7 +12362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizou como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas foram aplicadas com eleitores de 16 anos acima, residentes em",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "TV PONTA NEGRA LTDA",
+    "payerCnpj": "08713653000120"
   },
   {
     "protocol": "BR042762026",
@@ -11804,7 +12386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado de todas as unidades da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO007342026",
@@ -11850,7 +12434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Paraná. ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR040312026",
@@ -11872,7 +12458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado do Amazonas, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR036582026",
@@ -11894,7 +12482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "RN055622026",
@@ -11916,7 +12506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa é do tipo quantitativa, com aplicação de entrevistas estruturadas, destinada a mensurar a intenção de voto e a opinião pública do eleitorado do Estado do Rio Grande do Norte.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "35.883.673 JOSE VANDERLUCIO VARELA FILHO",
+    "payerCnpj": "35883673000111"
   },
   {
     "protocol": "BR093812026",
@@ -11938,7 +12530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa tipo quantitativa em municípios representativos do Estado do Rio Grande do Norte com aplicação de questionário estruturado, abordagem pessoal/em ponto de fluxo e domiciliar. O conjunto da população eleitora dos município representativos com 16 anos ou mais foi tomado como universo da pesqui",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "GO020442026",
@@ -11984,7 +12578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas via telefone/celular com sistema (CATI -Computer Assisted Telephone Interviewing que significa Entrevista Telefónica Assistida por Computador.), com a aplicação de questionário estruturado junto a uma amostra representativa do eleitora",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ALFA INTELIGENCIA E SERVICOS DE SOFTWARE E OPINIAO S/A",
+    "payerCnpj": "22400349000153"
   },
   {
     "protocol": "BR032432026",
@@ -12006,7 +12602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR059472026",
@@ -12028,7 +12626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Acre.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR066382026",
@@ -12050,7 +12650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR030932026",
@@ -12072,7 +12674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MG099272026",
@@ -12118,7 +12722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR056862026",
@@ -12140,7 +12746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Minas Gerais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR040892026",
@@ -12162,7 +12770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "PB097462026",
@@ -12184,7 +12794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CABEDELO.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR085212026",
@@ -12206,7 +12818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "RN048462026",
@@ -12228,7 +12842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "CE075502026",
@@ -12274,7 +12890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR007892026",
@@ -12296,7 +12914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Amapá (AP).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RJ020022026",
@@ -12318,7 +12938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "BR042562026",
@@ -12340,7 +12962,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será adotada metodologia quantitativa do tipo survey, com realização de entrevistas presenciais, face a face, em domicílios e em pontos de fluxo, mediante aplicação de questionário estruturado. O universo da pesquisa é composto pelo conjunto de eleitores e eleitoras do Brasil com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONFEDERACAO NACIONAL DO TRANSPORTE",
+    "payerCnpj": "00721183000134"
   },
   {
     "protocol": "BR029212026",
@@ -12362,7 +12986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de RONDÔNIA, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "PB000572026",
@@ -12384,7 +13010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA / PB AGORA",
+    "payerCnpj": "10574821000195"
   },
   {
     "protocol": "RR017972026",
@@ -12430,7 +13058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, 100% digital e geolocalizado, aplicad",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JACIMAR SERVICOS DE COMUNICACOES LTDA / ANTENA FM",
+    "payerCnpj": "07131381000197"
   },
   {
     "protocol": "PI035552026",
@@ -12452,7 +13082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de PICOS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória sim",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "MG037312026",
@@ -12522,7 +13154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "MA098462026",
@@ -12592,7 +13226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR017982026",
@@ -12614,7 +13250,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SP043732026",
@@ -12660,7 +13298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por mesorregião, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do eleitorad",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "PI052142026",
@@ -12682,7 +13322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "GRAFICA E EDITORA CULTURA DO SABER LTDA",
+    "payerCnpj": "05665428000177"
   },
   {
     "protocol": "BR089712026",
@@ -12704,7 +13346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de amostragem probabilística estratificada por região do estado, com seleção aleatória de entrevistados dentro de cada estrato. As entrevistas são conduzidas por meio de contatos telefônicos a partir de base de números, com distribuição proporcional à popula",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "O2 SOLUCOES LTDA / PLANOB SOLUCOES",
+    "payerCnpj": "45677863000136"
   },
   {
     "protocol": "RN010452026",
@@ -12726,7 +13370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "SP089392026",
@@ -12772,7 +13418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, domiciliares e em pontos de fluxo, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada, no caso eleitores do Município de Parnamirim/RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VIA CERTA NATAL COMUNICACAO DIGITAL LTDA / VIA CERTA NATAL",
+    "payerCnpj": "60941319000143"
   },
   {
     "protocol": "BR056712026",
@@ -12794,7 +13442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa possui caráter quantitativo e será realizada mediante aplicação de questionário estruturado e padronizado, composto por perguntas abertas, fechadas e de múltipla escolha, com o objetivo de aferir a opinião do eleitorado do Estado do Rio Grande do Norte acerca de temas políticos, ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO NATAL REIS MAGOS LTDA",
+    "payerCnpj": "08459968000192"
   },
   {
     "protocol": "PB087962026",
@@ -12816,7 +13466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba, no município ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PI097512026",
@@ -12838,7 +13490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "MG099802026",
@@ -12908,7 +13562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de Paraná com 16 anos ou mais.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "GO004112026",
@@ -12954,7 +13610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado do Espírito Santo, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BDC COMUNICACOES LTDA",
+    "payerCnpj": "23895081000130"
   },
   {
     "protocol": "RJ004372026",
@@ -12976,7 +13634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa Quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado (16 e +) e votante no Município de ESTADO DO RJ.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "PORTAL DIARIO DO R I O REVISTA ELETRONICA LTDA / DIARIO DO RIO OU DIARIO DO RIO DE JANEIRO",
+    "payerCnpj": "24336010000160"
   },
   {
     "protocol": "BR068332026",
@@ -12998,7 +13658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "CE079352026",
@@ -13044,7 +13706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO TRANSAMERICA DE SAO PAULO LTDA",
+    "payerCnpj": "44060192000105"
   },
   {
     "protocol": "BR054992026",
@@ -13066,7 +13730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PB012882026",
@@ -13088,7 +13754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba, no município ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PA011792026",
@@ -13110,7 +13778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa quantitativa adota o método de levantamento estatístico por amostragem, com a realização de entrevistas pessoais e individuais, conduzidas por meio de questionário estruturado. A coleta de dados ocorre de forma presencial em domicílios e pontos de fluxo, assegurando a abrangência",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "A R CAMPOS DE SOUZA / BLOG DO JK",
+    "payerCnpj": "24498758000160"
   },
   {
     "protocol": "PB028072026",
@@ -13132,7 +13802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da unidade da federação do estado da Paraíba. Assim como em sua parte conceitual a pesquisa realizada nos municípios",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PA069642026",
@@ -13154,7 +13826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE janeiro/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleiçã",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "BR033692026",
@@ -13176,7 +13850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "BR019022026",
@@ -13198,7 +13874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de São Paulo (SP).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN077082026",
@@ -13220,7 +13898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores residentes e aptos a votar no ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FM NORDESTE LTDA. / FM NORDESTE",
+    "payerCnpj": "08562027000180"
   },
   {
     "protocol": "RN064222026",
@@ -13242,7 +13922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa tipo quantitativa em municípios representativos do Estado do Rio Grande do Norte com aplicação de questionário estruturado, abordagem pessoal/em ponto de fluxo e domiciliar. O conjunto da população eleitora dos município representativos com 16 anos ou mais foi tomado como universo da pesqui",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "BR066072026",
@@ -13264,7 +13946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR070652026",
@@ -13286,7 +13970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR070652026",
@@ -13308,7 +13994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EDITORA GLOBO S/A / EDITORA GLOBO",
+    "payerCnpj": "04067191000160"
   },
   {
     "protocol": "PB045832026",
@@ -13330,7 +14018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA / PB AGORA",
+    "payerCnpj": "10574821000195"
   },
   {
     "protocol": "BR050042026",
@@ -13352,7 +14042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE015892026",
@@ -13398,7 +14090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza eleitoral, realizada em municípios representativos do Estado do Rio Grande do Norte, mediante aplicação de questionário estruturado, com abordagem pessoal em pontos de fluxo e em domicílios. O conjunto da população eleitora dos municípios representativos, com idade",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "BR036362026",
@@ -13420,7 +14114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR004992026",
@@ -13442,7 +14138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR005742026",
@@ -13464,7 +14162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Maranhão.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "RO067782026",
@@ -13486,7 +14186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, 100% digital e geolocalizado, aplicad",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO NOVO PERFIL PESQUISAS LTDA",
+    "payerCnpj": "44338241000110"
   },
   {
     "protocol": "RO003622026",
@@ -13508,7 +14210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião pública eleitoral com metodologia quantitativa, com a realização de entrevistas presenciais individuais em pontos de maior fluxo de pessoas, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de Rondônia.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "C. GOMES MARKETING",
+    "payerCnpj": "23854801000110"
   },
   {
     "protocol": "PI069082026",
@@ -13530,7 +14234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "GO019812026",
@@ -13576,7 +14282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FOLHA DO LITORAL NEWS LTDA / FOLHA DO LITORAL NEWS",
+    "payerCnpj": "16619945000126"
   },
   {
     "protocol": "DF049362026",
@@ -13598,7 +14306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, do tipo survey, com entrevistas pessoais e presenciais, realizadas por entrevistadores treinados junto a uma amostra representativa do eleitorado do Distrito Federal com 16 anos ou mais. O questionário é estruturado e aplicado em tablet, por meio do aplicativo Survey to Go (Do",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SA CORREIO BRAZILIENSE / CORREIO BRAZILIENSE",
+    "payerCnpj": "00001172000180"
   },
   {
     "protocol": "BR040832026",
@@ -13620,7 +14330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Paraíba.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR030622026",
@@ -13642,7 +14354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR029042026",
@@ -13664,7 +14378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa; Amostral; Entrevistas individuais por telefone por meio de questionários estruturados. Universo: Eleitores brasileiros; 157.846.602 eleitores (unidade amostral) em junho de 2026 (TSE). https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleitor-eleitorado-mensal/home?p0_pais=Brasil&s",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO INDEXA PESQUISAS LTDA",
+    "payerCnpj": "10340949000194"
   },
   {
     "protocol": "BR085432026",
@@ -13686,7 +14402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com técnica de survey de opinião, consistindo de entrevistas individuais pessoais de forma presencial em residência \"inloco\" definidas conforme a proporcionalidade de eleitores de cada região e município de Mato Grosso por meio do método PPT (probabilidade proporcional ao taman",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PERCENT PESQUISA DE MERCADO E OPINIAO LTDA",
+    "payerCnpj": "10544202000158"
   },
   {
     "protocol": "RN002962026",
@@ -13708,7 +14426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "PI032432026",
@@ -13730,7 +14450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de SÃO RAIMUNDO NONATO PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR031742026",
@@ -13752,7 +14474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR017992026",
@@ -13774,7 +14498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Amazonas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "ES074852026",
@@ -13868,7 +14594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. A população do estado de Pernambuco, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REDE NORDESTE DE COMUNICACAO LTDA / RADIO CBN RADIO MIX",
+    "payerCnpj": "24462152000255"
   },
   {
     "protocol": "PB066392026",
@@ -13890,7 +14618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da unidade da federação. Assim como em sua parte conceitual, a pesquisa foi realizada no município de Sapé, do estad",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR030742026",
@@ -13912,7 +14642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-AC com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "PR062542026",
@@ -13934,7 +14666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "PI004702026",
@@ -13956,7 +14690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR090112026",
@@ -13978,7 +14714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Espirito Santo (ES).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR088332026",
@@ -14000,7 +14738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Goiás (GO).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "MG068972026",
@@ -14046,7 +14786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Mato Grosso do Sul (MS).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO055142026",
@@ -14092,7 +14834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "PA038002026",
@@ -14114,7 +14858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "BR051192026",
@@ -14136,7 +14882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado do Estado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "BR009622026",
@@ -14158,7 +14906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO COSTA DO SOL LTDA",
+    "payerCnpj": "35008325000103"
   },
   {
     "protocol": "GO023952026",
@@ -14204,7 +14954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PI041542026",
@@ -14226,7 +14978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de AMARANTE(PI), sendo a coleta dos dados realizada por meio de",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR066242026",
@@ -14248,7 +15002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa quantitativa foi realizada por amostragem, utilizando questionários estruturados aplicados em pontos de fluxo ou domicílios, com abordagem feita por tablet ou smartphone.\r\nO universo da pesquisa foi composto pelo eleitorado do estado do Amazonas, com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DCASTRO COMUNICACAO E MARKETING LTDA",
+    "payerCnpj": "11642489000111"
   },
   {
     "protocol": "SP027062026",
@@ -14294,7 +15050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizou como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas foram aplicadas com eleitores de 16 anos acima, residentes em",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV PONTA NEGRA LTDA",
+    "payerCnpj": "08713653000120"
   },
   {
     "protocol": "RJ064002026",
@@ -14316,7 +15074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "RJ099752026",
@@ -14338,7 +15098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "PI082302026",
@@ -14360,7 +15122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FUNDACAO 14 DE AGOSTO / TV COSTA NORTE",
+    "payerCnpj": "04577064000100"
   },
   {
     "protocol": "PE066882026",
@@ -14382,7 +15146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, realizada por meio de questionário estruturado, aplicado via contatos telefônicos por entrevistadores treinados. O universo da pesquisa é composto pelo eleitorado do estado de Pernambuco, com 16 anos ou mais, que está com a situação eleitoral regular.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO ELIELSON LTDA / BLOG DO ELIELSON",
+    "payerCnpj": "28287999000110"
   },
   {
     "protocol": "ES051812026",
@@ -14476,7 +15242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Bahia.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA EDITORA A TARDE S A / A TARDE",
+    "payerCnpj": "15111297000130"
   },
   {
     "protocol": "PR053882026",
@@ -14498,7 +15266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Paraná. ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "SOCIEDADE RADIO EMISSORA PARANAENSE SA / TV PARANAENSE, REDE PARANAENSE",
+    "payerCnpj": "76494806000145"
   },
   {
     "protocol": "MS077062026",
@@ -14544,7 +15314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Minas Gerais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR043962026",
@@ -14566,7 +15338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Minas Gerais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR064592026",
@@ -14588,7 +15362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Espírito Santo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PI095082026",
@@ -14610,7 +15386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR052252026",
@@ -14632,7 +15410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "BR080452026",
@@ -14654,7 +15434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "BR000592026",
@@ -14676,7 +15458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "BR055202026",
@@ -14698,7 +15482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR085232026",
@@ -14720,7 +15506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa que envolverá a condução de entrevistas pessoais por meio da aplicação de um questionário estruturado junto a uma amostra representativa do eleitorado em análise. A Pesquisa terá abrangência no Município de Cabo Frio, localizado no Estado do Rio de Janeiro (RJ).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FACTUM COMUNICACAO LTDA",
+    "payerCnpj": "38168812000113"
   },
   {
     "protocol": "MG039462026",
@@ -14766,7 +15554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR078782026",
@@ -14788,7 +15578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa será do tipo quantitativo, por amostragem aleatória, com aplicação de questionário estruturado e abordagem de moradores eleitores nos municípios do estado do Mato Grosso, divididos nas regiões dentro do estado. O conjunto da população do Estado do Mato Grosso com 16 anos ou mais e que são",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EDINA RIBEIRO DE ARAUJO LTDA / MAIS COMUNICAO E MARKETING",
+    "payerCnpj": "09446522000196"
   },
   {
     "protocol": "BR044962026",
@@ -14810,7 +15602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR044962026",
@@ -14832,7 +15626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "GO082702026",
@@ -14878,7 +15674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando todo o territó",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR030462026",
@@ -14900,7 +15698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Acre.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR057822026",
@@ -14922,7 +15722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Metodologia da pesquisa: \r\nA presente pesquisa quantitativa adota o método de levantamento estatístico por amostragem, com a realização de entrevistas pessoais e individuais, conduzidas por meio de questionário estruturado. A coleta de dados ocorre de forma presencial em domicílios e pontos de fluxo",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A R CAMPOS DE SOUZA / BLOG DO JK",
+    "payerCnpj": "24498758000160"
   },
   {
     "protocol": "BR093532026",
@@ -14944,7 +15746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PI086562026",
@@ -14966,7 +15770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR071602026",
@@ -14988,7 +15794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Santa Ca",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "NC COMUNICACOES SA",
+    "payerCnpj": "79227963001235"
   },
   {
     "protocol": "BR044682026",
@@ -15010,7 +15818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "SE052622026",
@@ -15056,7 +15866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, realizada por meio de entrevistas telefônicas automatizadas, com utilização de questionário estruturado. O universo da pesquisa corresponde aos eleitores com 16 anos de idade ou mais, residentes e aptos a votar no estado do Rio Grande do Norte. A participação dos entrevistados",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RN NEGOCIOS EDITORA LTDA / NOVO JORNALISMO",
+    "payerCnpj": "09535322000100"
   },
   {
     "protocol": "TO073172026",
@@ -15150,7 +15962,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PB010022026",
@@ -15172,7 +15986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de ITAPOROROCA.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR063302026",
@@ -15194,7 +16010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PI056582026",
@@ -15216,7 +16034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de MIGUEL ALVES (PI). Sendo a coleta dos dados realizada por me",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "MS088892026",
@@ -15286,7 +16106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pará (PA).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PR089922026",
@@ -15308,7 +16130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, com amostragem por quotas representativas do eleitorado (Gênero, faixa etária, escolaridade, renda nominal mensal domiciliar, e bairros) do município de Londrina-PR. (Fonte de dados: TSE e IBGE) para os cargos de governador, senador, deputados federal e estadual, atrav",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO SONDA SERVICOS DE PESQUISA E PUBLICIDADE LTDA",
+    "payerCnpj": "36938497000130"
   },
   {
     "protocol": "GO034282026",
@@ -15354,7 +16178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR084252026",
@@ -15376,7 +16202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "BR065592026",
@@ -15398,7 +16226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. A população do estado de Pernambuco, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE NORDESTE DE COMUNICACAO LTDA / RADIO CBN RADIO MIX",
+    "payerCnpj": "24462152000255"
   },
   {
     "protocol": "ES067222026",
@@ -15444,7 +16274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR027612026",
@@ -15466,7 +16298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "RO020122026",
@@ -15488,7 +16322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em  municípios representativos do Estado de RONDÔNIA, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR048432026",
@@ -15510,7 +16346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Mato Grosso do Sul.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR056352026",
@@ -15532,7 +16370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto de eleitores do estado do Ceará foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA O POVO S A / JORNAL O POVO",
+    "payerCnpj": "07222565000162"
   },
   {
     "protocol": "BR038112026",
@@ -15554,7 +16394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Espírito Santo (ES).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR094262026",
@@ -15576,7 +16418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SP069462026",
@@ -15646,7 +16490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "BR071282026",
@@ -15668,7 +16514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "DF094332026",
@@ -15690,7 +16538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado do Distrito Federal.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "GO076832026",
@@ -15760,7 +16610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR044092026",
@@ -15782,7 +16634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa do eleitorado a partir dos 16 anos, sendo a coleta dos dados realizada por",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "WERICK AMERICA DOS SANTOS  LTDA / PORTAL TV AMERICA",
+    "payerCnpj": "13893542000182"
   },
   {
     "protocol": "RN032522026",
@@ -15804,7 +16658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO055532026",
@@ -15850,7 +16706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa ocorreu por meio de amostragem por cotas de sexo, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. As entrevistas foram residencial e individuais. Coleta dos dados realizada por meio de TABLET/SMARTPHONE.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J C S HOLANDA  LTDA / JC COMUNICACAO",
+    "payerCnpj": "07961379000145"
   },
   {
     "protocol": "SP003782026",
@@ -15896,7 +16754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. A população do estado de Pernambuco, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REDE NORDESTE DE COMUNICACAO LTDA / RADIO CBN RADIO MIX",
+    "payerCnpj": "24462152000255"
   },
   {
     "protocol": "PE063442026",
@@ -15918,7 +16778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "NIVALDO A. GALINDO FILHO / BLOG DO NII JUNIOR",
+    "payerCnpj": "07257404000104"
   },
   {
     "protocol": "PI010532026",
@@ -15940,7 +16802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "TO003202026",
@@ -16010,7 +16874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "TO009482026",
@@ -16080,7 +16946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade selecionada e que no momento da pesquisa se encontrava na zona urbana (centro e adjacências) ou rural (comunidades próximas a cidade). Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "GO058562026",
@@ -16126,7 +16994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturado junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "SC086072026",
@@ -16172,7 +17042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "BR070042026",
@@ -16194,7 +17066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Amapá.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "PI040642026",
@@ -16216,7 +17090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de CAMPO MAIOR(PI), sendo a coleta dos dados realizada por meio",
-    "position": "Senador, Deputado Federal, Deputado Estadual"
+    "position": "Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "PI040642026",
@@ -16238,7 +17114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de CAMPO MAIOR(PI), sendo a coleta dos dados realizada por meio",
-    "position": "Senador, Deputado Federal, Deputado Estadual"
+    "position": "Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "BR005052026",
@@ -16260,7 +17138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DON7 MEDIA LTDA / DON7 MEDIA",
+    "payerCnpj": "40950269000153"
   },
   {
     "protocol": "BR016372026",
@@ -16282,7 +17162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA072112026",
@@ -16328,7 +17210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade selecionada e que no momento dapesquisa se encontrava na zona urbana (centro e adjacências) ou rural (comunidades próximas a cidade).Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR008782026",
@@ -16350,7 +17234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL / MDB",
+    "payerCnpj": "00676213000138"
   },
   {
     "protocol": "BR079742026",
@@ -16372,7 +17258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR050672026",
@@ -16394,7 +17282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de Minas Gerais com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR082332026",
@@ -16416,7 +17306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "DF005592026",
@@ -16438,7 +17330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO041492026",
@@ -16484,7 +17378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "MOVIMENTO DEMOCRATICO BRASILEIRO - BRASIL - BR - NACIONAL / MDB",
+    "payerCnpj": "00676213000138"
   },
   {
     "protocol": "TO066452026",
@@ -16530,7 +17426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Amapá.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "TO067002026",
@@ -16576,7 +17474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SP001062026",
@@ -16622,7 +17522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DON7 MEDIA LTDA / DON7 MEDIA",
+    "payerCnpj": "40950269000153"
   },
   {
     "protocol": "BR049482026",
@@ -16644,7 +17546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada pesquisa quantitativa  , com objetivo  de caracterizar a opinião política do público-alvo e quantificar a intenção de voto para as eleições Gerais de 2026. Para consecução da pesquisa, será aplicado questionário padrão survey 100% digital e geolocalizado contendo perguntas espontâneas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "E. A. DE CARVALHO E CIA LTDA. / AMBIENTA - SOLUCOES AMBIENTAIS",
+    "payerCnpj": "02521188000149"
   },
   {
     "protocol": "PB052802026",
@@ -16666,7 +17570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da unidade da federação. Assim como em sua parte conceitual, a pesquisa foi realizada no município de Mari, do estad",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "DF040632026",
@@ -16688,7 +17594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia Survey com amostra presencial face a face, com amostra auto ponderada, com distribuição baseada no censo populacional DF 2022 do IBGE",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "PB005922026",
@@ -16710,7 +17618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político e administrativo do estado da PARAÍBA, ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INDICE INTELIGENCIA LTDA",
+    "payerCnpj": "13539940000103"
   },
   {
     "protocol": "CE001512026",
@@ -16756,7 +17666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Rio Grande do Sul (RS).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO033242026",
@@ -16898,7 +17810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal"
+    "position": "Governador, Senador, Deputado Federal",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR078752026",
@@ -16920,7 +17834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "BR008352026",
@@ -16942,7 +17858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais,\r\ndomiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de\r\nquestionários estruturados a uma amostra representativa da população votante de 16 anos\r\nou mais residente no Brasil. O desen",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR091232026",
@@ -16964,7 +17882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, do tipo Survey, com realização de entrevistas diretas, por meio da aplicação de questionário estruturado, em uma amostra significativa da população em estudo, composta pelo eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO RECORD S.A",
+    "payerCnpj": "60628369000680"
   },
   {
     "protocol": "GO043682026",
@@ -17034,7 +17954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR074072026",
@@ -17056,7 +17978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa a ser realizada em municípios representativos do Estado do Acre, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pe",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "GO008542026",
@@ -17126,7 +18050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pernambuco (PE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PA040892026",
@@ -17148,7 +18074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pará (PA).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR058092026",
@@ -17170,7 +18098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "GO009762026",
@@ -17216,7 +18146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa realizada no município de Belém. Pesquisa do tipo quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do eleitorado do município de Belém/Pa.\r\nAs informações de campo serão coletadas atravé",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DIARIOS DO PARA LTDA",
+    "payerCnpj": "04218335000131"
   },
   {
     "protocol": "GO018952026",
@@ -17286,7 +18218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Rio de Janeiro (RJ).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "DF031992026",
@@ -17308,7 +18242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas através de pesquisa telefônica, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL RECORD NEWS",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "SE096042026",
@@ -17354,7 +18290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado da Paraiba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR050442026",
@@ -17376,7 +18314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Minas Gerais (MG).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR065102026",
@@ -17398,7 +18338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica, realizada através de \r\nentrevistas a pessoas nas quais é aplicado um questionário estruturado. Essas pessoas \r\nconstituem uma amostra representativa dos eleitores do estado de São Paulo, com acesso \r\nà rede telefônica fixa (na residência ou no trabalho) e a telefone",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SINDICATO DA MICRO E PEQUENA INDUSTRIA DO TIPO ARTESANAL DO ESTADO DE SAO PAULO / SIMPI",
+    "payerCnpj": "60262425000109"
   },
   {
     "protocol": "SE056882026",
@@ -17444,7 +18386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Pará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FEDERACAO DAS ASSOCIACOES COMERCIAIS E EMPRESARIAIS DO PARA - FACIAPA",
+    "payerCnpj": "04869202000125"
   },
   {
     "protocol": "BR060872026",
@@ -17466,7 +18410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Espírito Santo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR002492026",
@@ -17488,7 +18434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR015132026",
@@ -17510,7 +18458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada pesquisa quantitativa  , com objetivo  de caracterizar a opinião política do público-alvo e quantificar a intenção de voto para as eleições Gerais de 2026. Para consecução da pesquisa, será aplicado questionário padrão survey 100% digital e geolocalizado contendo perguntas espontâneas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "E. A. DE CARVALHO E CIA LTDA. / AMBIENTA - SOLUCOES AMBIENTAIS",
+    "payerCnpj": "02521188000149"
   },
   {
     "protocol": "MG027702026",
@@ -17556,7 +18506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A pesquisa foi realizada por meio de amostragem por cotas proporcionais aleatórias, considerando as variáveis gênero, faixa etária, grau de instrução e nível econômico dos entrevistados, de modo a refletir a composição sociodemográfica do eleitorado do município de Parnaíba?PI. A coleta dos dados oc",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "RAIMUNDO ALVES FILHO",
+    "payerCnpj": "09766677387"
   },
   {
     "protocol": "RN099602026",
@@ -17578,7 +18530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa da população em estudo, que teve como objetivo fornecer um panorama político e administrativo no estado do Rio Grande do Norte, ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO RANKING DE PESQUISA LTDA",
+    "payerCnpj": "51751580000190"
   },
   {
     "protocol": "MA012772026",
@@ -17648,7 +18602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR071392026",
@@ -17670,7 +18626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada pesquisa quantitativa  , com objetivo  de caracterizar a opinião política do público-alvo e quantificar a intenção de voto para as eleições Gerais de 2026. Para consecução da pesquisa, será aplicado questionário padrão survey 100% digital e geolocalizado contendo perguntas espontâneas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "E. A. DE CARVALHO E CIA LTDA. / AMBIENTA - SOLUCOES AMBIENTAIS",
+    "payerCnpj": "02521188000149"
   },
   {
     "protocol": "GO079822026",
@@ -17716,7 +18674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Rio Grande do Sul (RS).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RS052162026",
@@ -17738,7 +18698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio Grande do Sul com 16 anos ou mais.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR045672026",
@@ -17760,7 +18722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PB039802026",
@@ -17782,7 +18746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "MA069472026",
@@ -17828,7 +18794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PR074862026",
@@ -17850,7 +18818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia da pesquisa será quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político do Estado do Paraná, permitindo a ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INCO - EDITORA DIARIO INDUSTRIA E COMERCIO LTDA / INCO",
+    "payerCnpj": "09570162000130"
   },
   {
     "protocol": "BR078402026",
@@ -17872,7 +18842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é do tipo quantitativa e será realizada mediante entrevistas presenciais domiciliares com aplicação de questionário estruturado junto a eleitores residentes no Estado do Rio Grande do Norte, aptos ao exercício do voto na data da coleta.\nA coleta dos dados será realizada por entrevistadore",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "BR081332026",
@@ -17894,7 +18866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Nota 1: Pode ocorrer que o total da linha não corresponda exatamente ao somatório das células individuais devido ao arredondamento computacional. No entanto, essas diferenças são compensadas em outras linhas, sem perda da representatividade da amostra. É normal que algumas células apresentem mais en",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA DE COMUNICACAO VALE DO IPOJUCA LTDA / GRUPO VANGUARDA",
+    "payerCnpj": "65419705000193"
   },
   {
     "protocol": "BR010842026",
@@ -17916,7 +18890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do BRASIL com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "SP034632026",
@@ -17962,7 +18938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores aptos a votar em municípios do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "METADATA SOLUCOES INTELIGENTES LTDA",
+    "payerCnpj": "41744280000120"
   },
   {
     "protocol": "SE047182026",
@@ -18008,7 +18986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa possui natureza quantitativa e utilizou, como instrumento de coleta, um questionário estruturado, aplicado a uma amostra representativa de eleitores residentes de municípios do Rio Grande do Norte. As entrevistas foram realizadas de forma individual e presencial no formato face a face, ut",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DATAVERO PESQUISA E CONSULTORIA LTDA",
+    "payerCnpj": "43941908000102"
   },
   {
     "protocol": "GO030622026",
@@ -18054,7 +19034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do Rio de Janeiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR084482026",
@@ -18076,7 +19058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do Rio de Janeiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "RS081072026",
@@ -18098,7 +19082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio Grande do Sul com 16 anos ou mais.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "RN040282026",
@@ -18120,7 +19106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores aptos a votar em municípios do",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "METADATA SOLUCOES INTELIGENTES LTDA",
+    "payerCnpj": "41744280000120"
   },
   {
     "protocol": "CE051392026",
@@ -18166,7 +19154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "ES053362026",
@@ -18212,7 +19202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SP052632026",
@@ -18282,7 +19274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e por abordagem face to face nas regiões urbanas da cidade de Manaus e dos Municípios da amostra.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "N.C. DE SOUZA LTDA / BRASIL NORTE COMUNICACAO",
+    "payerCnpj": "23745434000116"
   },
   {
     "protocol": "PI062522026",
@@ -18304,7 +19298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "RJ062412026",
@@ -18326,7 +19322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "BR083852026",
@@ -18348,7 +19346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR019602026",
@@ -18370,7 +19370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI003272026",
@@ -18392,7 +19394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de ELESBÃO VELOSO (PI). Sendo a coleta dos dados realizada por ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "RN022672026",
@@ -18414,7 +19418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio Grande do Norte.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO FM CIDADE DO SOL LTDA",
+    "payerCnpj": "08514036000103"
   },
   {
     "protocol": "RS033002026",
@@ -18436,7 +19442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio Grande do Sul com 16 anos ou mais.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "GO073902026",
@@ -18482,7 +19490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de LUZILÂNDIA PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatóri",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "RR060082026",
@@ -18528,7 +19538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de São Paulo foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR071852026",
@@ -18550,7 +19562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de São Paulo foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR089142026",
@@ -18572,7 +19586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "MA044992026",
@@ -18618,7 +19634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio de Janeiro com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, consideran",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR006952026",
@@ -18640,7 +19658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa será do tipo quantitativo, por amostragem aleatória, com aplicação de questionário estruturado e abordagem de moradores eleitores nos municípios do estado da Bahia, divididos nas regiões dentro do estado, em pontos estratégicos de fluxo de pessoal dos municípios e por visitas às residênci",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "LAIS CRISTINA RODRIGUES DE OLIVEIRA LTDA",
+    "payerCnpj": "64500153000180"
   },
   {
     "protocol": "GO013402026",
@@ -18686,7 +19706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO038752026",
@@ -18732,7 +19754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "PI084012026",
@@ -18754,7 +19778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de SÃO GONÇALO DO PIAUÍ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordage",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PE053792026",
@@ -18776,7 +19802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PB093782026",
@@ -18798,7 +19826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa utiliza metodologia quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político e administrativo do Estado da Para",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INDICE INTELIGENCIA LTDA",
+    "payerCnpj": "13539940000103"
   },
   {
     "protocol": "BR087132026",
@@ -18820,7 +19850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de amostragem probabilística estratificada por região do estado, com seleção aleatória de entrevistados dentro de cada estrato. As entrevistas são conduzidas por meio de contatos telefônicos a partir de base de números, com distribuição proporcional à popula",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "O2 SOLUCOES LTDA / PLANOB SOLUCOES",
+    "payerCnpj": "45677863000136"
   },
   {
     "protocol": "SP046792026",
@@ -18866,7 +19898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será adotada metodologia quantitativa do tipo survey, com realização de entrevistas presenciais, face a face, em domicílios e em pontos de fluxo, mediante aplicação de questionário estruturado. O universo da pesquisa é composto pelo conjunto de eleitores e eleitoras do Brasil com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONFEDERACAO NACIONAL DO TRANSPORTE",
+    "payerCnpj": "00721183000134"
   },
   {
     "protocol": "RN038772026",
@@ -18888,7 +19922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "BR000942026",
@@ -18910,7 +19946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Minas Gerais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO SAO JOAO DEL REI LTDA",
+    "payerCnpj": "24726960000100"
   },
   {
     "protocol": "BR040702026",
@@ -18932,7 +19970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR006622026",
@@ -18954,7 +19994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados, Superintendência de Desenvolvimento Urbano ¿ SDU e Superintendência de Desenvolvimento Rural ¿ SDR . Entrevistas domiciliares e individuais",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "ES050962026",
@@ -19024,7 +20066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio de Janeiro com 16 anos ou mais.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR060582026",
@@ -19046,7 +20090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR006362026",
@@ -19068,7 +20114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PE066412026",
@@ -19090,7 +20138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado de Pernambuco.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "SE057762026",
@@ -19136,7 +20186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR053202026",
@@ -19158,7 +20210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "MS023552026",
@@ -19252,7 +20306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de OEIRAS (PI). Sendo a coleta dos dados realizada por meio de ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PB066422026",
@@ -19274,7 +20330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da unidade da federação. Assim como em sua parte conceitual, a pesquisa foi realizada no município de Mamanguape, do",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR019472026",
@@ -19296,7 +20354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa científica quantitativa, amostral, do tipo Survey, consistindo em entrevistas pessoais domiciliares, com aplicação de questionário estruturado junto a uma amostra representativa, com distribuição proporcional ao tamanho da população dos municípios de Sergipe.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "SE067462026",
@@ -19366,7 +20426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet) junto à uma amostra representativa dos eleitores de Minas Gerais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SEMPRE EDITORA LTDA",
+    "payerCnpj": "26198515000484"
   },
   {
     "protocol": "SP007812026",
@@ -19412,7 +20474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas (distribuição proporcional às variáveis de localidade, sexo, faixa etária, grau de instrução e nível econômico), com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Distrito ",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "CENTRO DE ESTUDOS E PESQUISAS POLITICAS HISTORICAS E DE ORGANIZACOES (CEPPHOR)",
+    "payerCnpj": "07465676000108"
   },
   {
     "protocol": "SP041362026",
@@ -19458,7 +20522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada através de entrevistas telefônicas assistidas por computador (CATI) via sistema de Unidade de Resposta Audível pela plataforma Neokemp Pesquisas (Neobe Gestão e Serviços Ltda). As chamadas são direcionadas para terminais de telefonia fixa e móvel (",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "UNIAO BRASIL - PARANA - PR - ESTADUAL / UNIAO BRASIL - PARANA - PR - ESTADUAL",
+    "payerCnpj": "45801710000159"
   },
   {
     "protocol": "BR030862026",
@@ -19480,7 +20546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado de Mogi das Cruzes.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "BR049072026",
@@ -19502,7 +20570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR042752026",
@@ -19524,7 +20594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO069672026",
@@ -19594,7 +20666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de amostragem probabilística estratificada por região do estado, com seleção aleatória de entrevistados dentro de cada estrato. As entrevistas são conduzidas por meio de contatos telefônicos a partir de base de números, com distribuição proporcional à popula",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "O2 SOLUCOES LTDA / PLANOB SOLUCOES",
+    "payerCnpj": "45677863000136"
   },
   {
     "protocol": "SP046502026",
@@ -19664,7 +20738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturado junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "BR040542026",
@@ -19686,7 +20762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA / PB AGORA",
+    "payerCnpj": "10574821000195"
   },
   {
     "protocol": "ES055882026",
@@ -19780,7 +20858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pará (PA).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO022272026",
@@ -19826,7 +20906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL RECORD NEWS",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "TO074132026",
@@ -19872,7 +20954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "RJ008412026",
@@ -19894,7 +20978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes nos municípios do estado do Rio de Janeiro. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de re",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "PB003532026",
@@ -19916,7 +21002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político e administrativo na cidade de JOÃO PESS",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO RANKING DE PESQUISA LTDA",
+    "payerCnpj": "51751580000190"
   },
   {
     "protocol": "SE006842026",
@@ -19986,7 +21074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "BR059132026",
@@ -20008,7 +21098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com realização de entrevistas pessoais e presenciais, mediante aplicação de questionário estruturado a uma amostra representativa de eleitores com 16 anos ou mais residentes no Estado de Mato Grosso do Sul. A coleta de dados será realizada por entrevistadore",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CAMPO GRANDE NOTICIAS LTDA / CAMPO GRANDE NEWS LTDA",
+    "payerCnpj": "07364083000147"
   },
   {
     "protocol": "PE068992026",
@@ -20030,7 +21122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturado junto a uma amostra representativa do eleitorado em estudo. Eleitorado do município de Serra Talhada",
-    "position": "Governador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Deputado Federal, Deputado Estadual",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "RJ042592026",
@@ -20052,7 +21146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro. Os questionamentos feitos aos(às) eleitores(as) em relação à eleição presiden",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "PA056232026",
@@ -20074,7 +21170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA045882026",
@@ -20120,7 +21218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "PE096492026",
@@ -20142,7 +21242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Pernambu",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "CE022742026",
@@ -20188,7 +21290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PI041192026",
@@ -20210,7 +21314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de ESPERANTINA (PI). Sendo a coleta dos dados realizada por mei",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PB019092026",
@@ -20232,7 +21338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "PE045192026",
@@ -20254,7 +21362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "NASSAU EDITORA RADIO E TV LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "27065150000130"
   },
   {
     "protocol": "BR094412026",
@@ -20276,7 +21386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de SANTA RITA/PB.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "PE002622026",
@@ -20298,7 +21410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com aplicação de questionário estruturado e padronizado realizado por meio de entrevistas telefônicas. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado pernambucano com acesso a telefonia fixa e móvel. Todas as entrev",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "J E V PNEUS LTDA / VITORIA PNEUS",
+    "payerCnpj": "40866840000156"
   },
   {
     "protocol": "SP049112026",
@@ -20344,7 +21458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem com aplicação de questionário estruturado e abordagem com realização das entrevistas por meio de pesquisa telefônica ao vivo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO CANOINHAS LTDA / JOVEM PAN FLORIPA 101,7 FM E JOVEM PAN NEWS 103,3 FM",
+    "payerCnpj": "83191510000110"
   },
   {
     "protocol": "SE082992026",
@@ -20390,7 +21506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PR071492026",
@@ -20412,7 +21530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "IRG PESQUISAS LTDA",
+    "payerCnpj": "10175063000132"
   },
   {
     "protocol": "BR004302026",
@@ -20434,7 +21554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Minas Ge",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "PB068382026",
@@ -20456,7 +21578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PB036122026",
@@ -20478,7 +21602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba, no município ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR075862026",
@@ -20500,7 +21626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J E FERREIRA / TVM TELECOM",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "DF040772026",
@@ -20522,7 +21650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, do tipo survey, com entrevistas pessoais e presenciais, realizadas por entrevistadores treinados junto a uma amostra representativa do eleitorado do Distrito Federal com 16 anos ou mais. O questionário é estruturado e aplicado em tablet, por meio do aplicativo Survey to Go (Do",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "SA CORREIO BRAZILIENSE / CORREIO BRAZILIENSE",
+    "payerCnpj": "00001172000180"
   },
   {
     "protocol": "BR033752026",
@@ -20544,7 +21674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA MEIO NORTE DE COMUNICACAO LTDA / MEIO NORTE",
+    "payerCnpj": "00361945000139"
   },
   {
     "protocol": "PI057872026",
@@ -20566,7 +21698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR072372026",
@@ -20588,7 +21722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE007832026",
@@ -20658,7 +21794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "BR034342026",
@@ -20680,7 +21818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa possui natureza quantitativa e utilizou, como instrumento de coleta, um questionário estruturado, aplicado a uma amostra representativa de eleitores residentes de municípios do Rio Grande do Norte. As entrevistas foram realizadas de forma individual e presencial no formato face a face, ut",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TL COMUNICACAO E MARKETING LTDA",
+    "payerCnpj": "42930940000120"
   },
   {
     "protocol": "PB009442026",
@@ -20702,7 +21842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de PB.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "SC027472026",
@@ -20748,7 +21890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais (face a face) em domicílios, junto a uma amostra representativa do eleitorado em estudo. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "PA038782026",
@@ -20770,7 +21914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE junho/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "PI046722026",
@@ -20792,7 +21938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de FLORIANO PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "SE055002026",
@@ -20838,7 +21986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "GO058782026",
@@ -20908,7 +22058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Acre, com 16 anos ou mais. A coleta de dados será realizada por meio de metodologia híbrida, combinando entrevistas presenciais (face a face) e telefônicas assistidas por computador (CATI - Computer Assisted Tel",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "BR018932026",
@@ -20930,7 +22082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais (face a face) em domicílios, junto a uma amostra representativa do eleitorado em estudo. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "MG065622026",
@@ -20976,7 +22130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE julho/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "BR022282026",
@@ -20998,7 +22154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CABEDELO/PB.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "RR083232026",
@@ -21068,7 +22226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado de Goiás. Esta pesquisa quantitativa será realizada por meio de entrevistas telefônicas, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da população alvo. A coleta ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MIDDAS COMUNICACAO E PUBLICIDADE LTDA / MIDDAS COMUNICACAO",
+    "payerCnpj": "36622925000111"
   },
   {
     "protocol": "GO052932026",
@@ -21138,7 +22298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes nos municípios do estado do Rio de Janeiro. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de re",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "BR054392026",
@@ -21160,7 +22322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado de Pernambuco. Esta pesquisa quantitativa será realizada por meio de entrevistas pessoais e domiciliares, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da populaçã",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ALMEIDA E CAVALCANTI LTDA",
+    "payerCnpj": "35535043000156"
   },
   {
     "protocol": "RS097412026",
@@ -21182,7 +22346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "MT048792026",
@@ -21252,7 +22418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com realização de entrevistas presenciais, mediante aplicação de questionário estruturado a uma amostra representativa de eleitores residentes no Estado de Santa Catarina. A coleta de dados será realizada por entrevistadores treinados, em abordagem face a fa",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ASSOCIACAO CATARINENSE DE JORNAIS / ASSOCIACAO CATARINENSE DE JORNAIS",
+    "payerCnpj": "48579864000136"
   },
   {
     "protocol": "BR030252026",
@@ -21274,7 +22442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com realização de entrevistas pessoais e aplicação de \nquestionário estruturado junto a uma amostra representativa do eleitorado \ndo estado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TIMES BRASIL MEDIA LTDA",
+    "payerCnpj": "51247041000118"
   },
   {
     "protocol": "BR032462026",
@@ -21296,7 +22466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR042812026",
@@ -21318,7 +22490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Pernambu",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR067522026",
@@ -21340,7 +22514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "GO076702026",
@@ -21410,7 +22586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba, no município ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR033272026",
@@ -21432,7 +22610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR006992026",
@@ -21454,7 +22634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Paraíba.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO CABO BRANCO LTDA / TV CABO BRANCO",
+    "payerCnpj": "08843575000188"
   },
   {
     "protocol": "BR006992026",
@@ -21476,7 +22658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Paraíba.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO PARAIBA LTDA / TV PARAIBA",
+    "payerCnpj": "08584526000178"
   },
   {
     "protocol": "BR065532026",
@@ -21498,7 +22682,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião quantitativa, que consiste na realização de entrevistas pessoais, domiciliares e em pontos de fluxo, conduzidas por entrevistadores sociais capacitados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "BR035982026",
@@ -21520,7 +22706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "RJ006132026",
@@ -21542,7 +22730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio de J",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "MT023222026",
@@ -21588,7 +22778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado da Paraíba, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangênci",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "PR021792026",
@@ -21610,7 +22802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TV INDEPENDENCIA LTDA",
+    "payerCnpj": "79107918000194"
   },
   {
     "protocol": "PE069012026",
@@ -21632,7 +22826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião quantitativa, que consiste na realização de entrevistas pessoais, domiciliares e em pontos de fluxo, conduzidas por entrevistadores sociais capacitados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "RS016192026",
@@ -21654,7 +22850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "PI054752026",
@@ -21676,7 +22874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "MG040602026",
@@ -21722,7 +22922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "PA056642026",
@@ -21744,7 +22946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado do estado do Pará.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "BR031212026",
@@ -21766,7 +22970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opiniao publica sobre intencao de voto, com abrangencia no estado de Goias, referente as Eleicoes Gerais de 2026. Cargos abrangidos: Presidente da Republica, Governador do Estado e Senador da Republica, com questoes espontaneas e estimuladas; e Deputado Federal e Deputado Es",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TRANSMISSAO POLITICA LTDA / TRANSMISSAO POLITICA",
+    "payerCnpj": "52769364000134"
   },
   {
     "protocol": "BR099282026",
@@ -21788,7 +22994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de São Paul",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "MS086442026",
@@ -21834,7 +23042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "BR083142026",
@@ -21856,7 +23066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FOCUS COMUNICACAO E MIDIA LTDA",
+    "payerCnpj": "28796897000120"
   },
   {
     "protocol": "MT021572026",
@@ -21950,7 +23162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Distrito Federal.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR007732026",
@@ -21972,7 +23186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN030022026",
@@ -21994,7 +23210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa cobrirá o município envolvendo todas regiões do município de Caicó/RN Universo da pesquisa será dos eleitores com 16 anos ou mais. A amostra representará os eleitores do Município, selecionados em 2(dois) estágios. No primeiro estágio, os setores censitários, onde as entrevistas serão rea",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "SC022492026",
@@ -22040,7 +23258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "RN076152026",
@@ -22062,7 +23282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de entrevistas telefônicas automatizadas, com utilização de questionário estruturado. O universo corresponde aos eleitores com 16 anos de idade ou mais, residentes e aptos a votar no Estado do Rio Grande do Norte. Os números telefônicos são contatados automa",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RN NEGOCIOS EDITORA LTDA / NOVO JORNALISMO",
+    "payerCnpj": "09535322000100"
   },
   {
     "protocol": "ES072112026",
@@ -22132,7 +23354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR042962026",
@@ -22154,7 +23378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem com aplicação de questionário estruturado e abordagem com realização das entrevistas por meio de pesquisa telefônica ao vivo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO CANOINHAS LTDA / JOVEM PAN FLORIPA 101,7 FM E JOVEM PAN NEWS 103,3 FM",
+    "payerCnpj": "83191510000110"
   },
   {
     "protocol": "BR031482026",
@@ -22176,7 +23402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO033102026",
@@ -22222,7 +23450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR038372026",
@@ -22244,7 +23474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa quantitativa adota o método de levantamento estatístico por amostragem, com a realização de entrevistas pessoais e individuais, conduzidas por meio de questionário estruturado. A coleta de dados ocorre de forma presencial em domicílios e pontos de fluxo, assegurando a abrangência",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A R CAMPOS DE SOUZA / BLOG DO JK",
+    "payerCnpj": "24498758000160"
   },
   {
     "protocol": "PA077342026",
@@ -22266,7 +23498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "GO044452026",
@@ -22336,7 +23570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "RR047652026",
@@ -22454,7 +23690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa Quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado (16 e +) e votante no ESTADO DO RJ.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "PORTAL DIARIO DO R I O REVISTA ELETRONICA LTDA / DIARIO DO RIO OU DIARIO DO RIO DE JANEIRO",
+    "payerCnpj": "24336010000160"
   },
   {
     "protocol": "BR038332026",
@@ -22476,7 +23714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "BR074112026",
@@ -22498,7 +23738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FOCUS COMUNICACAO E MIDIA LTDA",
+    "payerCnpj": "28796897000120"
   },
   {
     "protocol": "BR043282026",
@@ -22520,7 +23762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, 100% digital e geolocalizado, aplicad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JACIMAR SERVICOS DE COMUNICACOES LTDA / ANTENA FM",
+    "payerCnpj": "07131381000197"
   },
   {
     "protocol": "RR039182026",
@@ -22566,7 +23810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO039742026",
@@ -22612,7 +23858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PE020062026",
@@ -22634,7 +23882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no Município de Recife, estado de Pernambuco. Esta pesquisa quantitativa será realizada por meio de entrevistas pessoais e domiciliares, utilizando questionários estruturados e padronizados, aplicados a uma amostra repre",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "ALESSANDRA FERREIRA SALVINO / PONTO DE VISTA COMUNICACAO",
+    "payerCnpj": "30785194000149"
   },
   {
     "protocol": "BR037682026",
@@ -22656,7 +23906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "DF081542026",
@@ -22678,7 +23930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO088332026",
@@ -22748,7 +24002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Mato Grosso (MT).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN089892026",
@@ -22770,7 +24026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "BR028462026",
@@ -22792,7 +24050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AESP ASSOC EMISSORAS DE RADIO E TELEVISAO EST SAO PAULO",
+    "payerCnpj": "62481965000109"
   },
   {
     "protocol": "BR057482026",
@@ -22814,7 +24074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR052102026",
@@ -22836,7 +24098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa: Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MACEIO FM RADIOS DIFUSORAS LTDA / JOVEM PAN NEWS",
+    "payerCnpj": "57888576000316"
   },
   {
     "protocol": "PA027772026",
@@ -22858,7 +24122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE abril/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "GO015282026",
@@ -22904,7 +24170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma CATI/FONE utilizando questionário estruturado junto a uma amostra representativa do eleitorado de ESPÍRITO SANTO.\n\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação d",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "BR014612026",
@@ -22926,7 +24194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "ES031762026",
@@ -22972,7 +24242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado de Pernambuco.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "PR054282026",
@@ -22994,7 +24266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA CORREIO PARANAENSE LTDA",
+    "payerCnpj": "00064742000180"
   },
   {
     "protocol": "BR069162026",
@@ -23016,7 +24290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "PA073212026",
@@ -23038,7 +24314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE março/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Deputado Federal, Deputado Estadual"
+    "position": "Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "BR020522026",
@@ -23060,7 +24338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa: Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "BR059532026",
@@ -23082,7 +24362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "BR042452026",
@@ -23104,7 +24386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de PAES LANDIM PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatór",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOSE DIAMANTINO DELMONDES",
+    "payerCnpj": "32048987842"
   },
   {
     "protocol": "PI032332026",
@@ -23126,7 +24410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de REGENERAÇÃO (PI). Sendo a coleta dos dados realizada por mei",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR026022026",
@@ -23148,7 +24434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturado junto a uma amostra representativa do eleitorado em estudo. Eleitorado do município de Serra Talhada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "SP052972026",
@@ -23194,7 +24482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as\r\nregiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em\r\nfunção das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "BR095702026",
@@ -23216,7 +24506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado da Bahia.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "S2R COMUNICACAO LTDA / BAHIA NOTICIAS",
+    "payerCnpj": "08259692000107"
   },
   {
     "protocol": "PA027892026",
@@ -23238,7 +24530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais em visitas domiciliares, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado de Parauapebas - PA (201.043 eleitores de 16 anos ou mais de idade até maio de 2026).",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "RM REPRESENTACOES COMERCIAIS SERVICOS E COMERCIOS LTDA / R & M SOLUCOES E CONSULTORIAS",
+    "payerCnpj": "53730013000182"
   },
   {
     "protocol": "BR066302026",
@@ -23260,7 +24554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do BRASIL com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "BR059082026",
@@ -23282,7 +24578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "RN080922026",
@@ -23304,7 +24602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa tipo quantitativa em municípios representativos do Estado do Rio Grande do Norte com aplicação de questionário estruturado, abordagem pessoal/em ponto de fluxo e domiciliar. O conjunto da população eleitora dos município representativos com 16 anos ou mais foi tomado como universo da pesqui",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "POTENGI COMUNICACAO LTDA",
+    "payerCnpj": "45704107000159"
   },
   {
     "protocol": "BR059872026",
@@ -23326,7 +24626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE abril/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "MA014552026",
@@ -23372,7 +24674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Espírito",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A GAZETA DO ESPIRITO SANTO RADIO E TV LTDA / TV GAZETA",
+    "payerCnpj": "27063726000120"
   },
   {
     "protocol": "MG029912026",
@@ -23442,7 +24746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV PONTA NEGRA LTDA",
+    "payerCnpj": "08713653000120"
   },
   {
     "protocol": "PR039102026",
@@ -23464,7 +24770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI030252026",
@@ -23486,7 +24794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de ALTOS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória sim",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PA057982026",
@@ -23508,7 +24818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do conjunto do eleitorado apto a votar no Estado do Pará com 16 anos ou mais foi tomado como universo da pesquisa. O objetivo principal é",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "BR011682026",
@@ -23530,7 +24842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é do tipo quantitativa e será realizada mediante entrevistas presenciais domiciliares com aplicação de questionário estruturado junto a eleitores residentes no Estado do Rio Grande do Norte, aptos ao exercício do voto na data da coleta.\nA coleta dos dados será realizada por entrevistadore",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "BR031772026",
@@ -23552,7 +24866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "QUALITTA EMPREEDIMENTOS LTDA",
+    "payerCnpj": "36461578000192"
   },
   {
     "protocol": "PR090482026",
@@ -23574,7 +24890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR005472026",
@@ -23596,7 +24914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Mato Grosso do Sul, com 16 anos ou mais.\r\nA coleta de dados será realizada por meio de metodologia híbrida, combinando entrevistas presenciais domiciliares (face a face) e telefônicas assistidas por computador (",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CORREIO DO ESTADO LTDA",
+    "payerCnpj": "03119724000147"
   },
   {
     "protocol": "CE080262026",
@@ -23642,7 +24962,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Distrito",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "GO093022026",
@@ -23688,7 +25010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "BR018522026",
@@ -23710,7 +25034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do amazonas foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JENAV SEVICOS EMPRESARIAIS E COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+    "payerCnpj": "15590095000118"
   },
   {
     "protocol": "CE064772026",
@@ -23756,7 +25082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO COSTA DO SOL LTDA",
+    "payerCnpj": "35008325000103"
   },
   {
     "protocol": "SE072272026",
@@ -23802,7 +25130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores aptos a votar em municípios do",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "METADATA SOLUCOES INTELIGENTES LTDA",
+    "payerCnpj": "41744280000120"
   },
   {
     "protocol": "BR053232026",
@@ -23824,7 +25154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia da pesquisa: \nA presente pesquisa quantitativa adota o método de levantamento estatístico por amostragem, com a realização de entrevistas pessoais e individuais, conduzidas por meio de questionário estruturado. A coleta de dados ocorre de forma presencial em domicílios e pontos de fluxo,",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A R CAMPOS DE SOUZA / BLOG DO JK",
+    "payerCnpj": "24498758000160"
   },
   {
     "protocol": "PI075202026",
@@ -23846,7 +25178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de COCAL DE TELHA (PI). Sendo a coleta dos dados realizada por ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "PARTIDO SOCIAL DEMOCRATICO / PARTIDO SOCIAL DEMOCRATICO - PSD",
+    "payerCnpj": "15070045000100"
   },
   {
     "protocol": "RN018092026",
@@ -23868,7 +25202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR022492026",
@@ -23890,7 +25226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "TO004372026",
@@ -23960,7 +25298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de PARNAGUÁ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada em 2 estágios com abordag",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "PI069962026",
@@ -23982,7 +25322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR053252026",
@@ -24004,7 +25346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado do Goiás. Esta pesquisa quantitativa será realizada por meio de entrevistas telefônicas, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da população alvo. A coleta ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PAPO ABERTO SERVICOS DE COMUNICACAO LTDA / PAPO ABERTO",
+    "payerCnpj": "36039183000104"
   },
   {
     "protocol": "DF028412026",
@@ -24026,7 +25370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião realizada por meio de questionário estruturado aplicado via internet, com coleta de dados por amostragem aleatória. Após a coleta, a amostra é pós-estratificada de acordo com as características sociodemográficas do eleitorado brasiliense, garantindo representatividad",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "NARREAL CONSULTORIA EM GESTAO EMPRESARIAL LTDA",
+    "payerCnpj": "36984054000186"
   },
   {
     "protocol": "PI041932026",
@@ -24048,7 +25394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda domiciliar distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PAULISTANA (PI). Sendo a coleta dos dados realiza",
-    "position": "Governador, Deputado Estadual"
+    "position": "Governador, Deputado Estadual",
+    "payerName": "ALAN STTENYO VERAS DE RESENDE",
+    "payerCnpj": "63383926320"
   },
   {
     "protocol": "PE021842026",
@@ -24070,7 +25418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PR001052026",
@@ -24092,7 +25442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PI090192026",
@@ -24114,7 +25466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR062522026",
@@ -24136,7 +25490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Amazonas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "PR018572026",
@@ -24158,7 +25514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia da pesquisa será quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas telefônicas com sistema CATI (Computer Assisted Telephone Interviewing ¿ Entrevista Telefônica Assistida por Computador), junto a uma amostra representativa do eleitorado ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO TRANSAMERICA DE SAO PAULO LTDA",
+    "payerCnpj": "44060192000105"
   },
   {
     "protocol": "BR031752026",
@@ -24180,7 +25538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais por FONE/CATI utilizando questionário estruturado junto a uma amostra representativa do eleitorado de ESPÍRITO SANTO.\r\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação do tra",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "PE089822026",
@@ -24202,7 +25562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais (face a face) em domicílios, junto a uma amostra representativa do eleitorado em estudo. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "BR035092026",
@@ -24224,7 +25586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de TERESINA PI e que no momento da pesquisa se encontrava na sua residência. Trata-se de uma pesquisa face a face, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória simples atra",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "BR079922026",
@@ -24246,7 +25610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "DF035842026",
@@ -24268,7 +25634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a \r\numa amostra representativa do eleitorado do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "SE070752026",
@@ -24314,7 +25682,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR070462026",
@@ -24336,7 +25706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "SC044552026",
@@ -24382,7 +25754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa foi realizada por meio de amostragem por cotas proporcionais, com seleção aleatória dos entrevistados dentro de cada cota, considerando as variáveis gênero, faixa etária, grau de instrução e nível econômico, de modo a refletir a composição sociodemográfica do eleitorado do município de PA",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "RAIMUNDO ALVES FILHO",
+    "payerCnpj": "09766677387"
   },
   {
     "protocol": "BR008732026",
@@ -24404,7 +25778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "PE025932026",
@@ -24426,7 +25802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturado junto a uma amostra representativa do eleitorado em estudo. Eleitorado do município de Serra Talhada",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "PI000222026",
@@ -24448,7 +25826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA MEIO NORTE DE COMUNICACAO LTDA / MEIO NORTE",
+    "payerCnpj": "00361945000139"
   },
   {
     "protocol": "BR029972026",
@@ -24470,7 +25850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da\r\namostra de acordo com as características do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOTA JORNALISMO S/A",
+    "payerCnpj": "21050733000100"
   },
   {
     "protocol": "BR012392026",
@@ -24492,7 +25874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas em domicílio, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.\nUniverso: O universo da pesquisa é composto pelos eleitores do estado de Alagoas, com 16 anos ou mais. Tamanho da amo",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MOVIMENTO DEMOCRATICO BRASILEIRO - ALAGOAS - AL - ESTADUAL / MDB ALAGOAS",
+    "payerCnpj": "01308052000192"
   },
   {
     "protocol": "BR012212026",
@@ -24514,7 +25898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": ": Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. A população do estado de Pernambuco, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE NORDESTE DE COMUNICACAO LTDA / RADIO CBN RADIO MIX",
+    "payerCnpj": "24462152000255"
   },
   {
     "protocol": "BR074272026",
@@ -24536,7 +25922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR015762026",
@@ -24558,7 +25946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores aptos a votar em municípios do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "METADATA SOLUCOES INTELIGENTES LTDA",
+    "payerCnpj": "41744280000120"
   },
   {
     "protocol": "BR018822026",
@@ -24580,7 +25970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "GO011612026",
@@ -24626,7 +26018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado de Pernambuco. Esta pesquisa quantitativa será realizada por meio de entrevistas pessoais e domiciliares, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da populaçã",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ALMEIDA E CAVALCANTI LTDA",
+    "payerCnpj": "35535043000156"
   },
   {
     "protocol": "RN026992026",
@@ -24648,7 +26042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa possui caráter quantitativo e será realizada mediante aplicação de questionário estruturado e padronizado, composto por perguntas abertas, fechadas e de múltipla escolha, com o objetivo de aferir a opinião do eleitorado do Estado do Rio Grande do Norte acerca de temas políticos, ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "RADIO NATAL REIS MAGOS LTDA",
+    "payerCnpj": "08459968000192"
   },
   {
     "protocol": "BR025312026",
@@ -24670,7 +26066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pará (PA).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO010192026",
@@ -24740,7 +26138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais face a face, com a aplicação de questionário estruturado com questões abertas e fechadas, conduzida por pessoas previamente treinadas e oficialmente identificadas. A distribuição da amostra será feita a partir da representação",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "H M BOGEA E CIA LTDA / JORNAL PEQUENO",
+    "payerCnpj": "01153837000133"
   },
   {
     "protocol": "PB044362026",
@@ -24762,7 +26162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de PB.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR078732026",
@@ -24784,7 +26186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio Grande do Sul com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR045942026",
@@ -24806,7 +26210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI004492026",
@@ -24828,7 +26234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR078242026",
@@ -24850,7 +26258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "MG079722026",
@@ -24920,7 +26330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR067132026",
@@ -24942,7 +26354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "QUALITTA EMPREEDIMENTOS LTDA",
+    "payerCnpj": "36461578000192"
   },
   {
     "protocol": "TO079902026",
@@ -24988,7 +26402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda domiciliar distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de CORRENTE (PI). Sendo a coleta dos dados realizada",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ANDRE MAURICIO DE OLIVEIRA NOGUEIRA",
+    "payerCnpj": "90062833553"
   },
   {
     "protocol": "RN022562026",
@@ -25010,7 +26426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI005442026",
@@ -25032,7 +26450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de MIGUEL ALVES (PI). Sendo a coleta dos dados realizada por me",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "ES090492026",
@@ -25078,7 +26498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Pará.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "ES060022026",
@@ -25124,7 +26546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político e administrativo na cidade de CAMPINA G",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INTELIGENCIA.COM SERVICOS LTDA / FONTE 83",
+    "payerCnpj": "51990064000118"
   },
   {
     "protocol": "DF028172026",
@@ -25146,7 +26570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia Survey com amostra presencial face a face,  auto ponderada, com distribuição baseada no censo populacional DF 2022 do IBGE",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "MS063192026",
@@ -25192,7 +26618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas domiciliares presenciais, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado da Paraíba.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EM CIMA DA NOTICIA LTDA / EM CIMA DA NOTICIA",
+    "payerCnpj": "35997380000165"
   },
   {
     "protocol": "BR020942026",
@@ -25214,7 +26642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do Distrito Federal foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR020942026",
@@ -25236,7 +26666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do Distrito Federal foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR013472026",
@@ -25258,7 +26690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Ceará. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "GO019842026",
@@ -25304,7 +26738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "RN020352026",
@@ -25326,7 +26762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "J E FERREIRA / TVM TELECOM",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "RO043502026",
@@ -25348,7 +26786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de Rondônia.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "C. GOMES MARKETING",
+    "payerCnpj": "23854801000110"
   },
   {
     "protocol": "SE080592026",
@@ -25394,7 +26834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PB010682026",
@@ -25416,7 +26858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de OLHO D'ÁGUA.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "RN063282026",
@@ -25438,7 +26882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TELEVISAO FUTURO E PRODUCOES LTDA / TELEVISAO FUTURO",
+    "payerCnpj": "10786149000100"
   },
   {
     "protocol": "SC052572026",
@@ -25484,7 +26930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "GO067542026",
@@ -25530,7 +26978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GRAFICA E EDITORA CULTURA DO SABER LTDA",
+    "payerCnpj": "05665428000177"
   },
   {
     "protocol": "BR070152026",
@@ -25552,7 +27002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Acre. O ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "PI030112026",
@@ -25574,7 +27026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de SIMPLÍCIO MENDES (PI). Sendo a coleta dos dados realizada po",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "MS090262026",
@@ -25620,7 +27074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE fevereiro/2026, IBGE, CENSO 2010/2022. O conjunto do eleitorado apto a votar na próxima eleição em 2026 no esta",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "MT054642026",
@@ -25714,7 +27170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de\r\nquestionário estruturado junto a uma amostra representativa do eleitorado (16 anos e +) e\r\nvotante no Estado de Rondônia (RO).",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BRASIL DADOS INTELIGENCIA EM DADOS E SOLUCOES E PESQUISAS LTDA",
+    "payerCnpj": "19812752000185"
   },
   {
     "protocol": "SP033922026",
@@ -25760,7 +27218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de CASTELO DO PIAUÍ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem al",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PI024852026",
@@ -25782,7 +27242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de CASTELO DO PIAUÍ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem al",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PI024852026",
@@ -25804,7 +27266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de CASTELO DO PIAUÍ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem al",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "RS092032026",
@@ -25826,7 +27290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com a realização de entrevistas pessoais e presenciais, realizadas nas cidades onde residem os entrevistados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Rio Grande do Sul.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO METHODUS ANALISE DE MERCADO SOCIEDADE SIMPLES LIMITADA",
+    "payerCnpj": "00853528000103"
   },
   {
     "protocol": "TO098102026",
@@ -25872,7 +27338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa do eleitorado a partir dos 16 anos, sendo a coleta dos dados realizada por",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "WERICK AMERICA DOS SANTOS  LTDA / PORTAL TV AMERICA",
+    "payerCnpj": "13893542000182"
   },
   {
     "protocol": "TO021352026",
@@ -25918,7 +27386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "ES041432026",
@@ -25964,7 +27434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE055992026",
@@ -26010,7 +27482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana (centro e adjacências) ou rural (comunidades da cidade). Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "GO051352026",
@@ -26056,7 +27530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é de cunho quantitativo, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE.",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "SIMETRIA CONSULTORIA E PESQUISA LTDA",
+    "payerCnpj": "02070887000110"
   },
   {
     "protocol": "RN051942026",
@@ -26078,7 +27554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, com a aplicação, via abordagem pessoal em pontos de fluxo, de questionário estruturado junto a uma amostra representativa da população. A população do estado do Rio Grande do Norte, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "RADIO RESISTENCIA DE MOSSORO LTDA",
+    "payerCnpj": "12696548000105"
   },
   {
     "protocol": "BR042912026",
@@ -26100,7 +27578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, de caráter survey, realizada por meio de entrevistas pessoais, domiciliares e presenciais, com aplicação de questionário estruturado junto a uma amostra representativa do eleitorado brasileiro com 16 anos ou mais. As entrevistas são conduzidas por entrevistador",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "IA4U PROJETOS E PARTICIPACOES LTDA / IA4U",
+    "payerCnpj": "56209681000157"
   },
   {
     "protocol": "BR031762026",
@@ -26122,7 +27602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CAJAZEIRAS.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR011292026",
@@ -26144,7 +27626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI090602026",
@@ -26166,7 +27650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PICOS (PI). Sendo a coleta dos dados realizada por meio de t",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "SE024992026",
@@ -26212,7 +27698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PI075512026",
@@ -26234,7 +27722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Senador, Deputado Estadual"
+    "position": "Senador, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PI003332026",
@@ -26256,7 +27746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "GO012992026",
@@ -26302,7 +27794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR018782026",
@@ -26324,7 +27818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR081812026",
@@ -26346,7 +27842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio Grande do Sul com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "PI071522026",
@@ -26368,7 +27866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal"
+    "position": "Governador, Senador, Deputado Federal",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR005752026",
@@ -26390,7 +27890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "MT012852026",
@@ -26460,7 +27962,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana (centro e adjacências) ou rural (comunidades da cidade). Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "BR034112026",
@@ -26482,7 +27986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PI016682026",
@@ -26504,7 +28010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de JAICÓS (PI). Sendo a coleta dos dados realizada por meio de ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PI016682026",
@@ -26526,7 +28034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de JAICÓS (PI). Sendo a coleta dos dados realizada por meio de ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "MA061782026",
@@ -26596,7 +28106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do BRASIL com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "PI057212026",
@@ -26618,7 +28130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de URUÇUÍ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada em 2 estágios com abordagem",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR010752026",
@@ -26640,7 +28154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "BR010752026",
@@ -26662,7 +28178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "BR016262026",
@@ -26684,7 +28202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "BR017552026",
@@ -26706,7 +28226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "MG072992026",
@@ -26752,7 +28274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado da Bahia com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR099312026",
@@ -26774,7 +28298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa que envolverá a condução de entrevistas pessoais por meio da aplicação de um questionário estruturado junto a uma amostra representativa do eleitorado em análise. A Pesquisa terá abrangência no Município de Araruama, localizado no Estado do Rio de Janeiro (RJ).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FACTUM COMUNICACAO LTDA",
+    "payerCnpj": "38168812000113"
   },
   {
     "protocol": "RN075292026",
@@ -26796,7 +28322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR070892026",
@@ -26818,7 +28346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de JAICÓS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada em 2 estágios com abordagem",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "R10 COMUNICACAO LTDA / PORTAL R10",
+    "payerCnpj": "22675543000141"
   },
   {
     "protocol": "BR020422026",
@@ -26840,7 +28370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio de Janeiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "PI088532026",
@@ -26862,7 +28394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de Floriano-PI. A Pesquisa foi realizada no período de 25 a 28",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "IPPI PESQUISAS E CONSULTORIA LTDA",
+    "payerCnpj": "47425567000173"
   },
   {
     "protocol": "PB031122026",
@@ -26884,7 +28418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "RN009682026",
@@ -26906,7 +28442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de caráter descritivo, do tipo survey, realizada por meio de entrevistas diretas, mediante aplicação de questionário estruturado a uma amostra representativa do eleitorado do Estado do Rio Grande do Norte. A amostra será distribuída entre os municípios abrangidos pela pesquisa",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "BRUNO E P BARRETO CIRILO / BLOG DO BARRETO",
+    "payerCnpj": "31339893000128"
   },
   {
     "protocol": "PI063032026",
@@ -26928,7 +28466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de CAMPO MAIOR PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 estágios e abord",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ELEICAO 2026 RODRIGO ANTONIO BONA IBIAPINA DEPUTADO ESTADUAL",
+    "payerCnpj": "68312689000123"
   },
   {
     "protocol": "BR016662026",
@@ -26950,7 +28490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Santa Catarina.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PR061782026",
@@ -26972,7 +28514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "IRG PESQUISAS LTDA",
+    "payerCnpj": "10175063000132"
   },
   {
     "protocol": "BR099562026",
@@ -26994,7 +28538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa.\r\n\r\n\r\nPlano amostral e ponderação quanto a sexo, idade, grau de instrução e nível eco",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "PI040722026",
@@ -27016,7 +28562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de JAICÓS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada em 2 estágios com abordagem",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "R10 COMUNICACAO LTDA / PORTAL R10",
+    "payerCnpj": "22675543000141"
   },
   {
     "protocol": "BR006642026",
@@ -27038,7 +28586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Tocantins (TO).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR082822026",
@@ -27060,7 +28610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "SP022282026",
@@ -27106,7 +28658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR084892026",
@@ -27128,7 +28682,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SC017612026",
@@ -27174,7 +28730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI021532026",
@@ -27196,7 +28754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de RIBEIRO GONÇALVES PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem a",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR045352026",
@@ -27218,7 +28778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "ES066982026",
@@ -27264,7 +28826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "SE074082026",
@@ -27310,7 +28874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Goiás (GO).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR092732026",
@@ -27332,7 +28898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-AC com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RAIMUNDO ADEMIR M. DE SOUZA / JORNAL DE NOTICIAS DA HORA",
+    "payerCnpj": "03340836000123"
   },
   {
     "protocol": "BR093502026",
@@ -27354,7 +28922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR015242026",
@@ -27376,7 +28946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SP072302026",
@@ -27422,7 +28994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet) junto à uma amostra representativa dos eleitores de Minas Gerais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SEMPRE EDITORA LTDA",
+    "payerCnpj": "26198515000484"
   },
   {
     "protocol": "PI040522026",
@@ -27444,7 +29018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de FLORIANO PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "RO033402026",
@@ -27466,7 +29042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "TO045102026",
@@ -27512,7 +29090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Maranhão.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR002822026",
@@ -27534,7 +29114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Sergipe (SE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "MA031932026",
@@ -27604,7 +29186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE maio/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição e",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "GO012932026",
@@ -27674,7 +29258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J E FERREIRA / TVM TELECOM",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "BR024482026",
@@ -27696,7 +29282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado de Campinas, Estado de São ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "BR021542026",
@@ -27718,7 +29306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa; Amostral; Entrevistas individuais por telefone por meio de questionários estruturados. Universo: Eleitores brasileiros; 156.781.716 eleitores (unidade amostral) em abril de 2026 (TSE). https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleitor-eleitorado-mensal/home?p0_pais=Brasil&s",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO INDEXA PESQUISAS LTDA",
+    "payerCnpj": "10340949000194"
   },
   {
     "protocol": "SP021782026",
@@ -27788,7 +29378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do Estado do Paraná com 16 ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "RJ056812026",
@@ -27810,7 +29402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa Quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado (16 e +) e votante no ESTADO DO RJ.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "REPUBLICANOS - RIO DE JANEIRO - RJ - ESTADUAL / REPUBLICANOS/RJ",
+    "payerCnpj": "07959911000190"
   },
   {
     "protocol": "BR024762026",
@@ -27832,7 +29426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado de todas as unidades da Federação.\r\n\r\nNOTA TÉCNICA\r\nAssunto: Consolidação de Registros de Pesquisas Eleitorais ¿ Abrangência Nacional\r\n\r\nCont",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR042272026",
@@ -27854,7 +29450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR027852026",
@@ -27876,7 +29474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RN094712026",
@@ -27898,7 +29498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião pública de natureza quantitativa, do tipo survey, realizada por meio de entrevistas presenciais com aplicação de questionário estruturado. O universo da pesquisa é composto por 1.077.370 eleitores, correspondentes a aproximadamente 41,3% do eleitorado do Estado do Rio Grande do N",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSPPE - INSTITUTO POTIGUAR DE PESQUISAS ESTATISTICAS LTDA",
+    "payerCnpj": "59809758000118"
   },
   {
     "protocol": "GO042202026",
@@ -27944,7 +29546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 12 municípios representativos do Estado de RONDÔNIA, do tipo quantitativa, com aplicação de questionário estruturado, \r\nabordagem pessoal em ponto de fluxo populacional e domiciliar. \r\nO conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquis",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR047002026",
@@ -27966,7 +29570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Pará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "RJ027932026",
@@ -27988,7 +29594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "BR064812026",
@@ -28010,7 +29618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de São Paulo foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR043672026",
@@ -28032,7 +29642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Rio de Janeiro (RJ).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR040592026",
@@ -28054,7 +29666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas (URA), junto a uma parcela representativa do eleitorado do Estado do Rio de Janeiro, abrangendo eleitores residentes na capital e no interior do estado. O levantamento contempla intençã",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "DF006882026",
@@ -28076,7 +29690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião realizada por meio de questionário estruturado aplicado via internet, com coleta de dados por amostragem aleatória. Após a coleta, a amostra é pós-estratificada de acordo com as características sociodemográficas do eleitorado do distrito federal, garantindo represent",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "NARREAL CONSULTORIA EM GESTAO EMPRESARIAL LTDA",
+    "payerCnpj": "36984054000186"
   },
   {
     "protocol": "BR062872026",
@@ -28098,7 +29714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado do estado do Pará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "RJ017162026",
@@ -28120,7 +29738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa Quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado (16 e +) e votante no ESTADO DO RJ.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "PORTAL DIARIO DO R I O REVISTA ELETRONICA LTDA / DIARIO DO RIO OU DIARIO DO RIO DE JANEIRO",
+    "payerCnpj": "24336010000160"
   },
   {
     "protocol": "BR011472026",
@@ -28142,7 +29762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa probabilística estratificada quantitativa por amostragem. Aplicação de questionário estruturado por meio IVR, ligações telefonicas. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais no estado de Goiás.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "NUMEN DATA PESQUISA E CONSULTORIA LTDA",
+    "payerCnpj": "14293213000163"
   },
   {
     "protocol": "TO067172026",
@@ -28188,7 +29810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "PI091032026",
@@ -28210,7 +29834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A pesquisa foi realizada por meio de amostragem por cotas proporcionais aleatórias, considerando as variáveis gênero, faixa etária, grau de instrução e nível econômico dos entrevistados, de modo a refletir a composição sociodemográfica do eleitorado do município de Teresina - PI. A coleta dos dados ",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "RAIMUNDO ALVES FILHO",
+    "payerCnpj": "09766677387"
   },
   {
     "protocol": "PI091032026",
@@ -28232,7 +29858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A pesquisa foi realizada por meio de amostragem por cotas proporcionais aleatórias, considerando as variáveis gênero, faixa etária, grau de instrução e nível econômico dos entrevistados, de modo a refletir a composição sociodemográfica do eleitorado do município de Teresina - PI. A coleta dos dados ",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "RAIMUNDO ALVES FILHO",
+    "payerCnpj": "09766677387"
   },
   {
     "protocol": "RN061722026",
@@ -28254,7 +29882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião pública de natureza quantitativa, do tipo survey, realizada por meio de entrevistas presenciais com aplicação de questionário estruturado junto a uma amostra representativa de eleitores residentes em domicílios de municípios do Rio Grande do Norte. As entrevistas serão individuai",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VIRGULA COMUNICACAO LTDA / VIRGULA COMUNICACAO",
+    "payerCnpj": "17642278000165"
   },
   {
     "protocol": "PR069782026",
@@ -28276,7 +29906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR080162026",
@@ -28298,7 +29930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do BRASIL com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "RN083842026",
@@ -28320,7 +29954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "BR067802026",
@@ -28342,7 +29978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por mesorregião, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do eleitorad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "PI077512026",
@@ -28364,7 +30002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no estado do PIAUÍ, sendo a coleta dos dados realizada por meio de SMARTPHO",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "PI077512026",
@@ -28386,7 +30026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no estado do PIAUÍ, sendo a coleta dos dados realizada por meio de SMARTPHO",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "BR082972026",
@@ -28408,7 +30050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO051142026",
@@ -28454,7 +30098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem aleatória simples realizada através de um questionário estruturado e aplicado a partir de contatos telefônicos de uma base própria do Rio Grande do Norte. A estratificação é por região realizada a partir do CEP associado a cada contato telefônico. O universo da p",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "MG056132026",
@@ -28548,7 +30194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Ceará com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEFOX AGENCIA DE NOTICIAS E TELECOMUNICACOES LTDA / GRUPO TELEFOX E EDITORA DE COMUNICACOES",
+    "payerCnpj": "29448837000180"
   },
   {
     "protocol": "BR047492026",
@@ -28570,7 +30218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião no município de Campo Grande/MS, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora do município com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR005292026",
@@ -28592,7 +30242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR023362026",
@@ -28614,7 +30266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem com aplicação de questionário estruturado e abordagem com realização das entrevistas por meio de pesquisa telefônica ao vivo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO CANOINHAS LTDA / JOVEM PAN FLORIPA 101,7 FM E JOVEM PAN NEWS 103,3 FM",
+    "payerCnpj": "83191510000110"
   },
   {
     "protocol": "GO005012026",
@@ -28660,7 +30314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político e administrativo do estado da PARAÍBA, ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO RANKING DE PESQUISA LTDA",
+    "payerCnpj": "51751580000190"
   },
   {
     "protocol": "BR005072026",
@@ -28682,7 +30338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada através de entrevistas telefônicas assistidas por computador (CATI) via sistema de Unidade de Resposta Audível pela plataforma Neokemp Pesquisas (Neobe Gestão e Serviços Ltda). As chamadas são direcionadas para terminais de telefonia fixa e móvel (",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "UNIAO BRASIL - PARANA - PR - ESTADUAL / UNIAO BRASIL - PARANA - PR - ESTADUAL",
+    "payerCnpj": "45801710000159"
   },
   {
     "protocol": "RN085782026",
@@ -28704,7 +30362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa foi quantitativa. Utilizou-se como instrumento de coleta um questionário estruturado com questões abertas e fechadas. As entrevistas foram individuais aplicadas aos eleitores, residentes em domicílios do município de Natal/RN. As entrevistas foram individuais presenciais do tipo face a fa",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "TL COMUNICACAO E MARKETING LTDA",
+    "payerCnpj": "42930940000120"
   },
   {
     "protocol": "TO016932026",
@@ -28750,7 +30410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Mato Grosso do Sul, com 16 anos ou mais.\r\nA coleta de dados foi realizada por meio de metodologia híbrida, combinando entrevistas presenciais domiciliares (face a face) no município de Campo Grande e entrevistas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CORREIO DO ESTADO LTDA",
+    "payerCnpj": "03119724000147"
   },
   {
     "protocol": "CE010282026",
@@ -28796,7 +30458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto da população brasileira, com 16 anos ou mais, foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "PI059352026",
@@ -28818,7 +30482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de BOM JESUS (PI). Sendo a coleta dos dados realizada por meio ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PA060562026",
@@ -28840,7 +30506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE fevereiro/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima elei",
-    "position": "Deputado Federal, Deputado Estadual"
+    "position": "Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "RJ015962026",
@@ -28862,7 +30530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica survey com\t\t\t\t\t\t\t\t\t\r\naplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais\t\t\t\t\t\t\t\t\t\r\ndomiciliares, utilizando dispositivos eletrônicos (t",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA O DIA LTDA EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "33216797000118"
   },
   {
     "protocol": "RJ015962026",
@@ -28884,7 +30554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica survey com\t\t\t\t\t\t\t\t\t\r\naplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais\t\t\t\t\t\t\t\t\t\r\ndomiciliares, utilizando dispositivos eletrônicos (t",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA O DIA LTDA EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "33216797000118"
   },
   {
     "protocol": "CE016682026",
@@ -28930,7 +30602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado do Distrito Federal.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "BR044202026",
@@ -28952,7 +30626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma presencial utilizando questionário estruturado junto a uma amostra representativa do eleitorado de SERGIPE.\r\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação do trab",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "GO002112026",
@@ -28998,7 +30674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com técnica de survey de opinião, consistindo de entrevistas individuais pessoais de forma presencial em residência \"inloco\" definidas conforme a proporcionalidade de eleitores de cada região e município de Mato Grosso por meio do método PPT (probabilidade proporcional ao taman",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CBA TV ABERTA DE COMUNICACAO LTDA / O DOC COMUNICACAO",
+    "payerCnpj": "32105564000185"
   },
   {
     "protocol": "PA051632026",
@@ -29020,7 +30698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do conjunto do eleitorado apto a votar no Estado do Pará com 16 anos ou mais foi tomado como universo da pesquisa. O objetivo principal é",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "PA051632026",
@@ -29042,7 +30722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do conjunto do eleitorado apto a votar no Estado do Pará com 16 anos ou mais foi tomado como universo da pesquisa. O objetivo principal é",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "PA051632026",
@@ -29064,7 +30746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do conjunto do eleitorado apto a votar no Estado do Pará com 16 anos ou mais foi tomado como universo da pesquisa. O objetivo principal é",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "BR048902026",
@@ -29086,7 +30770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas (distribuição proporcional às variáveis de localidade, sexo, faixa etária, grau de instrução e nível econômico), com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Distrito ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CENTRO DE ESTUDOS E PESQUISAS POLITICAS HISTORICAS E DE ORGANIZACOES (CEPPHOR)",
+    "payerCnpj": "07465676000108"
   },
   {
     "protocol": "PI024772026",
@@ -29108,7 +30794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de UNIÃO (PI), sendo a coleta dos dados realizada por meio de t",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "PI024772026",
@@ -29130,7 +30818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de UNIÃO (PI), sendo a coleta dos dados realizada por meio de t",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "SP081142026",
@@ -29176,7 +30866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado de Pernambuco.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "SP086392026",
@@ -29222,7 +30914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "RN071892026",
@@ -29244,7 +30938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de amostragem probabilística estratificada por região do estado, com seleção aleatória de entrevistados dentro de cada estrato. As entrevistas são conduzidas por meio de contatos telefônicos a partir de base de números, com distribuição proporcional à popula",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "O2 SOLUCOES LTDA / PLANOB SOLUCOES",
+    "payerCnpj": "45677863000136"
   },
   {
     "protocol": "GO015342026",
@@ -29338,7 +31034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "CE017252026",
@@ -29384,7 +31082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Mato Grosso do Sul, com 16 anos ou mais.\r\nA coleta de dados foi realizada por meio de metodologia híbrida, combinando entrevistas presenciais domiciliares (face a face) no município de Campo Grande e entrevistas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CORREIO DO ESTADO LTDA",
+    "payerCnpj": "03119724000147"
   },
   {
     "protocol": "DF058002026",
@@ -29406,7 +31106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia Survey com amostra presencial face a face,  auto ponderada, com distribuição baseada no censo populacional DF 2022 do IBGE",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "PI065702026",
@@ -29428,7 +31130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de PARNAÍBA PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória ",
-    "position": "Senador, Deputado Federal, Deputado Estadual"
+    "position": "Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "PB042842026",
@@ -29450,7 +31154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia da pesquisa será quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político e administrativo do Estado da Para",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO RANKING DE PESQUISA LTDA",
+    "payerCnpj": "51751580000190"
   },
   {
     "protocol": "PB043512026",
@@ -29472,7 +31178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa utiliza metodologia quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político e administrativo do Estado da Para",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FONTE CZ SERVICOS DE INTERNET E COMUNICACAO LTDA / GRUPO FONTE",
+    "payerCnpj": "52066952000101"
   },
   {
     "protocol": "SE094412026",
@@ -29518,7 +31226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado do Piauí, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangência ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "MA046482026",
@@ -29612,7 +31322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado do estado do Pará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "PE013702026",
@@ -29634,7 +31346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FACTO COMUNICACAO & MARKETING LTDA / FACTO COMUNICACAO & MARKETING",
+    "payerCnpj": "40797095000130"
   },
   {
     "protocol": "BR017032026",
@@ -29656,7 +31370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MT073602026",
@@ -29702,7 +31418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RJ040672026",
@@ -29724,7 +31442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio de Janeiro.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR085622026",
@@ -29746,7 +31466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado da Paraíba, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangênci",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "MT016282026",
@@ -29792,7 +31514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "SE034772026",
@@ -29838,7 +31562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Amazonas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ELEICAO 2026 MARIA DO CARMO SEFFAIR LINS DE ALBUQUERQUE GOVERNADOR",
+    "payerCnpj": "68461849000104"
   },
   {
     "protocol": "SE073592026",
@@ -29884,7 +31610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "BR085822026",
@@ -29906,7 +31634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio Grande do Sul.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR095172026",
@@ -29928,7 +31658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "PB066172026",
@@ -29950,7 +31682,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "M J K TAMIYA LTDA / RTV CANAL 38",
+    "payerCnpj": "08281136000129"
   },
   {
     "protocol": "PB066172026",
@@ -29972,7 +31706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "M J K TAMIYA LTDA / RTV CANAL 38",
+    "payerCnpj": "08281136000129"
   },
   {
     "protocol": "PB066172026",
@@ -29994,7 +31730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "M J K TAMIYA LTDA / RTV CANAL 38",
+    "payerCnpj": "08281136000129"
   },
   {
     "protocol": "PI021882026",
@@ -30016,7 +31754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR097662026",
@@ -30038,7 +31778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR035152026",
@@ -30060,7 +31802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por meio de entrevistas presenciais individuais, utilizando questionário estruturado e padronizado, junto à amostra representativa da população de cinco municípios da Baixada Santista (Cubatão, Guarujá, Praia Grande, Santos e São Vicente), de acordo com dados do IBGE e TSE.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A TRIBUNA DE SANTOS JORNAL E EDITORA LIMITADA / A TRIBUNA",
+    "payerCnpj": "58183401000104"
   },
   {
     "protocol": "SE016102026",
@@ -30130,7 +31874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR056202026",
@@ -30152,7 +31898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza amostral, sobre intenção de voto, com coleta de dados realizada por meio de entrevistas telefônicas operacionalizadas em sistema CATI (Computer Assisted Telephone Interviewing - Entrevista Telefônica Assistida por Computador).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE DE RADIO E TELEVISAO TIRADENTES LTDA",
+    "payerCnpj": "01709972000112"
   },
   {
     "protocol": "BR059582026",
@@ -30174,7 +31922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J E FERREIRA / SISTEMA GAZETA RN DE COMUNICACAO",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "PB064352026",
@@ -30196,7 +31946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no Estado da Paraíba. Trata-se de uma pesquisa quantitativa realizada por meio de Recrutamento Digital Randômico (RDR), com aplicação de questionário estruturado em ambiente web, utilizando tecnologia própria de coleta e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "OPINDATA INOVA SIMPLES (I.S.)",
+    "payerCnpj": "60865551000140"
   },
   {
     "protocol": "BR063562026",
@@ -30218,7 +31970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR063842026",
@@ -30240,7 +31994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO CABUGI LTDA / TV CABUGI",
+    "payerCnpj": "10704625000198"
   },
   {
     "protocol": "MG095982026",
@@ -30286,7 +32042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Acre, com 16 anos ou mais. A coleta de dados será realizada por entrevistas presenciais (face a face) em 18 municípios do estado. As entrevistas presenciais serão conduzidas por entrevistadores devidamente trein",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO NORTE LTDA",
+    "payerCnpj": "14339220000159"
   },
   {
     "protocol": "MA025582026",
@@ -30356,7 +32114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR033462026",
@@ -30378,7 +32138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR081102026",
@@ -30400,7 +32162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA015552026",
@@ -30542,7 +32306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de São Paul",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "DF055472026",
@@ -30564,7 +32330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RJ093032026",
@@ -30586,7 +32354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro. Os questionamentos feitos aos(às) eleitores(as) em relação à eleição presiden",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR031472026",
@@ -30608,7 +32378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PI010382026",
@@ -30630,7 +32402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no estado do PIAUÍ, sendo a coleta dos dados realizada por meio de SMARTPHO",
-    "position": "Deputado Federal, Deputado Estadual"
+    "position": "Deputado Federal, Deputado Estadual",
+    "payerName": "ELEICAO 2026 SAMANTHA CAVALCA SOBREIRA DUTRA DEPUTADO FEDERAL",
+    "payerCnpj": "68430728000197"
   },
   {
     "protocol": "SE092212026",
@@ -30676,7 +32450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "RO057112026",
@@ -30698,7 +32474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Rondônia",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "BR045232026",
@@ -30720,7 +32498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "TO059612026",
@@ -30766,7 +32546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI058522026",
@@ -30788,7 +32570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado do Piauí, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangência ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "PI041382026",
@@ -30810,7 +32594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de JAICÓS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 estágios e abordagem ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "R10 COMUNICACAO LTDA / PORTAL R10",
+    "payerCnpj": "22675543000141"
   },
   {
     "protocol": "SP009402026",
@@ -30856,7 +32642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR093012026",
@@ -30878,7 +32666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas (URA), junto a uma parcela representativa do eleitorado de todo o país. O levantamento contempla intenção de voto para o cargo de Presidente da República e será realizado no período de ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "CE042922026",
@@ -30924,7 +32714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa utiliza metodologia quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político e administrativo do Estado da Para",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INDICE INTELIGENCIA LTDA",
+    "payerCnpj": "13539940000103"
   },
   {
     "protocol": "BR004052026",
@@ -30946,7 +32738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Pesquisa quantitativa, de abrangência estadual, com amostra de 5.000 entrevistas (realização de entrevistas em domicílio), distribuídas nos 102 municípios do Estado de Alagoas de forma proporcional ao tamanho do eleitorado de cada município, mediante alocação por Probabilidade Proporcional ao Tamanh",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MOVIMENTO DEMOCRATICO BRASILEIRO - ALAGOAS - AL - ESTADUAL / MDB ALAGOAS",
+    "payerCnpj": "01308052000192"
   },
   {
     "protocol": "BR078062026",
@@ -30968,7 +32762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOTA JORNALISMO S/A",
+    "payerCnpj": "21050733000100"
   },
   {
     "protocol": "BR067082026",
@@ -30990,7 +32786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR045072026",
@@ -31012,7 +32810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR087072026",
@@ -31034,7 +32834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa face a face, realizada através de entrevistas pessoais nas quais é aplicado um questionário estruturado. As pessoas entrevistadas constituem uma amostra representativa do eleitorado para o qual se pretende generalizar os resultados obtidos, ou seja, o eleitorado do estado de Pe",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EDITORA FOLHA DE PERNAMBUCO LTDA / FOLHA DE PERNAMBUCO",
+    "payerCnpj": "01935632000100"
   },
   {
     "protocol": "PR029142026",
@@ -31056,7 +32858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "MA082632026",
@@ -31126,7 +32930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública survey, realizada por meio de entrevistas pessoais presenciais (face a face), aplicadas em domicílios localizados nas Regiões Administrativas do Distrito Federal.\n\nA coleta de dados será realizada mediante aplicação de questionário estruturado por entrevistad",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "RN005222026",
@@ -31148,7 +32954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "PI005712026",
@@ -31170,7 +32978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de DOM EXPEDITO LOPES PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ABIMAEL JOSE DO NASCIMENTO LIMA",
+    "payerCnpj": "02902272324"
   },
   {
     "protocol": "PI043412026",
@@ -31192,7 +33002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PI062762026",
@@ -31214,7 +33026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PI008172026",
@@ -31236,7 +33050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de CAXINGÓ PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória s",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR006552026",
@@ -31258,7 +33074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR038402026",
@@ -31280,7 +33098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PI097342026",
@@ -31302,7 +33122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PEDRO II (PI), sendo a coleta dos dados realizada por meio d",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "FRANCISCO CHARBEL LACERDA DANTAS",
+    "payerCnpj": "66304270330"
   },
   {
     "protocol": "PA051782026",
@@ -31324,7 +33146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa; Amostral; Entrevistas individuais por telefone por meio de questionários estruturados. Universo: Eleitores do estado do Pará; 6.267.107 eleitores (unidade amostral) em julho de 2026 https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleitor-eleitorado-mensal/cruzamento-eleitorado-me",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PROCEDE PUBLICIDADE E PROPAGANDA LTDA / PROCEDE PUBLICIDADE E PROPAGANDA",
+    "payerCnpj": "13901380000187"
   },
   {
     "protocol": "BR073972026",
@@ -31346,7 +33170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR014432026",
@@ -31368,7 +33194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR093712026",
@@ -31390,7 +33218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOTA JORNALISMO S/A",
+    "payerCnpj": "21050733000100"
   },
   {
     "protocol": "BR058882026",
@@ -31412,7 +33242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado de todas as unidades da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA DE COMUNICACAO LEIA JA LTDA / LEIA JA",
+    "payerCnpj": "13614228000113"
   },
   {
     "protocol": "BR096922026",
@@ -31434,7 +33266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR096572026",
@@ -31456,7 +33290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "GO075062026",
@@ -31550,7 +33386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Distrital",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "MA069102026",
@@ -31596,7 +33434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa foi realizada por meio de amostragem por cotas proporcionais aleatórias, considerando as variáveis gênero, faixa etária, grau de instrução e nível econômico dos entrevistados, de modo a refletir a composição sociodemográfica do eleitorado do município de Piripiri - PI. A coleta dos dados ",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "RAIMUNDO ALVES FILHO",
+    "payerCnpj": "09766677387"
   },
   {
     "protocol": "PI093772026",
@@ -31618,7 +33458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de GILBUÉS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória s",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "SC067402026",
@@ -31664,7 +33506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa caracteriza-se como um estudo científico quantitativo, de natureza amostral, realizado por meio de entrevistas pessoais domiciliares, sem utilização de pontos de fluxo. A coleta de dados foi realizada mediante aplicação de questionário estruturado a uma amostra representativa do eleitorad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE RIO FM LTDA / REDE RIO FM",
+    "payerCnpj": "39966766000160"
   },
   {
     "protocol": "BR076002026",
@@ -31686,7 +33530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "MS054772026",
@@ -31756,7 +33602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica survey com\t\t\t\t\t\t\t\t\t\naplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais\t\t\t\t\t\t\t\t\t\nutilizando dispositivos eletrônicos (tablets) O univer",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MVR2 EMPREENDIMENTOS LTDA",
+    "payerCnpj": "17543766000115"
   },
   {
     "protocol": "BR017442026",
@@ -31778,7 +33626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará (CE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PB001552026",
@@ -31800,7 +33650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA / PB AGORA",
+    "payerCnpj": "10574821000195"
   },
   {
     "protocol": "BR075552026",
@@ -31822,7 +33674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "PB064522026",
@@ -31844,7 +33698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba, no município ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR017472026",
@@ -31866,7 +33722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR032072026",
@@ -31888,7 +33746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, com amostragem por quotas representativas do eleitorado (Gênero, faixa etária, escolaridade, renda nominal mensal domiciliar, e Municípios) da região do Alto Tietê (Municípios: Arujá-SP, Biritiba Mirim-SP, Ferraz de Vasconcelos-SP, Guararema-SP, Itaquaquecetuba-SP, Mog",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PAULISTA DE PESQUISA E OPINIAO PUBLICA LTDA",
+    "payerCnpj": "65571662000167"
   },
   {
     "protocol": "BR069042026",
@@ -31910,7 +33770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com realização de entrevistas pessoais, domiciliares e presenciais, mediante aplicação de questionário estruturado a uma amostra representativa de eleitores com 16 anos ou mais residentes no Estado de Mato Grosso do Sul. A coleta de dados será realizada por ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CAMPO GRANDE NOTICIAS LTDA / CAMPO GRANDE NEWS LTDA",
+    "payerCnpj": "07364083000147"
   },
   {
     "protocol": "BR010782026",
@@ -31932,7 +33794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado do Distrito Federal.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "MA016322026",
@@ -31978,7 +33842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CABEDELO.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "MA075722026",
@@ -32024,7 +33890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR094792026",
@@ -32046,7 +33914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de JAICÓS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 estágios e abordagem ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "R10 COMUNICACAO LTDA / PORTAL R10",
+    "payerCnpj": "22675543000141"
   },
   {
     "protocol": "BR065972026",
@@ -32068,7 +33938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa; Amostral; Entrevistas individuais por telefone por meio de questionários estruturados. Universo: Eleitores do estado do Pará; 6.267.107 eleitores (unidade amostral) em julho de 2026 https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleitor-eleitorado-mensal/cruzamento-eleitorado-me",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PROCEDE PUBLICIDADE E PROPAGANDA LTDA / PROCEDE PUBLICIDADE E PROPAGANDA",
+    "payerCnpj": "13901380000187"
   },
   {
     "protocol": "GO075982026",
@@ -32138,7 +34010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Minas Ge",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "PA039512026",
@@ -32160,7 +34034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia da pesquisa: \nA presente pesquisa quantitativa adota o método de levantamento estatístico por amostragem, com a realização de entrevistas pessoais e individuais, conduzidas por meio de questionário estruturado. A coleta de dados ocorre de forma presencial em domicílios e pontos de fluxo,",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "A R CAMPOS DE SOUZA / BLOG DO JK",
+    "payerCnpj": "24498758000160"
   },
   {
     "protocol": "BR079242026",
@@ -32182,7 +34058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade de CAMPO MAIOR PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 estágios e abord",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ELEICAO 2026 RODRIGO ANTONIO BONA IBIAPINA DEPUTADO ESTADUAL",
+    "payerCnpj": "68312689000123"
   },
   {
     "protocol": "SP018062026",
@@ -32252,7 +34130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR072962026",
@@ -32274,7 +34154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, totalmente digital e geolocalizado, a",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO NOVO PERFIL PESQUISAS LTDA",
+    "payerCnpj": "44338241000110"
   },
   {
     "protocol": "PE053202026",
@@ -32296,7 +34178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "RN004432026",
@@ -32318,7 +34202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa da população em estudo, que teve como objetivo fornecer um panorama político e administrativo no estado do Rio Grande do Norte, ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INDICE INTELIGENCIA LTDA",
+    "payerCnpj": "13539940000103"
   },
   {
     "protocol": "PA025492026",
@@ -32340,7 +34226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI032172026",
@@ -32362,7 +34250,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda domiciliar distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de JATOBÁ DO PIAUÍ - PI. Sendo a coleta dos dados re",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "GUILHERME CARVALHO SOEIRO MACHADO",
+    "payerCnpj": "99911779300"
   },
   {
     "protocol": "RN023842026",
@@ -32384,7 +34274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ERIVALDO TRINDADE DE ARAUJO",
+    "payerCnpj": "10307514000148"
   },
   {
     "protocol": "BR047752026",
@@ -32406,7 +34298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "DF075612026",
@@ -32428,7 +34322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do Distrito Federal foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "DF075612026",
@@ -32450,7 +34346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do Distrito Federal foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "PE048122026",
@@ -32472,7 +34370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Nota 1: Pode ocorrer que o total da linha não corresponda exatamente ao somatório das células individuais devido ao arredondamento computacional. No entanto, essas diferenças são compensadas em outras linhas, sem perda da representatividade da amostra. É normal que algumas células apresentem mais en",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA DE COMUNICACAO VALE DO IPOJUCA LTDA / GRUPO VANGUARDA",
+    "payerCnpj": "65419705000193"
   },
   {
     "protocol": "GO030312026",
@@ -32518,7 +34418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "PB023572026",
@@ -32540,7 +34442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas presenciais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EM CIMA DA NOTICIA LTDA / EM CIMA DA NOTICIA",
+    "payerCnpj": "35997380000165"
   },
   {
     "protocol": "BR030032026",
@@ -32562,7 +34466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE037932026",
@@ -32608,7 +34514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa Face a Face na cidade de Santos - SP em polígonos de fluxo previamente sorteados. Será extraída amostra de 800 entrevistados, representativa da população adulta da cidade. Foram definidas cotas de sexo, idade, escolaridade e região da cidade, seguindo critérios presentes no IBGE e TSE.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PIMENTEL & CARPENTIERI CONSULTORIA DE MARKETING LTDA",
+    "payerCnpj": "44185256000196"
   },
   {
     "protocol": "RN095202026",
@@ -32630,7 +34538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com realização de entrevistas pessoais e aplicação de\r\nquestionário estruturado junto a uma amostra representativa do eleitorado\r\ndo Estado do Rio Grande do Norte.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CANDEEIRO COMUNICACAO INTEGRADA E TECNOLOGIA LTDA / CANDEEIRO - MARKETING DIGITAL",
+    "payerCnpj": "42556354000167"
   },
   {
     "protocol": "SE014502026",
@@ -32676,7 +34586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "GO034932026",
@@ -32722,7 +34634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal presencial em pontos de fluxo populacional. O eleitorado do estado de Mato Grosso do Sul foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DRCOSTA'S JORNALISMO LTDA / JORNAL DE DOMINGO MS",
+    "payerCnpj": "12593551000195"
   },
   {
     "protocol": "BR005582026",
@@ -32744,7 +34658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE007542026",
@@ -32790,7 +34706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "BR034392026",
@@ -32812,7 +34730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR042432026",
@@ -32834,7 +34754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR096582026",
@@ -32856,7 +34778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA / PB AGORA",
+    "payerCnpj": "10574821000195"
   },
   {
     "protocol": "CE057392026",
@@ -32902,7 +34826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa realizada por meio de entrevistas, com aplicação de questionário estruturado a uma amostra representativa do eleitorado em estudo. A pesquisa foi conduzida no Estado do Maranhão (MA).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CAFE QUENTE PRODUCOES LTDA",
+    "payerCnpj": "66519516000155"
   },
   {
     "protocol": "SE002812026",
@@ -32996,7 +34922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de Santa Catarina com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "PB055722026",
@@ -33018,7 +34946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual A pesquisa foi realizada em 23 municípios do Estado da P",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR018712026",
@@ -33040,7 +34970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR093322026",
@@ -33062,7 +34994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Acre.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AC 24 HORAS LTDA / AC 24 HORAS",
+    "payerCnpj": "13218533000196"
   },
   {
     "protocol": "PB095472026",
@@ -33084,7 +35018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "MA023642026",
@@ -33154,7 +35090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR079812026",
@@ -33176,7 +35114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "PI086652026",
@@ -33198,7 +35138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de SÃO JOÃO DO PIAUÍ (PI). Sendo a coleta dos dados realizada p",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR091102026",
@@ -33220,7 +35162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Goiás.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "OPCAO NOTICIAS LTDA",
+    "payerCnpj": "09236355000159"
   },
   {
     "protocol": "RS060262026",
@@ -33242,7 +35186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas presenciais, individuais, com aplicação de questionário estruturado e padronizado. A coleta será efetuada em pontos de fluxo previamente definidos, distribuídos entre bairros, distritos e localidades urbanas e rurais dos",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EVA FRANCIELI DE SOUZA PEREIRA",
+    "payerCnpj": "37524035000130"
   },
   {
     "protocol": "BR037962026",
@@ -33264,7 +35210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOTA JORNALISMO S/A",
+    "payerCnpj": "21050733000100"
   },
   {
     "protocol": "SP097652026",
@@ -33310,7 +35258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Acre (AC).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR013272026",
@@ -33332,7 +35282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado da Bahia com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando todo o",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "SE057662026",
@@ -33378,7 +35330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RO062532026",
@@ -33400,7 +35354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE001812026",
@@ -33470,7 +35426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "J E FERREIRA / TVM TELECOM",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "BR032972026",
@@ -33492,7 +35450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma presencial utilizando questionário estruturado junto a uma amostra representativa do eleitorado de ARACAJU - SE.\r\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "BR058562026",
@@ -33514,7 +35474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Bahia. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "PE071682026",
@@ -33536,7 +35498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa face a face, realizada através de entrevistas pessoais nas quais é aplicado um questionário estruturado. As pessoas entrevistadas constituem uma amostra representativa do eleitorado para o qual se pretende generalizar os resultados obtidos, ou seja, o eleitorado do estado de Pe",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA FOLHA DE PERNAMBUCO LTDA / FOLHA DE PERNAMBUCO",
+    "payerCnpj": "01935632000100"
   },
   {
     "protocol": "BR059452026",
@@ -33558,7 +35522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa quantitativa foi realizada por amostragem, utilizando questionários estruturados aplicados em pontos de fluxo ou domicílios, com abordagem feita por tablet ou smartphone.\r\nO universo da pesquisa foi composto pelo eleitorado do estado do Amazonas, com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DCASTRO COMUNICACAO E MARKETING LTDA",
+    "payerCnpj": "11642489000111"
   },
   {
     "protocol": "BR044192026",
@@ -33580,7 +35546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de São Paulo (SP).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN017122026",
@@ -33602,7 +35570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR071042026",
@@ -33624,7 +35594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR078472026",
@@ -33646,7 +35618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado de Goiás. Esta pesquisa quantitativa será realizada por meio de entrevistas telefônicas, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da população alvo. A coleta ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PAPO ABERTO SERVICOS DE COMUNICACAO LTDA / PAPO ABERTO",
+    "payerCnpj": "36039183000104"
   },
   {
     "protocol": "BR065502026",
@@ -33668,7 +35642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa cobrirá o município envolvendo todas regiões do município de Ituiutaba/MG Universo da pesquisa será dos eleitores com 16 anos ou mais. A amostra representará os eleitores do Município, selecionados em 2(dois) estágios. No primeiro estágio, os setores censitários, onde as entrevistas serão",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "HALYSSON JOAREZ REZENDE 99263319634",
+    "payerCnpj": "29988682000174"
   },
   {
     "protocol": "BR080362026",
@@ -33690,7 +35666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado do estado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ASSOCIACAO COMERCIAL DE SAO PAULO",
+    "payerCnpj": "60524550000131"
   },
   {
     "protocol": "BR092282026",
@@ -33712,7 +35690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com amostragem por quotas representativas do eleitorado (sexo, faixa etária, escolaridade, renda e localidades), e Fonte de Dados: TSE e IBGE, para intenção de votos para Presidente da República com aplicação de questionários estruturados e padronizados junto a uma parcela rep",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "VISAO PESQUISAS DE OPINIAO LTDA",
+    "payerCnpj": "07331137000178"
   },
   {
     "protocol": "PB095782026",
@@ -33734,7 +35714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR034962026",
@@ -33756,7 +35738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas via telefone/celular com sistema (CATI -Computer Assisted Telephone Interviewing que significa Entrevista Telefónica Assistida por Computador.), com a aplicação de questionário estruturado junto a uma amostra representativa do eleitora",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ALFA INTELIGENCIA E SERVICOS DE SOFTWARE E OPINIAO S/A",
+    "payerCnpj": "22400349000153"
   },
   {
     "protocol": "RR007552026",
@@ -33826,7 +35810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, do tipo survey, com entrevistas pessoais, presenciais e domiciliares/intercept conduzidas por entrevistadores treinados, com aplicação de questionário estruturado em dispositivo móvel (tablet) através do aplicativo Survey to Go (Dooblo) com captura de coordenadas GPS por ponto",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SA CORREIO BRAZILIENSE / CORREIO BRAZILIENSE",
+    "payerCnpj": "00001172000180"
   },
   {
     "protocol": "SE006012026",
@@ -33872,7 +35858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR045822026",
@@ -33894,7 +35882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR072352026",
@@ -33916,7 +35906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO COSTA DO SOL LTDA",
+    "payerCnpj": "35008325000103"
   },
   {
     "protocol": "PE009182026",
@@ -33938,7 +35930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia quantitativa de pesquisa utilizando uma amostragem não probabilística, coletada por meio de entrevistas pessoais aplicada a eleitores do estado de Pernambuco com 16 anos ou mais. A amostra será selecionada em 2 etapas: inicialmente identificou-se os municípios com maior eleitorado em cad",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "VALE SOLUCOES E CONSULTORIA LTDA / VALE SOLUCOES",
+    "payerCnpj": "49243853000143"
   },
   {
     "protocol": "PA024412026",
@@ -33960,7 +35954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE, 2026 e IBGE. O conjunto do eleitorado apto a votar na próxima eleição em 2026 no município de ITUPIRANGA/PA, n",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "GAZETA CARAJAS COMUNICACAO E PUBLICIDADE LTDA / GAZETA CARAJAS",
+    "payerCnpj": "40488443000198"
   },
   {
     "protocol": "BR030842026",
@@ -33982,7 +35978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa: Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MACEIO FM RADIOS DIFUSORAS LTDA / JOVEM PAN NEWS",
+    "payerCnpj": "57888576000316"
   },
   {
     "protocol": "BR057602026",
@@ -34004,7 +36002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado do Espírito Santo, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BDC COMUNICACOES LTDA",
+    "payerCnpj": "23895081000130"
   },
   {
     "protocol": "BR082162026",
@@ -34026,7 +36026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV PONTA NEGRA LTDA",
+    "payerCnpj": "08713653000120"
   },
   {
     "protocol": "BR057222026",
@@ -34048,7 +36050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "BR012102026",
@@ -34070,7 +36074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica survey com\t\t\t\t\t\t\t\t\t\naplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais\t\t\t\t\t\t\t\t\t\nutilizando dispositivos eletrônicos (tablets) O univer",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DE PESQUISAS PERFIL LTDA",
+    "payerCnpj": "10175843000182"
   },
   {
     "protocol": "MS062472026",
@@ -34140,7 +36146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político e administrativo do estado da PARAÍBA, ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FONTE CZ SERVICOS DE INTERNET E COMUNICACAO LTDA / GRUPO FONTE",
+    "payerCnpj": "52066952000101"
   },
   {
     "protocol": "SE037422026",
@@ -34186,7 +36194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR060262026",
@@ -34208,7 +36218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de entrevistas telefônicas automatizadas, com utilização de questionário estruturado. O universo corresponde aos eleitores com 16 anos de idade ou mais, residentes e aptos a votar no Estado do Rio Grande do Norte. Os números telefônicos são contatados automa",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RN NEGOCIOS EDITORA LTDA / NOVO JORNALISMO",
+    "payerCnpj": "09535322000100"
   },
   {
     "protocol": "BR055422026",
@@ -34230,7 +36242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN069332026",
@@ -34252,7 +36266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A pesquisa é do tipo quantitativa e será realizada mediante entrevistas presenciais domiciliares com aplicação de questionário estruturado junto a eleitores residentes no Estado do Rio Grande do Norte, aptos ao exercício do voto na data da coleta.\r\nA coleta dos dados será realizada por entrevistador",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "BR028742026",
@@ -34274,7 +36290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "SC099512026",
@@ -34320,7 +36338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR041692026",
@@ -34342,7 +36362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR052702026",
@@ -34364,7 +36386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado de Pernambuco. Esta pesquisa quantitativa será realizada por meio de entrevistas pessoais e domiciliares, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da populaçã",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ALMEIDA E CAVALCANTI LTDA",
+    "payerCnpj": "35535043000156"
   },
   {
     "protocol": "RS024582026",
@@ -34386,7 +36410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR054952026",
@@ -34408,7 +36434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR095212026",
@@ -34430,7 +36458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com realização de entrevistas pessoais e aplicação de\r\nquestionário estruturado junto a uma amostra representativa do eleitorado\r\nbrasileiro.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TIMES BRASIL MEDIA LTDA",
+    "payerCnpj": "51247041000118"
   },
   {
     "protocol": "BR041612026",
@@ -34452,7 +36482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR014892026",
@@ -34474,7 +36506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "RN025132026",
@@ -34496,7 +36530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "PE060562026",
@@ -34518,7 +36554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO068862026",
@@ -34564,7 +36602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "PI066562026",
@@ -34586,7 +36626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado do Piauí foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TV RADIO CLUBE DE TERESINA SA",
+    "payerCnpj": "06847495000175"
   },
   {
     "protocol": "BR018182026",
@@ -34608,7 +36650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de caráter descritivo, do tipo survey, realizada por meio de entrevistas diretas, mediante aplicação de questionário estruturado a uma amostra representativa do eleitorado do Estado do Rio Grande do Norte. A amostra será distribuída entre os municípios abrangidos pela pesquisa",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BRUNO E P BARRETO CIRILO / BLOG DO BARRETO",
+    "payerCnpj": "31339893000128"
   },
   {
     "protocol": "MT038332026",
@@ -34654,7 +36698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Bahia. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR062312026",
@@ -34676,7 +36722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO COSTA DO SOL LTDA",
+    "payerCnpj": "35008325000103"
   },
   {
     "protocol": "TO095732026",
@@ -34746,7 +36794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR017922026",
@@ -34768,7 +36818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "TO053792026",
@@ -34814,7 +36866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "RO079272026",
@@ -34836,7 +36890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Doações Eleitorais",
     "methodology": "A pesquisa foi estratificada com aplicação de formulário eletrônico in loco a eleitores dos 52 municípios de Rondônia. As amostras obedeceram um critério de quantidade mínima relativa aos municípios para se obter resultado local para governo e senado. Para a totalização foi atribuído peso amostral a",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PROGRESSISTAS RONDONIA RO ESTADUAL / PP-11 RONDONIA",
+    "payerCnpj": "02104754000117"
   },
   {
     "protocol": "BR003452026",
@@ -34858,7 +36914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RS023612026",
@@ -34880,7 +36938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "CE034652026",
@@ -34926,7 +36986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa quantitativa, utilizando questionário estruturado (impresso) e padronizado por meio de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo, que teve como objetivo fornecer um panorama político na cidade de CAMPINA GRANDE/PB, para av",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO RANKING DE PESQUISA LTDA",
+    "payerCnpj": "51751580000190"
   },
   {
     "protocol": "GO031162026",
@@ -34972,7 +37034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "BR067312026",
@@ -34994,7 +37058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "BR067312026",
@@ -35016,7 +37082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "DF009872026",
@@ -35038,7 +37106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "PI022372026",
@@ -35060,7 +37130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana (centro e adjacências) ou rural (comunidades da cidade). Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de um",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "PB084442026",
@@ -35082,7 +37154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa será de natureza quantitativa, com entrevistas presenciais realizadas por meio de questionário estruturado, padronizado e testado previamente. Entrevistadores treinados farão a coleta dos dados por abordagem direta aos eleitores em seus domicílios, conforme o planejamento operacional defi",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "M DE O DA COSTA AVANCY",
+    "payerCnpj": "65258678000114"
   },
   {
     "protocol": "BR054362026",
@@ -35104,7 +37178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR066852026",
@@ -35126,7 +37202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Tocantins (TO).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RS070632026",
@@ -35148,7 +37226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Rio Grande do Sul (RS).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PI083322026",
@@ -35170,7 +37250,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de JOSÉ DE FREITAS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem ale",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR012472026",
@@ -35192,7 +37274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas\r\npresenciais, conduzidas tanto em domicílios quanto em locais previamente definidos\r\ncom significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário\r\nestruturado em formato digital junto a u",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J E FERREIRA / TVM TELECOM",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "SE063842026",
@@ -35238,7 +37322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "RJ079032026",
@@ -35260,7 +37346,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "GO013662026",
@@ -35306,7 +37394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa: Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "PE094262026",
@@ -35328,7 +37418,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pernambuco (PE).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR041032026",
@@ -35350,7 +37442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Amazonas (AM).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PI014812026",
@@ -35372,7 +37466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, realizada mediante entrevistas pessoais, domiciliares e presenciais, aplicadas por profissionais treinados, com utilização de questionários estruturados junto a amostra representativa do eleitorado com 16 anos ou mais. A coleta dos dados foi efetuada por meio de smartp",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "INSTITUTO DIVULGA LTDA",
+    "payerCnpj": "21703109000165"
   },
   {
     "protocol": "GO050742026",
@@ -35418,7 +37514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "SP087032026",
@@ -35512,7 +37610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "RO019702026",
@@ -35534,7 +37634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, 100% digital e geolocalizado, aplicad",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "JACIMAR SERVICOS DE COMUNICACOES LTDA / ANTENA FM",
+    "payerCnpj": "07131381000197"
   },
   {
     "protocol": "PA038302026",
@@ -35556,7 +37658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE junho/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "DOXA ARTE & COMUNICAO S/S LTDA",
+    "payerCnpj": "07317438000147"
   },
   {
     "protocol": "MA032512026",
@@ -35602,7 +37706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa que consiste na realização de entrevistas pessoais com a aplicação de \r\nquestionário estruturado junto a uma amostra representativa do eleitorado (16 anos e +) e \r\nvotante no Estado de RONDÔNIA (RO).",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BRASIL DADOS INTELIGENCIA EM DADOS E SOLUCOES E PESQUISAS LTDA",
+    "payerCnpj": "19812752000185"
   },
   {
     "protocol": "BR028042026",
@@ -35624,7 +37730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR083372026",
@@ -35646,7 +37754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "SE014542026",
@@ -35692,7 +37802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Rio Grande do Sul (RS).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR038122026",
@@ -35714,7 +37826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Amazonas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "TO058932026",
@@ -35760,7 +37874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR067732026",
@@ -35782,7 +37898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR067732026",
@@ -35804,7 +37922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EDITORA GLOBO S/A / EDITORA GLOBO",
+    "payerCnpj": "04067191000160"
   },
   {
     "protocol": "RO067472026",
@@ -35826,7 +37946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FREEMEDIA MARKETING DIGITAL LTDA / FREEMEDIA MARKETING DIGITAL",
+    "payerCnpj": "44691365000185"
   },
   {
     "protocol": "MT043902026",
@@ -35872,7 +37994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR004002026",
@@ -35894,7 +38018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR094182026",
@@ -35916,7 +38042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "BR099602026",
@@ -35938,7 +38066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PR039532026",
@@ -35960,7 +38090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia da pesquisa será quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político do Estado do Paraná, permitindo a ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INCO - EDITORA DIARIO INDUSTRIA E COMERCIO LTDA / INCO",
+    "payerCnpj": "09570162000130"
   },
   {
     "protocol": "BR054882026",
@@ -35982,7 +38114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR002092026",
@@ -36004,7 +38138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "TO021612026",
@@ -36050,7 +38186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Maranhão",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO MIRANTE LTDA / TELEVISAO MIRANTE",
+    "payerCnpj": "07306616000134"
   },
   {
     "protocol": "BR064932026",
@@ -36072,7 +38210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "RJ087482026",
@@ -36094,7 +38234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio de J",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR034532026",
@@ -36116,7 +38258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa:\nA metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Fe",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR050972026",
@@ -36138,7 +38282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com 1.100 entrevistas, realizada com eleitores maiores de 16 anos, moradores do pais do BRASIL. Utiliza entrevistas por telefone, pelo sistema CATI (Computer Assisted Telephone Interviewing), com aplicação de questionário estruturado com opções randomizadas automaticamente via",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MATRIA - MULHERES ASSOCIADAS, MAES E TRABALHADORAS DO BRASIL / MATRIA",
+    "payerCnpj": "52872940000174"
   },
   {
     "protocol": "RN070322026",
@@ -36160,7 +38306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "GO021182026",
@@ -36206,7 +38354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza amostral, realizada no município de Caicó, Estado do Rio Grande do Norte, tendo como população-alvo os eleitores regularmente inscritos e aptos a votar no município. O universo eleitoral de referência é de 45.294 eleitores, conforme os dados oficiais do Tribunal Su",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "GISELLE MURIELLE QUEIROZ DE AZEVEDO",
+    "payerCnpj": "22516570000171"
   },
   {
     "protocol": "PR031912026",
@@ -36228,7 +38378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA BEM PARANA LTDA / JORNAL BEMPARANA",
+    "payerCnpj": "76637305000170"
   },
   {
     "protocol": "BR040062026",
@@ -36250,7 +38402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR028232026",
@@ -36272,7 +38426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "CE001952026",
@@ -36318,7 +38474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa Quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado (16 e +) e votante no ESTADO DO RJ.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "PORTAL DIARIO DO R I O REVISTA ELETRONICA LTDA / DIARIO DO RIO OU DIARIO DO RIO DE JANEIRO",
+    "payerCnpj": "24336010000160"
   },
   {
     "protocol": "BR008172026",
@@ -36340,7 +38498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Mato Gro",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO E TELEVISAO MATOGROSSENSE LTDA / TV CENTRO AMERICA OU REDE MATOGROSSENSE DE TELEVISAO",
+    "payerCnpj": "12372735000125"
   },
   {
     "protocol": "BR046782026",
@@ -36362,7 +38522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RJ024222026",
@@ -36384,7 +38546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "RN083072026",
@@ -36406,7 +38570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é do tipo quantitativa e será realizada mediante entrevistas presenciais domiciliares com aplicação de questionário estruturado junto a eleitores residentes no Estado do Rio Grande do Norte, aptos ao exercício do voto na data da coleta.\nA coleta dos dados será realizada por entrevistadore",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "BR031382026",
@@ -36428,7 +38594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é do tipo quantitativa e será realizada mediante entrevistas presenciais domiciliares com aplicação de questionário estruturado junto a eleitores residentes no Estado do Rio Grande do Norte, aptos ao exercício do voto na data da coleta.\r\nA coleta dos dados será realizada por entrevistador",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "PI020522026",
@@ -36450,7 +38618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no estado do PIAUÍ, sendo a coleta dos dados realizada por meio de SMARTPHO",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "BR099232026",
@@ -36472,7 +38642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado de Pernambuco, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangê",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR072942026",
@@ -36494,7 +38666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "TO045492026",
@@ -36540,7 +38714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO075692026",
@@ -36586,7 +38762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, com a aplicação, via abordagem pessoal domiciliar, de questionário estruturado junto a uma amostra representativa da população. O conjunto de eleitores do estado de Alagoas com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EXITO ESTRATEGIA LTDA / EXITO ESTRATEGIA",
+    "payerCnpj": "18576524000190"
   },
   {
     "protocol": "MS065602026",
@@ -36632,7 +38810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado de Alagoas, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangênci",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR066462026",
@@ -36654,7 +38834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de FLORIANO PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "BR060372026",
@@ -36676,7 +38858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa cobrirá o município envolvendo todas regiões do município de São Mateus/ES Universo da pesquisa será dos eleitores com 16 anos ou mais. A amostra representará os eleitores do Município, selecionados em 2(dois) estágios. No primeiro estágio, os setores censitários, onde as entrevistas serã",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BDC COMUNICACOES LTDA",
+    "payerCnpj": "23895081000130"
   },
   {
     "protocol": "PI048212026",
@@ -36698,7 +38882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "DF003202026",
@@ -36720,7 +38906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR082902026",
@@ -36742,7 +38930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO098852026",
@@ -36788,7 +38978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Pernambuco.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "UNIAO BRASIL / UNIAO BRASIL",
+    "payerCnpj": "44551496000167"
   },
   {
     "protocol": "SP055112026",
@@ -36834,7 +39026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de PB.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR040412026",
@@ -36856,7 +39050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de intenção de voto realizada integralmente pela internet, por autopreenchimento no dispositivo do próprio respondente, sem entrevistadores, na plataforma pesquisa.cdlaju.com.br, desenvolvida e operada diretamente pela contratante (CDL Aracaju), sem terceirização.\n\nModo de resp",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CAMARA DE DIRIGENTES LOJISTAS DE ARACAJU",
+    "payerCnpj": "13045935000136"
   },
   {
     "protocol": "BR030672026",
@@ -36878,7 +39074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AESP ASSOC EMISSORAS DE RADIO E TELEVISAO EST SAO PAULO",
+    "payerCnpj": "62481965000109"
   },
   {
     "protocol": "TO017852026",
@@ -36972,7 +39170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no  Estado da Paraíba, no município",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR037702026",
@@ -36994,7 +39194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto da população brasileira, com 16 anos ou mais, foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR059972026",
@@ -37016,7 +39218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do São Paulo com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "BR051502026",
@@ -37038,7 +39242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "BR076702026",
@@ -37060,7 +39266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio de J",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "PA096742026",
@@ -37082,7 +39290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR087302026",
@@ -37104,7 +39314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, com realização de entrevistas telefônicas, mediante aplicação de questionário estruturado a uma amostra representativa de eleitores com 16 anos ou mais residentes no Estado de Mato Grosso. A coleta de dados será realizada por entrevistadores treinados e supe",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RTV CIDADA SERVICO DE COMUNICACAO LTDA / REDE CIDADA SERVICOS DE COMUNICACAO",
+    "payerCnpj": "15671598000118"
   },
   {
     "protocol": "PB033332026",
@@ -37126,7 +39338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa foi realizada em 23 municípios do Estado da P",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "GO014752026",
@@ -37172,7 +39386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "PE027742026",
@@ -37194,7 +39410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado de Pernambuco, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangê",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR050122026",
@@ -37216,7 +39434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública realizada com eleitores residentes no estado de Mato Grosso do Sul, com 16 anos ou mais.\nA coleta de dados será realizada por meio de metodologia híbrida, combinando entrevistas presenciais domiciliares (face a face) e telefônicas assistidas por computador (C",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CORREIO DO ESTADO LTDA",
+    "payerCnpj": "03119724000147"
   },
   {
     "protocol": "BR008282026",
@@ -37238,7 +39458,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado da Bahia com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando todo o",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "POLITICA LIVRE COMUNICACAO LTDA / POLITICA LIVRE",
+    "payerCnpj": "08146210000102"
   },
   {
     "protocol": "PB008662026",
@@ -37260,7 +39482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de SANTA RITA/PB.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR042392026",
@@ -37282,7 +39506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "- A VIAVOX CONSULTORIA E PESQUISAS entrevistará, com a utilização de equipamento eletrônico (tablets), através de sistema de coleta de dados, 400 eleitores com idade a partir de 16 anos, na cidade de PADRE PARAÍSO/MG divididos entre setores da cidade nos dias 05 e 06 de Fevereiro de 2026.\r\n- Pesquis",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RAIMUNDO LUIZ VIEIRA DUTRA",
+    "payerCnpj": "42290821691"
   },
   {
     "protocol": "BR085922026",
@@ -37304,7 +39530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR096502026",
@@ -37326,7 +39554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO033052026",
@@ -37372,7 +39602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado brasileiro com 16 anos ou mais. Dentro das localidades indicadas, os respondentes são selecionados aleatoriamente, considerando todo o territó",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "TO068332026",
@@ -37418,7 +39650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma presencial utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de SERGIPE.\n\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgaç",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RIBEIRO SERVICOS DE COMUNICACOES LTDA / TV LIVRE",
+    "payerCnpj": "08575590000192"
   },
   {
     "protocol": "PA060472026",
@@ -37440,7 +39674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de Opinião Pública realizada no Município de Belém foi concentrada nos 8(oitos) distritos administrativos. O número de eleitores conforme divulgação do TSE em 07/2026, tendo o referido Município 1.047.380 eleitores. O objetivo principal é levantar junto à população de eleitores do Município",
-    "position": "Deputado Federal, Deputado Estadual"
+    "position": "Deputado Federal, Deputado Estadual",
+    "payerName": "J. C. EVENTOS LTDA / JC MULTIMIDIA",
+    "payerCnpj": "48459183000134"
   },
   {
     "protocol": "GO017912026",
@@ -37486,7 +39722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa híbrida com técnica survey de opinião, com coleta presencial (residencial) através de entrevistas pessoais e recrutamento aleatório (WEB) em navegação de rotina dos usuários, conforme a proporcionalidade de eleitores de cada região e município de Mato Grosso por meio do método ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MT DADOS ASSESSORIA E MARKETING LTDA",
+    "payerCnpj": "11100635000187"
   },
   {
     "protocol": "BR043122026",
@@ -37508,7 +39746,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Mato Gro",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO PONTA PORA LTDA / TV MORENA",
+    "payerCnpj": "24612251000195"
   },
   {
     "protocol": "BR009942026",
@@ -37530,7 +39770,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto de eleitores do estado do Ceará foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA O POVO S A / JORNAL O POVO",
+    "payerCnpj": "07222565000162"
   },
   {
     "protocol": "MA028102026",
@@ -37576,7 +39818,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda domiciliar distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PARNAÍBA (PI). Sendo a coleta dos dados realizada",
-    "position": "Governador, Senador, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Estadual",
+    "payerName": "ROBERTO OLIVEIRA ALVES",
+    "payerCnpj": "93774230315"
   },
   {
     "protocol": "SE042262026",
@@ -37622,7 +39866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Amapá. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "BR059012026",
@@ -37644,7 +39890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio de Janeiro.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "GO023982026",
@@ -37690,7 +39938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de São Paul",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "MG003652026",
@@ -37736,7 +39986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "TO070462026",
@@ -37830,7 +40082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR050682026",
@@ -37852,7 +40106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. A população do estado do Ceará, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA JORNALISTICA O POVO S A / JORNAL O POVO",
+    "payerCnpj": "07222565000162"
   },
   {
     "protocol": "SP024172026",
@@ -37898,7 +40154,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Sergipe.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TELEVISAO DE SERGIPE LTDA / TV SERGIPE",
+    "payerCnpj": "13029459000160"
   },
   {
     "protocol": "SP006812026",
@@ -37944,7 +40202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa que consiste na realização de entrevistas pessoais com a aplicação de\nquestionário estruturado junto a uma amostra representativa do eleitorado (16 anos e +) e\nvotante no Estado de RONDÔNIA (RO).",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BRASIL DADOS INTELIGENCIA EM DADOS E SOLUCOES E PESQUISAS LTDA",
+    "payerCnpj": "19812752000185"
   },
   {
     "protocol": "BR045762026",
@@ -37966,7 +40226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Ceará. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO VERDES MARES LTDA",
+    "payerCnpj": "07199664000170"
   },
   {
     "protocol": "PR093012026",
@@ -37988,7 +40250,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TV INDEPENDENCIA LTDA",
+    "payerCnpj": "79107918000194"
   },
   {
     "protocol": "BR002572026",
@@ -38010,7 +40274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada através de entrevistas telefônicas assistidas por computador (CATI) via sistema de Unidade de Resposta Audível pela plataforma Neokemp Pesquisas (Neobe Gestão e Serviços Ltda). As chamadas são direcionadas para terminais de telefonia fixa e móvel (",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE PARANA NOTICIAS LTDA / A REDE",
+    "payerCnpj": "18826244000193"
   },
   {
     "protocol": "PE053632026",
@@ -38032,7 +40298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pernambuco (PE).",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "RN001662026",
@@ -38054,7 +40322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "RADIO DIFUSORA DE MOSSORO SA / RADIO DIFUSORA",
+    "payerCnpj": "08250946000118"
   },
   {
     "protocol": "SE069572026",
@@ -38100,7 +40370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, realizada por meio de questionário estruturado, aplicado via contatos telefônicos por entrevistadores treinados. O universo da pesquisa é composto pelo eleitorado do estado de Pernambuco, com 16 anos ou mais, que está com a situação eleitoral regular.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO ELIELSON LTDA / BLOG DO ELIELSON",
+    "payerCnpj": "28287999000110"
   },
   {
     "protocol": "BR087662026",
@@ -38122,7 +40394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de Rondônia.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "C. GOMES MARKETING",
+    "payerCnpj": "23854801000110"
   },
   {
     "protocol": "MS089642026",
@@ -38168,7 +40442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "BR082752026",
@@ -38190,7 +40466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet) junto à uma amostra representativa dos eleitores de Minas Gerais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SEMPRE EDITORA LTDA",
+    "payerCnpj": "26198515000484"
   },
   {
     "protocol": "MS026592026",
@@ -38236,7 +40514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores aptos a votar em municípios do",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FM NORDESTE LTDA. / FM NORDESTE",
+    "payerCnpj": "08562027000180"
   },
   {
     "protocol": "PE022222026",
@@ -38258,7 +40538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado de Pernambuco, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangê",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR071712026",
@@ -38280,7 +40562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "SP047452026",
@@ -38350,7 +40634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Pernambu",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR092472026",
@@ -38372,7 +40658,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PR078452026",
@@ -38394,7 +40682,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "DF094142026",
@@ -38416,7 +40706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR068542026",
@@ -38438,7 +40730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais e pelo sistema CAT (Computer Assisted Telephone Interviewing), utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou mais. Pesquisa presencial",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM CAARAPO",
+    "payerCnpj": "03955300000112"
   },
   {
     "protocol": "GO041332026",
@@ -38484,7 +40778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa ocorreu por meio de amostragem por cotas de sexo, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. As entrevistas foram residencial e individuais. Coleta dos dados realizada por meio de TABLET/SMARTPHONE.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "J C S HOLANDA  LTDA / JC COMUNICACAO",
+    "payerCnpj": "07961379000145"
   },
   {
     "protocol": "RJ099572026",
@@ -38506,7 +40802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal"
+    "position": "Governador, Senador, Deputado Federal",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "TO065952026",
@@ -38552,7 +40850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "BR058522026",
@@ -38574,7 +40874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Minas Gerais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "ES044822026",
@@ -38620,7 +40922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PE016212026",
@@ -38642,7 +40946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia quantitativa de pesquisa utilizando uma amostragem não probabilística, coletada por meio de entrevistas pessoais aplicada a eleitores do estado de Pernambuco com 16 anos ou mais. A amostra será selecionada em 2 etapas: inicialmente identificou-se os municípios com maior eleitorado no est",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DUO PRIME COMERCIO E SERVICOS LTDA / DUO PRIME",
+    "payerCnpj": "63698538000131"
   },
   {
     "protocol": "BR049742026",
@@ -38664,7 +40970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem. Aplicação de questionário estruturado por meio de ligações automatizadas para telefones fixos e celulares. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PODERDATA PESQUISA, JORNALISMO E COMUNICACAO LTDA",
+    "payerCnpj": "29550908000150"
   },
   {
     "protocol": "RJ049972026",
@@ -38686,7 +40994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio de Janeiro.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR054622026",
@@ -38708,7 +41018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA018472026",
@@ -38754,7 +41066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados, Superintendência de Desenvolvimento Urbano ¿ SDU e Superintendência de Desenvolvimento Rural ¿ SDR . Entrevistas domiciliares e individuais",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR069972026",
@@ -38776,7 +41090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa face a face, realizada através de entrevistas pessoais nas quais é aplicado um questionário estruturado. As pessoas entrevistadas constituem uma amostra representativa do eleitorado para o qual se pretende generalizar os resultados obtidos, ou seja, o eleitorado do estado de Pe",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EDITORA FOLHA DE PERNAMBUCO LTDA / FOLHA DE PERNAMBUCO",
+    "payerCnpj": "01935632000100"
   },
   {
     "protocol": "PI077572026",
@@ -38798,7 +41114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de CAMPO MAIOR(PI), sendo a coleta dos dados realizada por meio",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CARLOS GENTIL DA SILVA LEITE",
+    "payerCnpj": "21858896304"
   },
   {
     "protocol": "SP054192026",
@@ -38844,7 +41162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO DIFUSORA DE MOSSORO SA / RADIO DIFUSORA",
+    "payerCnpj": "08250946000118"
   },
   {
     "protocol": "BR005232026",
@@ -38866,7 +41186,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por cota (não probabilística), com aplicação de questionário estruturado, em pontos de fluxo populacional, com uma amostra representativa do eleitorado em estudo, no caso o eleitorado de Pernambuco.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "PB010282026",
@@ -38888,7 +41210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no Estado da Paraíba, no município ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR053152026",
@@ -38910,7 +41234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Paraná.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR078012026",
@@ -38932,7 +41258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR018772026",
@@ -38954,7 +41282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados através de entrevistas pessoais domiciliares junto a uma amostra aleatória, proporcional e representativa do eleitorado do Município de SÃO CARLOS, com 16 anos ou mais. Amostra estratificada por sexo, faixa etária e região geográfica ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SAO CARLOS NO TOQUE LTDA / SAO CARLOS NO TOQUE",
+    "payerCnpj": "35933047000192"
   },
   {
     "protocol": "PI053752026",
@@ -38976,7 +41306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com abordagem porta a porta, com eleitores que votam e/ou residem nos municípios que compõe a zona eleitoral 33, totalizando 05 cidades, no estado do Piauí, consistindo na realização de entrevistas pessoais e individuais, com a aplicação de questionário estruturado junto a uma ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "N E C CASTRO BARROS PESQUISAS E SERVICOS / PORTAL NORTE PIAUI",
+    "payerCnpj": "36539063000168"
   },
   {
     "protocol": "BR095242026",
@@ -38998,7 +41330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RN039242026",
@@ -39020,7 +41354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de 1.500 entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados será realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento amos",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "PI046652026",
@@ -39042,7 +41378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SC079422026",
@@ -39088,7 +41426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR002902026",
@@ -39110,7 +41450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "MS038392026",
@@ -39156,7 +41498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa; Amostral; Entrevistas individuais por telefone por meio de questionários estruturados. Universo: Eleitores brasileiros; 157.846.547 eleitores (unidade amostral) em julho de 2026 (TSE/Eleitorado Mensal/Estatísticas do Eleitorado). https://sig.tse.jus.br/ords/dwapr/r/seai/sig-el",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AGENCIA ESTADO S.A / AGENCIA ESTADO",
+    "payerCnpj": "62652961000138"
   },
   {
     "protocol": "BR014282026",
@@ -39178,7 +41522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOSE DE ARIMATEIA AZEVEDO LTDA / PORTAL AZ",
+    "payerCnpj": "14157565000191"
   },
   {
     "protocol": "BR049392026",
@@ -39200,7 +41546,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no estado de Goiás. Esta pesquisa quantitativa será realizada por meio de entrevistas telefônicas, utilizando questionários estruturados e padronizados, aplicados a uma amostra representativa da população alvo. A coleta ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONECTA PRO SOLUCOES INTELIGENTES LTDA",
+    "payerCnpj": "40074419000102"
   },
   {
     "protocol": "PB049012026",
@@ -39222,7 +41570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR064772026",
@@ -39244,7 +41594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR057732026",
@@ -39266,7 +41618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma presencial utilizando questionário estruturado junto a uma amostra representativa do eleitorado SERGIPE.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO JORNAL FM A VOZ DO POVO DE ARACAJU SERGIPE LTDA / RADIO JORNAL FM A VOZ DO POVO DE ARACAJU",
+    "payerCnpj": "34333507000189"
   },
   {
     "protocol": "BR079792026",
@@ -39288,7 +41642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião quantitativa, que consiste na realização de entrevistas pessoais, domiciliares e em pontos de fluxo, conduzidas por entrevistadores sociais capacitados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "BR084032026",
@@ -39310,7 +41666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR038572026",
@@ -39332,7 +41690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE maio/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "RN037352026",
@@ -39354,7 +41714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica M2M com aplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais domiciliares, utilizando dispositivos eletrônicos (tablets) O universo é co",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "SPN SISTEMA POTIGUAR DE NOTICIAS LTDA / SISTEMA POTIGUAR DE NOTICIAS SPN",
+    "payerCnpj": "54111399000107"
   },
   {
     "protocol": "RN085092026",
@@ -39376,7 +41738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A Metodologia empregada  para  a  pesquisa segue a Técnica de  Observação  Direta, referente ao Método Quantitativo através da realização de survey de opinião, utilizando-se  como  instrumento  de  investigação   Formulário   Semiestruturado, para entrevistas individualizadas, domiciliares  e/ou loc",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA JORNALISTICA TRIBUNA DO NORTE LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "08272908000166"
   },
   {
     "protocol": "PR092622026",
@@ -39398,7 +41762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PI032412026",
@@ -39420,7 +41786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ESTACAO I ESTUDIO CRIATIVO LTDA / ESTUDIO I",
+    "payerCnpj": "49774883000186"
   },
   {
     "protocol": "RS065212026",
@@ -39442,7 +41810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PE049382026",
@@ -39464,7 +41834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Apresentam-se os dados da pesquisa eleitoral de opinião pública a ser conduzida no Município de\r\nVicência, estado Pernambuco. Esta pesquisa quantitativa será realizada por meio de entrevistas pessoais e\r\ndomiciliares, utilizando questionários estruturados e padronizados, aplicados a uma amostra\r\nrep",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "33.348.709 ROSICLEIDE ALVES DA SILVA COSTA",
+    "payerCnpj": "33348709000131"
   },
   {
     "protocol": "PI058472026",
@@ -39486,7 +41858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, realizada mediante entrevistas pessoais, domiciliares e presenciais, aplicadas por profissionais treinados, com utilização de questionários estruturados junto a amostra representativa do eleitorado com 16 anos ou mais. A coleta dos dados foi efetuada por meio de smartp",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "WERICK AMERICA DOS SANTOS  LTDA / PORTAL TV AMERICA",
+    "payerCnpj": "13893542000182"
   },
   {
     "protocol": "RS006522026",
@@ -39508,7 +41882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio Grande do Sul.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "MS076212026",
@@ -39554,7 +41930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR056782026",
@@ -39576,7 +41954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "GO058062026",
@@ -39622,7 +42002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionário estruturado e padronizado, junto a uma amostra representativa do conjunto do eleitorado apto a votar no Estado do Pará com 16 anos ou mais foi tomado como universo da pesquisa. O objetivo principal é",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "MT071562026",
@@ -39668,7 +42050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Rondônia",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO TV DO AMAZONAS LTDA / REDE AMAZONICA RADIO E TELEVISAO",
+    "payerCnpj": "04387825000161"
   },
   {
     "protocol": "MG058322026",
@@ -39738,7 +42122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GERP MERCADOLOGIA LTDA",
+    "payerCnpj": "05270800000146"
   },
   {
     "protocol": "BR002022026",
@@ -39760,7 +42146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUNDACAO 14 DE AGOSTO / TV COSTA NORTE",
+    "payerCnpj": "04577064000100"
   },
   {
     "protocol": "PA005402026",
@@ -39782,7 +42170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado do estado do Pará.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "FUNDACAO BARCARENA DE COMUNICACAO E ASSISTENCIA SOCIAL / FBCAS",
+    "payerCnpj": "05725030000189"
   },
   {
     "protocol": "BR029182026",
@@ -39804,7 +42194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "RJ034872026",
@@ -39826,7 +42218,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "DF062562026",
@@ -39848,7 +42242,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Distrito",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "GO062742026",
@@ -39894,7 +42290,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Distrito Federal.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "BR011662026",
@@ -39916,7 +42314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "SP046702026",
@@ -39962,7 +42362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa ocorreu por meio de amostragem por cotas de sexo, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. As entrevistas foram residencial e individuais. Coleta dos dados realizada por meio de TABLET/SMARTPHONE.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "J C S HOLANDA  LTDA / JC COMUNICACAO",
+    "payerCnpj": "07961379000145"
   },
   {
     "protocol": "PA077182026",
@@ -39984,7 +42386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Pará. O ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TELEVISAO LIBERAL SA / TELEVISAO LIBERAL",
+    "payerCnpj": "04832721000119"
   },
   {
     "protocol": "BR039692026",
@@ -40006,7 +42410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Tipo de Pesquisa: Quantitativa, descritiva e de opinião pública.Técnica de Coleta: Entrevistas pessoais e individuais, aplicadas de forma presencial por meio de questionário estruturado. Universo da Pesquisa (População-Alvo): Eleitores residentes no estado de Goiás, com idade igual ou superior a 16 ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ASSOCIACAO COMERCIAL, INDUSTRIAL E DE SERVICOS DO ESTADO DE GOIAS",
+    "payerCnpj": "01615301000192"
   },
   {
     "protocol": "BR078102026",
@@ -40028,7 +42434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Goiás. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TELEVISAO ANHANGUERA S/A",
+    "payerCnpj": "01534510000101"
   },
   {
     "protocol": "SC005172026",
@@ -40074,7 +42482,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A população pesquisada é definida como pessoas maiores de 16 anos, eleitoras e residentes em todas as regiões do Brasil. A pesquisa é do tipo QUANTITATIVA e os entrevistados serão selecionados por cotas em função das variáveis sexo, faixa etária, renda do chefe do domicílio e área de residência. Os ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AESP ASSOC EMISSORAS DE RADIO E TELEVISAO EST SAO PAULO",
+    "payerCnpj": "62481965000109"
   },
   {
     "protocol": "GO031452026",
@@ -40144,7 +42554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR071812026",
@@ -40166,7 +42578,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR015162026",
@@ -40188,7 +42602,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do público-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um levantamento padrão survey, 100% digital e geolocalizado, aplicad",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO NOVO PERFIL PESQUISAS LTDA",
+    "payerCnpj": "44338241000110"
   },
   {
     "protocol": "GO038442026",
@@ -40234,7 +42650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PB078502026",
@@ -40256,7 +42674,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Paraíba.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TELEVISAO PARAIBA LTDA / TV PARAIBA",
+    "payerCnpj": "08584526000178"
   },
   {
     "protocol": "PB078502026",
@@ -40278,7 +42698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado da Paraíba.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "TELEVISAO CABO BRANCO LTDA / TV CABO BRANCO",
+    "payerCnpj": "08843575000188"
   },
   {
     "protocol": "MA033442026",
@@ -40372,7 +42794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado de Rondônia.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "C. GOMES MARKETING",
+    "payerCnpj": "23854801000110"
   },
   {
     "protocol": "GO077582026",
@@ -40418,7 +42842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Nota 1: Pode ocorrer que o total da linha não corresponda exatamente ao somatório das células individuais devido ao arredondamento computacional. No entanto, essas diferenças são compensadas em outras linhas, sem perda da representatividade da amostra. É normal que algumas células apresentem mais en",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "WESLLEY EDUARDO DA SILVA MOREIRA",
+    "payerCnpj": "09539593417"
   },
   {
     "protocol": "RN058572026",
@@ -40440,7 +42866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa tem como população-alvo eleitores residentes no Estado do Rio Grande do Norte, aptos ao voto, conforme cadastro eleitoral do Tribunal Superior Eleitoral (TSE), totalizando 2.649.282 eleitores, conforme cadastro eleitoral do TSE atualizado em 12.09.2025.\r\n1.\tABRANGÊNCIA E REPRESENTATIVIDAD",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "MEGA ASSESSORIA E COMUNICACAO LTDA / MEGA PORTAL RN",
+    "payerCnpj": "53028545000172"
   },
   {
     "protocol": "MG015792026",
@@ -40510,7 +42938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA054042026",
@@ -40556,7 +42986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PARLA MENTORS CONSULTORIA LTDA",
+    "payerCnpj": "61407109000132"
   },
   {
     "protocol": "RN038072026",
@@ -40578,7 +43010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "MG038372026",
@@ -40624,7 +43058,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Tocantin",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CENTRO NORTE DE COMUNICACAO LTDA / TV ANHANGUERA",
+    "payerCnpj": "01755356000289"
   },
   {
     "protocol": "RS030002026",
@@ -40646,7 +43082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR004552026",
@@ -40668,7 +43106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião no município de Campo Grande/MS, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR038192026",
@@ -40690,7 +43130,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica survey com\t\t\t\t\t\t\t\t\t\naplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais\t\t\t\t\t\t\t\t\t\nutilizando dispositivos eletrônicos (tablets) O univer",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BDC COMUNICACOES LTDA",
+    "payerCnpj": "23895081000130"
   },
   {
     "protocol": "SP089132026",
@@ -40736,7 +43178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia:\r\nPesquisa quantitativa; Amostral; Entrevistas individuais no domicílio por meio de questionários estruturados.\r\nUniverso: Eleitores do Estado de Mato Grosso do Sul (MS); 1.992.004 eleitores (unidade amostral) em março de 2026 (TSE). https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleitor-e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FEDERACAO DAS INDUSTRIAS DO ESTADO DE MATO GROSSO SUL",
+    "payerCnpj": "15461767000195"
   },
   {
     "protocol": "RJ083502026",
@@ -40758,7 +43202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PI054832026",
@@ -40780,7 +43226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "TO094452026",
@@ -40826,7 +43274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CAICÓ/RN.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "BR080862026",
@@ -40848,7 +43298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "MS050572026",
@@ -40942,7 +43394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de natureza quantitativa, realizada por meio da execução da metodologia CATI (FONE), com aplicação de questionário estruturado junto a eleitoras e eleitores aptos a votar no Estado do Espírito Santo. A pesquisa é realizada por iniciativa do Instituto França, sem contratante externo, sendo a",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "MT045602026",
@@ -40988,7 +43442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "BR079472026",
@@ -41010,7 +43466,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com seleção probabilística de contatos telefônicos no âmbito da base amostral, estratificada pelas Regiões Geográficas Imediatas do Estado da Bahia, realizada por meio de questionário estruturado aplicado via contatos telefônicos fixos e móveis, com abrangência ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "CE082232026",
@@ -41056,7 +43514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR024022026",
@@ -41078,7 +43538,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "SE049302026",
@@ -41148,7 +43610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais face a face, com a aplicação de questionário estruturado com questões abertas e fechadas, conduzida por pessoas previamente treinadas e oficialmente identificadas. A distribuição da amostra será feita a partir da representação",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA PACOTILHA S.A. / O IMPARCIAL",
+    "payerCnpj": "06271258000109"
   },
   {
     "protocol": "BR052272026",
@@ -41170,7 +43634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais face a face, com a aplicação de questionário estruturado com questões abertas e fechadas, conduzida por pessoas previamente treinadas e oficialmente identificadas. A distribuição da amostra será feita a partir da representação",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA PACOTILHA S.A. / O IMPARCIAL",
+    "payerCnpj": "06271258000109"
   },
   {
     "protocol": "MA082072026",
@@ -41216,7 +43682,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa possui caráter quantitativo e será realizada mediante aplicação de questionário estruturado e padronizado, composto por perguntas abertas, fechadas e de múltipla escolha, com o objetivo de aferir a opinião do eleitorado do Estado do Rio Grande do Norte acerca de temas políticos, ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "AGORASEI PESQUISA LTDA",
+    "payerCnpj": "14263830000116"
   },
   {
     "protocol": "MS095902026",
@@ -41286,7 +43754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas presenciais, conduzidas tanto em domicílios quanto em locais previamente definidos com significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário estruturado em formato digital junto a uma ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "J E FERREIRA / SISTEMA GAZETA RN DE COMUNICACAO",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "BR060802026",
@@ -41308,7 +43778,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Mato Grosso.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "PB087992026",
@@ -41330,7 +43802,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR041932026",
@@ -41352,7 +43826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa telefônica realizada com população brasileira a partir de 16 anos e com título de eleitor, em um questionário estruturado, para avaliação do cenário político eleitoral. Os entrevistados são selecionados por sorteio em uma amostra representativa do eleitorado brasileiro com aces",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO BTG PACTUAL S.A.",
+    "payerCnpj": "30306294000145"
   },
   {
     "protocol": "PI061332026",
@@ -41374,7 +43850,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PIRIPIRI (PI). Sendo a coleta dos dados realizada por meio d",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "ONELIA SILVA COELHO",
+    "payerCnpj": "88920690391"
   },
   {
     "protocol": "BR019922026",
@@ -41396,7 +43874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de caráter quantitativo, baseada em amostragem estatística, com coleta de dados realizada por meio de questionário estruturado aplicado via chamadas telefônicas automatizadas para telefones fixos e móveis. O universo de referência é formado pelos eleitores e eleitoras com 16 anos de idade o",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CENTRO DE ESTUDOS E PESQUISAS POLITICAS HISTORICAS E DE ORGANIZACOES (CEPPHOR) / CEPPHOR",
+    "payerCnpj": "07465676000108"
   },
   {
     "protocol": "BR038502026",
@@ -41418,7 +43898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, realizada por meio de entrevistas telefônicas automatizadas, com utilização de questionário estruturado. O universo da pesquisa corresponde aos eleitores com 16 anos de idade ou mais, residentes e aptos a votar no estado do Rio Grande do Norte. A participação dos entrevistados",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RN NEGOCIOS EDITORA LTDA / NOVO JORNALISMO",
+    "payerCnpj": "09535322000100"
   },
   {
     "protocol": "BR086112026",
@@ -41440,7 +43922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "SE012332026",
@@ -41510,7 +43994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "MA099102026",
@@ -41580,7 +44066,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PARTIDO LIBERAL 9 ZONA ELEITORAL - DF - REGIONAL (DF) / PL 9 ZONAL - DF",
+    "payerCnpj": "57952980000140"
   },
   {
     "protocol": "BR005202026",
@@ -41602,7 +44090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Ceará.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "GO068172026",
@@ -41648,7 +44138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "NASSAU EDITORA RADIO E TV LTDA - EM RECUPERACAO JUDICIAL",
+    "payerCnpj": "27065150000130"
   },
   {
     "protocol": "BR019052026",
@@ -41670,7 +44162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma presencial utilizando questionário estruturado junto a uma amostra representativa do eleitorado de SERGIPE. OBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação do traba",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "GO029982026",
@@ -41716,7 +44210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de natureza exploratório-descritiva, operacionalizada por meio da técnica survey com\t\t\t\t\t\t\t\t\t\naplicação de questionário estruturado. A coleta de dados será realizada exclusivamente por meio de entrevistas pessoais\t\t\t\t\t\t\t\t\t\nutilizando dispositivos eletrônicos (tablets) O univer",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DE PESQUISAS PERFIL LTDA",
+    "payerCnpj": "10175843000182"
   },
   {
     "protocol": "PE089012026",
@@ -41738,7 +44234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia da pesquisa será quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político do Estado de Pernambuco, permitind",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "M. F. GONCALVES DE LIMA / CONTEUDO & COMUNICACAO",
+    "payerCnpj": "14315749000132"
   },
   {
     "protocol": "BR036692026",
@@ -41760,7 +44258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR036692026",
@@ -41782,7 +44282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O conjunto do eleitorado brasileiro foi tomado como universo da pesquisa",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "RS062912026",
@@ -41804,7 +44306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "BR051802026",
@@ -41826,7 +44330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Ceará (CE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR008792026",
@@ -41848,7 +44354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa caracteriza-se como um estudo científico quantitativo, de natureza amostral, realizado por meio de entrevistas pessoais domiciliares, sem utilização de pontos de fluxo. A coleta de dados foi efetuada mediante aplicação de questionário estruturado junto a uma amostra representativa do elei",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "MS068202026",
@@ -41894,7 +44402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com técnica de survey de opinião, consistindo de entrevistas individuais pessoais de forma presencial em residência \"inloco\" definidas conforme a proporcionalidade de eleitores de cada região e município de Mato Grosso por meio do método PPT (probabilidade proporcional ao taman",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CBA TV ABERTA DE COMUNICACAO LTDA / O DOC COMUNICACAO",
+    "payerCnpj": "32105564000185"
   },
   {
     "protocol": "BR061502026",
@@ -41916,7 +44426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da\r\namostra de acordo com as características do eleitorado do Brasil.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "JOTA JORNALISMO S/A",
+    "payerCnpj": "21050733000100"
   },
   {
     "protocol": "RJ045332026",
@@ -41938,7 +44450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "PB014022026",
@@ -41960,7 +44474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado da Paraíba.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "BR067332026",
@@ -41982,7 +44498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-AC com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "W.D COMERCIO E SERVICOS LTDA / W.D EMPREENDIMENTOS",
+    "payerCnpj": "65485452000156"
   },
   {
     "protocol": "PR016672026",
@@ -42004,7 +44522,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Município de Ponta Grossa, no estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "D'PONTA MIDIAS E CONSULTORIA LTDA / GRUPO D'PONTA",
+    "payerCnpj": "07136697000171"
   },
   {
     "protocol": "MT041532026",
@@ -42074,7 +44594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MT023932026",
@@ -42120,7 +44642,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em municípios representativos do Estado de Rondônia, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FRANCO & RODRIGUES COMUNICACAO SOCIAL  E EMPREENDIMENTOS LTDA / JORNAL CORREIO CONTINENTAL RO",
+    "payerCnpj": "19306841000150"
   },
   {
     "protocol": "BR027952026",
@@ -42142,7 +44666,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado do Pernambuco (PE).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR039212026",
@@ -42164,7 +44690,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais (face a face) em domicílios, junto a uma amostra representativa do eleitorado em estudo. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "CE027772026",
@@ -42234,7 +44762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa amostral de intenções de voto, realizada por meio de coleta de dados via entrevistas telefônicas assistidas por computador (sistema CATI - Computer Assisted Telephone Interviewing).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REDE DE RADIO E TELEVISAO TIRADENTES LTDA",
+    "payerCnpj": "01709972000112"
   },
   {
     "protocol": "GO037512026",
@@ -42304,7 +44834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Rio Grande do Sul.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "BR059072026",
@@ -42326,7 +44858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, com a aplicação, via abordagem pessoal domiciliar, de questionário estruturado junto a uma amostra representativa da população. O conjunto da população do estado de Alagoas com 16 anos ou mais foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EXITO ESTRATEGIA LTDA / EXITO ESTRATEGIA",
+    "payerCnpj": "18576524000190"
   },
   {
     "protocol": "PA041672026",
@@ -42348,7 +44882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MA094852026",
@@ -42394,7 +44930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa consistindo da realização de entrevistas pessoais, através da aplicação de formulários estruturados e padronizados junto a uma amostra representativa da população pesquisada.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "BG MIDIAS E ASSESSORIA DIGITAL LTDA / BG MIDIAS",
+    "payerCnpj": "25450212000100"
   },
   {
     "protocol": "PB078152026",
@@ -42416,7 +44954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa utiliza metodologia quantitativa, utilizando questionário estruturado e padronizado, aplicado por meio de entrevistas pessoais domiciliares junto a uma amostra representativa do eleitorado em estudo. O objetivo da pesquisa é fornecer um panorama político e administrativo do Estado da Para",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INDICE INTELIGENCIA LTDA",
+    "payerCnpj": "13539940000103"
   },
   {
     "protocol": "DF023902026",
@@ -42438,7 +44978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas de maneira pessoal em domicílio, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores Do Distrito Federal.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR029442026",
@@ -42460,7 +45002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Amazonas",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REALTIME1 PORTAL DE NOTICIAS LTDA / RT1 AMAZONAS",
+    "payerCnpj": "29734321000100"
   },
   {
     "protocol": "BR013682026",
@@ -42482,7 +45026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Goiás. O",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "PR027372026",
@@ -42504,7 +45050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa será realizada através de entrevistas telefônicas, individuais e pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "IRG PESQUISAS LTDA",
+    "payerCnpj": "10175063000132"
   },
   {
     "protocol": "BR019712026",
@@ -42526,7 +45074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado de Santa Catarina com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "PR000152026",
@@ -42548,7 +45098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada através de entrevistas telefônicas assistidas por computador (CATI) via sistema de Unidade de Resposta Audível pela plataforma Neokemp Pesquisas (Neobe Gestão e Serviços Ltda). As chamadas são direcionadas para terminais de telefonia fixa e móvel (",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REDE PARANA NOTICIAS LTDA / A REDE",
+    "payerCnpj": "18826244000193"
   },
   {
     "protocol": "GO089632026",
@@ -42594,7 +45146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "BR069152026",
@@ -42616,7 +45170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio Gran",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR036382026",
@@ -42638,7 +45194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana (centro e adjacências) ou rural (comunidades da cidade). Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de um",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "CE035062026",
@@ -42780,7 +45338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa cobrirá o município envolvendo todas regiões do município de Marília/SP Universo da pesquisa será dos eleitores com 16 anos ou mais. A amostra representará os eleitores do Município, selecionados em 2(dois) estágios. No primeiro estágio, os setores censitários, onde as entrevistas serão r",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MATHEUS AUGUSTO ROCHA",
+    "payerCnpj": "53928290827"
   },
   {
     "protocol": "PI020952026",
@@ -42802,7 +45362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de BARRAS PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa preferencialmente, domiciliar e individual através de uma amostra estratificada  em 2 estágios com abordagem aleatória si",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "CE084782026",
@@ -42848,7 +45410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "PE029512026",
@@ -42870,7 +45434,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa com aplicação de questionários estruturados e padronizados através de entrevistas pessoais em domicílios, junto a uma amostra representativa do eleitorado em estudo.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BLOG DO MAGNO MARTINS COMUNICACAO LTDA / BLOG DO MAGNO MARTINS",
+    "payerCnpj": "08021752000140"
   },
   {
     "protocol": "SP035832026",
@@ -42940,7 +45506,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR071142026",
@@ -42962,7 +45530,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Minas Gerais (MG).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR057332026",
@@ -42984,7 +45554,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, a ser realizada junto ao eleitorado do ESTADO DO CEARÁ, com aplicação de questionários estruturados e padronizados.\r\nA coleta de dados será realizada por meio de metodologia mista, combinando entrevistas presenciais e entrevistas telefônicas conduzidas por e",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "OPNUS ESTRATEGIA, PESQUISA DE OPINIAO E MERCADO EIRELI",
+    "payerCnpj": "14703935000149"
   },
   {
     "protocol": "MS064122026",
@@ -43054,7 +45626,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR028972026",
@@ -43076,7 +45650,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, com procedimento probabilístico estratificado por regiões do estado, realizada por meio de questionário estruturado aplicado via contatos telefônicos (fixos e móveis), com abrangência estadual. A estratificação regional é definida com base na distribuição do ele",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO DATATRENDS LTDA",
+    "payerCnpj": "51772470000104"
   },
   {
     "protocol": "GO098542026",
@@ -43122,7 +45698,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de CORRENTE PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada em 2 estágios com abordag",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR021392026",
@@ -43144,7 +45722,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa, por amostragem, com aplicação de questionário estruturado realizado por meio telefônico. O universo da pesquisa é o eleitorado do Estado do Rio de Janeiro com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FUTURA CONSULTORIA E ASSESSORIA LTDA / FUTURA",
+    "payerCnpj": "03622028000159"
   },
   {
     "protocol": "MA005502026",
@@ -43214,7 +45794,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa Quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado (16 e +) e votante no ESTADO DO RJ.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "PORTAL DIARIO DO R I O REVISTA ELETRONICA LTDA / DIARIO DO RIO OU DIARIO DO RIO DE JANEIRO",
+    "payerCnpj": "24336010000160"
   },
   {
     "protocol": "MT017552026",
@@ -43260,7 +45842,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, através de entrevistas pessoais e domiciliares, com aplicação de questionários estruturados e padronizados junto a amostra representativa da população pesquisada. Utilizando meio eletrônico para coleta das entrevistas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PB AGORA SERVICOS DE INTERNET E COMUNICACOES LTDA / PB AGORA",
+    "payerCnpj": "10574821000195"
   },
   {
     "protocol": "BR004322026",
@@ -43282,7 +45866,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com aplicação de questionários estruturados junto a uma amostra representativa do eleitorado em estudo. Eleitorado do estado de Pernambuco",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ANDRE CAVALCANTE FALABELLA LTDA",
+    "payerCnpj": "22198794000182"
   },
   {
     "protocol": "BR065942026",
@@ -43304,7 +45890,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Rio Grande do Norte.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM CIDADE DO SOL LTDA",
+    "payerCnpj": "08514036000103"
   },
   {
     "protocol": "PB023042026",
@@ -43326,7 +45914,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "PI095362026",
@@ -43348,7 +45938,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 16 anos ou mais de idade com domicílio eleitoral na cidade selecionada do Estado do PIAUÍ e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada com 3 est",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "PB036862026",
@@ -43370,7 +45962,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR047272026",
@@ -43392,7 +45986,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa caracteriza-se como um estudo quantitativo, do tipo survey transversal, realizado por meio da aplicação de questionário estruturado e padronizado. A coleta de dados primários será conduzida junto a uma amostra representativa do universo de eleitores aptos a votar em municípios do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "FM NORDESTE LTDA. / FM NORDESTE",
+    "payerCnpj": "08562027000180"
   },
   {
     "protocol": "PI066752026",
@@ -43414,7 +46010,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados, Superintendência de Desenvolvimento Urbano ¿ SDU e Superintendência de Desenvolvimento Rural ¿ SDR . Entrevistas domiciliares e individuais",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR098432026",
@@ -43436,7 +46034,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "MS021392026",
@@ -43482,7 +46082,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no Brasil. O desenho ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "BR079462026",
@@ -43504,7 +46106,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas pessoais, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado em estudo. Pesquisa realizada no Estado de Bahia (BA).",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "ES084692026",
@@ -43574,7 +46178,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, por amostragem, com a aplicação, via abordagem pessoal em pontos de fluxo, de questionário estruturado junto a uma amostra representativa da população. A população do estado do Rio Grande do Norte, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO RESISTENCIA DE MOSSORO LTDA",
+    "payerCnpj": "12696548000105"
   },
   {
     "protocol": "BR076872026",
@@ -43596,7 +46202,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, por amostragem, com a aplicação, via abordagem pessoal em pontos de fluxo, de questionário estruturado junto a uma amostra representativa da população. A população do estado do Rio Grande do Norte, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO RESISTENCIA DE MOSSORO LTDA",
+    "payerCnpj": "12696548000105"
   },
   {
     "protocol": "BR076872026",
@@ -43618,7 +46226,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa, por amostragem, com a aplicação, via abordagem pessoal em pontos de fluxo, de questionário estruturado junto a uma amostra representativa da população. A população do estado do Rio Grande do Norte, com 16 anos ou mais, foi tomada como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO RESISTENCIA DE MOSSORO LTDA",
+    "payerCnpj": "12696548000105"
   },
   {
     "protocol": "BR001092026",
@@ -43640,7 +46250,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBO COMUNICACAO E PARTICIPACOES S/A / TV/REDE/GLOBO.COM/CANAIS GLOBO/GLOBOPLAY/ELETROMIDIA",
+    "payerCnpj": "27865757000102"
   },
   {
     "protocol": "BR001092026",
@@ -43662,7 +46274,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em pontos de fluxo populacional. O eleitorado do estado de Pernambuco foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "EMPRESA FOLHA DA MANHA S.A.",
+    "payerCnpj": "60579703000148"
   },
   {
     "protocol": "BR055172026",
@@ -43684,7 +46298,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas através de pesquisa telefônica, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores do Estado de Goias.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR091402026",
@@ -43706,7 +46322,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "GO036392026",
@@ -43752,7 +46370,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR003862026",
@@ -43774,7 +46394,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, através pesquisa telefônica, junto a uma parcela representativa do eleitorado de todo o país.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "CANAL MEIO S.A.",
+    "payerCnpj": "26683702000100"
   },
   {
     "protocol": "SP099632026",
@@ -43820,7 +46442,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de 1.500 entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados será realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento amos",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "GO071632026",
@@ -43866,7 +46490,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR063602026",
@@ -43888,7 +46514,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO081422026",
@@ -43934,7 +46562,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia quantitativa de pesquisa utilizando uma amostragem não probabilística, coletada por meio de entrevistas pessoais aplicada a eleitores do estado de Pernambuco com 16 anos ou mais. A amostra será selecionada em 2 etapas: inicialmente identificou-se os municípios com maior eleitorado em cad",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "DUO PRIME COMERCIO E SERVICOS LTDA / DUO PRIME",
+    "payerCnpj": "63698538000131"
   },
   {
     "protocol": "PI055422026",
@@ -43956,7 +46586,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), microrregiões e municípios. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquis",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "PI064732026",
@@ -43978,7 +46610,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR060092026",
@@ -44000,7 +46634,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "SC041992026",
@@ -44070,7 +46706,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do BRASIL com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "RN067512026",
@@ -44092,7 +46730,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa em 30 municípios representativos do Estado de Rio Grande do Norte, do tipo quantitativa, com aplicação de questionário estruturado, abordagem pessoal em ponto de fluxo populacional e domiciliar. O conjunto da população eleitora dos municípios com 16 anos ou mais foi tomado como universo da ",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "QUALITTA EMPREEDIMENTOS LTDA",
+    "payerCnpj": "36461578000192"
   },
   {
     "protocol": "RJ033942026",
@@ -44114,7 +46754,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "GO013562026",
@@ -44184,7 +46826,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Fundo Partidário",
     "methodology": "A metodologia empregada nesta pesquisa utilizará uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no estado do PIAUÍ, sendo a coleta dos dados realizada por meio de SMARTPHO",
-    "position": "Senador"
+    "position": "Senador",
+    "payerName": "PROGRESSISTAS - PIAUI - PI - ESTADUAL",
+    "payerCnpj": "06844237000135"
   },
   {
     "protocol": "TO029002026",
@@ -44230,7 +46874,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública, realizada por meio de entrevistas telefônicas automatizadas, com utilização de sistema de Unidade de Resposta Audível (URA/IVR ¿ Interactive Voice Response), operacionalizado em plataforma eletrônica de coleta da empresa Neokemp Pesquisas (Neobe Gestão e Ser",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "JORNAL O CORREIO DO POVO LTDA / JORNAL O CORREIO DO POVO",
+    "payerCnpj": "08945050000153"
   },
   {
     "protocol": "BR077632026",
@@ -44252,7 +46898,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "PB056032026",
@@ -44274,7 +46922,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado referente aos municípios da Unidade da Federação. Assim como em sua parte conceitual a pesquisa realizada no município do Estado da Paraíba d",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO DE PESQUISA DE GESTAO E POLITICA PARAIBANO LTDA",
+    "payerCnpj": "62695016000113"
   },
   {
     "protocol": "BR026432026",
@@ -44296,7 +46946,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa quantitativa foi realizada por amostragem, utilizando questionários estruturados aplicados em pontos de fluxo ou domicílios, com abordagem feita por tablet ou smartphone. O universo da pesquisa foi composto pelo eleitorado do estado do Amazonas, com 16 anos ou mais.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DCASTRO COMUNICACAO E MARKETING LTDA",
+    "payerCnpj": "11642489000111"
   },
   {
     "protocol": "BR090912026",
@@ -44318,7 +46970,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Alagoas.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ELO COMUNICACAO LTDA / TELA, ATV E TVA",
+    "payerCnpj": "02370536000124"
   },
   {
     "protocol": "PB085252026",
@@ -44340,7 +46994,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do município de CAMPINA GRANDE.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "AY SERVICO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA / AY MULTIMIDIAS",
+    "payerCnpj": "22478913000150"
   },
   {
     "protocol": "BR025632026",
@@ -44362,7 +47018,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de São Paulo.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ATLASINTEL TECNOLOGIA DE DADOS LTDA",
+    "payerCnpj": "19259002000128"
   },
   {
     "protocol": "DF011942026",
@@ -44384,7 +47042,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa de opinião quantitativa, que consiste na realização de entrevistas pessoais, domiciliares e em pontos de fluxo, conduzidas por entrevistadores sociais capacitados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "BADRA COMUNICACAO LTDA",
+    "payerCnpj": "04209958000148"
   },
   {
     "protocol": "MT059252026",
@@ -44430,7 +47090,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "PE091162026",
@@ -44452,7 +47114,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas com eleitores do universo a ser explorado, feitas em combinação mista por entrevistadores humanos e recursos de inteligência artificial, com a aplicação de questionário estruturado com abordagens telefônicas e digitais junto a uma amos",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "REAL TIME MIDIA LTDA",
+    "payerCnpj": "22345021000181"
   },
   {
     "protocol": "BR017152026",
@@ -44474,7 +47138,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "RJ026712026",
@@ -44496,7 +47162,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado do Rio de J",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "ES028592026",
@@ -44542,7 +47210,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Estudo quantitativo voltado às Eleições 2026, realizado por meio de entrevistas individuais, aplicadas mediante questionário eletrônico estruturado e Unidade Automatizada de Respostas Audíveis e Auditáveis, por meio de ligações para telefones móveis (celulares). A inteligência artificial é empregada",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PI064592026",
@@ -44564,7 +47234,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de CAMPO MAIOR(PI), sendo a coleta dos dados realizada por meio",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "GUILHERME CARVALHO SOEIRO MACHADO",
+    "payerCnpj": "99911779300"
   },
   {
     "protocol": "BR088312026",
@@ -44586,7 +47258,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR027962026",
@@ -44608,7 +47282,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "BR006682026",
@@ -44630,7 +47306,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PE089042026",
@@ -44652,7 +47330,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, de survey, que consiste na realização de entrevistas pessoais, domiciliares e presenciais, conduzidas por profissionais treinados, com a aplicação de questionários estruturados a uma amostra representativa da população votante de 16 anos ou mais residente no estado de Pernambu",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "BANCO GENIAL S.A.",
+    "payerCnpj": "45246410000155"
   },
   {
     "protocol": "RN079662026",
@@ -44674,7 +47354,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Para realização desta pesquisa, a ITEM PESQUISAS TÉCNICAS utilizará como instrumento de coleta um questionário eletrônico estruturado com questões fechadas e abertas, respostas únicas para um modelo de pesquisa QUANTITATIVA. As entrevistas serão aplicadas com eleitores de 16 anos acima, residentes e",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual, Deputado Distrital",
+    "payerName": "TV PONTA NEGRA LTDA",
+    "payerCnpj": "08713653000120"
   },
   {
     "protocol": "BR007382026",
@@ -44696,7 +47378,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais utilizando questionário estruturado junto a uma amostra representativa do eleitorado do estado do RN.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SETA INSTITUTO DE PESQUISA LTDA",
+    "payerCnpj": "10783981000144"
   },
   {
     "protocol": "DF029942026",
@@ -44718,7 +47402,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa de opinião pública survey, realizada por meio de entrevistas pessoais presenciais (face a face), aplicadas em domicílios localizados nas Regiões Administrativas do Distrito Federal.\r\n\r\nA coleta de dados será realizada mediante aplicação de questionário estruturado por entrevist",
-    "position": "Governador, Senador, Deputado Federal, Deputado Distrital"
+    "position": "Governador, Senador, Deputado Federal, Deputado Distrital",
+    "payerName": "EXATA OP - PESQUISA DE OPINIAO PUBLICA LTDA",
+    "payerCnpj": "03303870000128"
   },
   {
     "protocol": "PI091412026",
@@ -44740,7 +47426,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PICOS (PI). Sendo a coleta dos dados realizada por meio de t",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "PI091412026",
@@ -44762,7 +47450,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia empregada nesta pesquisa utilizou uma amostragem aleatória estratificada proporcional por sexo, idade, escolaridade e renda distribuídas na zona urbana e rural através de entrevistas domiciliares e individuais no município de PICOS (PI). Sendo a coleta dos dados realizada por meio de t",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CONECTA PIAUI PRODUTORA E COMUNICACAO LTDA / CONECTA PIAUI PORTAL E PRODUTORA",
+    "payerCnpj": "45837060000100"
   },
   {
     "protocol": "BR009562026",
@@ -44784,7 +47474,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas através de pesquisa telefônica, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores do Estado de Goias.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "BR009562026",
@@ -44806,7 +47498,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A metodologia utilizada é Survey quantitativo, com realização das entrevistas através de pesquisa telefônica, com aplicação de questionário estruturado e padronizado em plataforma digital (tablet ou computador) junto a uma amostra representativa dos eleitores do Estado de Goias.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "TV ATUAL LTDA / TV ATUAL",
+    "payerCnpj": "16677702000144"
   },
   {
     "protocol": "TO017782026",
@@ -44876,7 +47570,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "RN053862026",
@@ -44898,7 +47594,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Trata-se de uma pesquisa de natureza quantitativa, realizada por meio de entrevistas\r\npresenciais, conduzidas tanto em domicílios quanto em locais previamente definidos\r\ncom significativo fluxo de pessoas. Para a coleta de dados, foi aplicado um questionário\r\nestruturado em formato digital junto a u",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "J E FERREIRA / TVM TELECOM",
+    "payerCnpj": "46937008000180"
   },
   {
     "protocol": "BR087952026",
@@ -44920,7 +47618,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa científica quantitativa, amostral, do tipo Survey, consistindo em entrevistas pessoais domiciliares, com aplicação de questionário estruturado junto a uma amostra representativa, com distribuição proporcional ao tamanho da população das regiões e  municípios de Sergipe.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "ECM - EDICAO, COMUNICACAO & MARKETING LTDA",
+    "payerCnpj": "35851783000100"
   },
   {
     "protocol": "SE053262026",
@@ -45014,7 +47714,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR059292026",
@@ -45036,7 +47738,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Tocantins.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO PARANA DE PESQUISAS E ANALISE DE CONSUMIDOR LTDA",
+    "payerCnpj": "81908345000140"
   },
   {
     "protocol": "PI011402026",
@@ -45058,7 +47762,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Eleitores com 15 anos ou mais de idade com domicílio eleitoral na cidade de BAIXA GRANDE DO RIBEIRO PI e que no momento da pesquisa se encontrava na zona urbana ou rural. Trata-se de uma pesquisa do tipo face a face, domiciliar, espontânea e individual através de uma amostra estratificada em 2 estág",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "CENTRO DE TREINAMENTO HUMANO LTDA",
+    "payerCnpj": "07608537000188"
   },
   {
     "protocol": "BR095922026",
@@ -45080,7 +47786,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados, Superintendência de Desenvolvimento Urbano ¿ SDU e Superintendência de Desenvolvimento Rural ¿ SDR . Entrevistas domiciliares e individuais",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR091712026",
@@ -45102,7 +47810,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Será realizada uma pesquisa de natureza quantitativa e qualitativa, com o objetivo de caracterizar o perfil ideológico do\r\npúblico-alvo e mensurar a intenção de voto para as Eleições Gerais de 2026. A metodologia adotada consiste em um\r\nlevantamento padrão survey 100% digital, aplicado via WhatsApp,",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO NOVO PERFIL PESQUISAS LTDA",
+    "payerCnpj": "44338241000110"
   },
   {
     "protocol": "BR083442026",
@@ -45124,7 +47834,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com coleta aleatória via questionário estruturado web e pós-estratificação da amostra de acordo com as características do eleitorado de Piauí.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR090552026",
@@ -45146,7 +47858,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE março/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "BR090552026",
@@ -45168,7 +47882,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal junto a uma amostra representativa do eleitorado conforme fonte de dados do TSE março/2026, IBGE, CENSO 2010/2022, FAPESPA 2000/2010. O conjunto do eleitorado apto a votar na próxima eleição ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "DDD91 LTDA / DDD91",
+    "payerCnpj": "52089253000187"
   },
   {
     "protocol": "BR090222026",
@@ -45190,7 +47906,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais em setores censitários e pelo sistema CAT (Computer Assisted Telephone Interviewing). utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado de Mato Grosso do Sul com 16 anos ou ma",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RADIO FM D A LTDA / RADIO FM D.A.",
+    "payerCnpj": "03955300000201"
   },
   {
     "protocol": "BR067762026",
@@ -45212,7 +47930,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas individuais de forma CATI/FONE utilizando questionário estruturado junto a uma amostra representativa do eleitorado de BRASÍLIA - DF\r\nOBS: a) Pesquisa realizada por iniciativa do Instituto França, com o objetivo de divulgação do ",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO FRANCA DE PESQUISAS LTDA",
+    "payerCnpj": "24899123000174"
   },
   {
     "protocol": "PR006542026",
@@ -45234,7 +47954,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do Estado do Paraná com 16 ",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "DF012082026",
@@ -45256,7 +47978,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, que consiste na realização de entrevistas, com a aplicação de questionário estruturado junto a uma amostra representativa do eleitorado desta Unidade da Federação.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "INSTITUTO VERITA LTDA",
+    "payerCnpj": "00654576000172"
   },
   {
     "protocol": "PR003232026",
@@ -45278,7 +48002,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa com metodologia quantitativa, com a realização de entrevistas pessoais, domiciliares e presenciais, utilizando questionário estruturado junto a uma amostra representativa do eleitorado do Estado do Paraná. Os questionamentos feitos aos(às) eleitores(as) em relação à eleição presidencial for",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "PARTIDO LIBERAL (PL) / PARTIDO LIBERAL",
+    "payerCnpj": "08517423000195"
   },
   {
     "protocol": "PA037982026",
@@ -45300,7 +48026,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A presente pesquisa quantitativa adota o método de levantamento estatístico por amostragem, com a realização de entrevistas pessoais e individuais, conduzidas por meio de questionário estruturado. A coleta de dados ocorre de forma presencial em domicílios e pontos de fluxo, assegurando a abrangência",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "A R CAMPOS DE SOUZA / BLOG DO JK",
+    "payerCnpj": "24498758000160"
   },
   {
     "protocol": "PI022442026",
@@ -45322,7 +48050,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador"
+    "position": "Governador",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "BR024192026",
@@ -45344,7 +48074,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa por amostragem, estratificada por sexo, idade e regiões da cidade com a obtenção em campo dos graus de escolaridade e renda familiar. Entrevistas domiciliares com sorteio aleatório das residências.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MARZO COMUNICACOES LTDA",
+    "payerCnpj": "57717902000160"
   },
   {
     "protocol": "BR024192026",
@@ -45366,7 +48098,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Recurso Próprio",
     "methodology": "Pesquisa quantitativa por amostragem, estratificada por sexo, idade e regiões da cidade com a obtenção em campo dos graus de escolaridade e renda familiar. Entrevistas domiciliares com sorteio aleatório das residências.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "MARZO COMUNICACOES LTDA",
+    "payerCnpj": "57717902000160"
   },
   {
     "protocol": "BR019492026",
@@ -45388,7 +48122,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa, com aplicação de entrevistas presenciais, realizadas por meio de questionário estruturado, padronizado e previamente testado. A coleta de dados foi realizada por entrevistadores treinados, mediante abordagem direta aos eleitores em domicílios, conforme planejamento operacional",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "A DE O VIANA EDITORA E COMUNICACAO LTDA / GRUPO AGORA RN",
+    "payerCnpj": "32304440000129"
   },
   {
     "protocol": "RJ069662026",
@@ -45410,7 +48146,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas via URA, junto a eleitores residentes no Estado do Rio de Janeiro. A pesquisa tem abrangência estadual e contempla intenção de voto e avaliação para os cargos de Deputado Federal, Deput",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   },
   {
     "protocol": "PE074982026",
@@ -45432,7 +48170,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa probabilística estratificada quantitativa por amostragem. Aplicação de questionário estruturado por meio IVR, ligações telefonicas. O universo da pesquisa é o conjunto de eleitoras e eleitores com 16 anos ou mais no estado de Pernambuco.",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "EDITORA E GRAFICA MESQUITA BRASIL LTDA / REVISTA TOTAL",
+    "payerCnpj": "08929017000130"
   },
   {
     "protocol": "PI083402026",
@@ -45454,7 +48194,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem não aleatória por cotas de gênero, faixa etária, grau de instrução, renda familiar, zona (urbana e rural), bairros e povoados. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de SMARTPHONE/ TABLET, utilizando a plataforma iPesquisa.net.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "SISTEMA TIMON DE RADIODIFUSAO LTDA. / TV MEIO NORTE",
+    "payerCnpj": "10305548000284"
   },
   {
     "protocol": "SP040032026",
@@ -45524,7 +48266,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "A pesquisa é quantitativa de opinião pública, realizada por meio de entrevistas telefônicas, com aplicação de questionário estruturado e padronizado, utilizando sistema de entrevistas assistidas por computador (CATI). A coleta é monitorada para controle de cotas e filtragem de inconsistências.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "PORTO ALEGRE SERVICOS DIGITAIS LTDA / PORTO ALEGRE DIGITAL",
+    "payerCnpj": "33485320000138"
   },
   {
     "protocol": "SE052602026",
@@ -45570,7 +48314,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia de pesquisa: Pesquisa do tipo quantitativo, por amostragem, com aplicação de questionário estruturado e abordagem pessoal em domicílios particulares permanentemente ocupados (de acordo com a definição do IBGE - Instituto Brasileiro de Geografia e Estatística). O conjunto do eleitorado do",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO VOX BRASIL OPINIAO E PESQUISAS LTDA",
+    "payerCnpj": "45613076000120"
   },
   {
     "protocol": "PI030352026",
@@ -45592,7 +48338,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Metodologia empregada: Amostragem aleatória por cotas de sexo, faixa etária, grau de instrução, renda familiar. Entrevistas domiciliares e individuais. Coleta dos dados realizada por meio de entrevistas domiciliares.",
-    "position": "Governador, Senador, Deputado Federal, Deputado Estadual"
+    "position": "Governador, Senador, Deputado Federal, Deputado Estadual",
+    "payerName": "EMPRESA DE INFORMACOES, DIVULGACOES E NOTICIAS LTDA",
+    "payerCnpj": "04696542000100"
   },
   {
     "protocol": "BR089442026",
@@ -45614,7 +48362,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa; Amostral; Entrevistas individuais por telefone por meio de questionários estruturados. Universo: Eleitores brasileiros; 158.864.999 eleitores (unidade amostral) em maio de 2026 (TSE). https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleitor-eleitorado-mensal/home?session=302948267",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "INSTITUTO INDEXA PESQUISAS LTDA",
+    "payerCnpj": "10340949000194"
   },
   {
     "protocol": "BR013812026",
@@ -45636,7 +48386,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "GLOBAL PRESS LATINA LTDA / ALERTA CIDADE.COM",
+    "payerCnpj": "48439330000104"
   },
   {
     "protocol": "BR013812026",
@@ -45658,7 +48410,9 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": true,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa do tipo quantitativa (survey), por amostragem por cotas, com aplicação de questionário face-a-face estruturado por entrevistadores treinados. O conjunto do eleitorado do Estado do Acre-GO com 16 anos ou mais foi tomado como universo da pesquisa.",
-    "position": "Presidente"
+    "position": "Presidente",
+    "payerName": "RAIMUNDO ADEMIR M. DE SOUZA / JORNAL DE NOTICIAS DA HORA",
+    "payerCnpj": "03340836000123"
   },
   {
     "protocol": "RJ022852026",
@@ -45680,6 +48434,8 @@ export const DEFAULT_TSE_REGISTRIES: TsePollRegistry[] = [
     "isSelfFunded": false,
     "resourceOrigin": "Outros",
     "methodology": "Pesquisa quantitativa com aplicação de questionário estruturado, por meio de entrevistas telefônicas automatizadas (URA), junto a uma parcela representativa do eleitorado do Estado do Rio de Janeiro, abrangendo eleitores residentes na capital e no interior do estado. O levantamento contempla intençã",
-    "position": "Governador, Senador"
+    "position": "Governador, Senador",
+    "payerName": "VETOR ARROW INSTITUTO DE PESQUISA E OPINIAO LTDA",
+    "payerCnpj": "55686336000141"
   }
 ];

@@ -85,6 +85,16 @@ export interface TsePollRegistry {
 
 export type MapMetricKey = "count" | "investment";
 
+export interface PresidentialRegistrySummary {
+  registries: TsePollRegistry[];
+  count: number;
+  totalInvestment: number;
+  uniqueAgencies: number;
+  uniqueContractors: number;
+  earliestRegistrationDate: string | null;
+  latestRegistrationDate: string | null;
+}
+
 export interface StateTseSummary {
   uf: UF;
   stateName: string;

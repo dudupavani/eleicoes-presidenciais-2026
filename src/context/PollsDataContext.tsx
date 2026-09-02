@@ -4,6 +4,7 @@ import React, { createContext, useContext, useState, useMemo } from "react";
 import {
   CsvDiagnosticReport,
   Poll,
+  PresidentialRegistrySummary,
   StateTseSummary,
   TsePollRegistry,
   UF,
@@ -11,7 +12,7 @@ import {
 import { DEFAULT_POLLS } from "@/data/default-polls-data";
 import { DEFAULT_TSE_REGISTRIES } from "@/data/default-tse-registries";
 import { parseMultiplePollCsvs } from "@/lib/csv-parser";
-import { getStateTseSummaries } from "@/lib/poll-aggregator";
+import { getPresidentialRegistrySummary, getStateTseSummaries } from "@/lib/poll-aggregator";
 
 export type NavTab = "map" | "tse_audit" | "data_manager";
 
@@ -23,6 +24,7 @@ interface PollsDataContextType {
   selectedUf: UF | null;
   setSelectedUf: (uf: UF | null) => void;
   stateSummaries: Record<UF, StateTseSummary>;
+  presidentialSummary: PresidentialRegistrySummary;
   diagnosticReports: CsvDiagnosticReport[];
   isProcessingUpload: boolean;
   uploadError: string | null;
@@ -46,6 +48,11 @@ export function PollsDataProvider({ children }: { children: React.ReactNode }) {
   // Resumos por estado (27 UFs), calculados exclusivamente a partir de registros reais do TSE
   const stateSummaries = useMemo(() => {
     return getStateTseSummaries(tseRegistries);
+  }, [tseRegistries]);
+
+  // Registros TSE cujo cargo declarado (DS_CARGO) é "Presidente" — abrangência nacional (BR)
+  const presidentialSummary = useMemo(() => {
+    return getPresidentialRegistrySummary(tseRegistries);
   }, [tseRegistries]);
 
   // Manipulador de upload de múltiplos CSVs (suporta pesquisas eleitorais e arquivos oficiais TSE)
@@ -101,6 +108,7 @@ export function PollsDataProvider({ children }: { children: React.ReactNode }) {
         selectedUf,
         setSelectedUf,
         stateSummaries,
+        presidentialSummary,
         diagnosticReports,
         isProcessingUpload,
         uploadError,

@@ -5,6 +5,7 @@ import { Header } from "@/components/layout/Header";
 import { NavigationTabs } from "@/components/layout/NavigationTabs";
 import { BrazilMap } from "@/components/map/BrazilMap";
 import { TseRegistryPanel } from "@/components/tse/TseRegistryPanel";
+import { PresidentialSummaryBanner } from "@/components/tse/PresidentialSummaryBanner";
 import { CsvUploader } from "@/components/upload/CsvUploader";
 import { DiagnosticPanel } from "@/components/upload/DiagnosticPanel";
 import { SampleCsvTemplates } from "@/components/upload/SampleCsvTemplates";
@@ -28,6 +29,7 @@ export default function Home() {
         {/* ABA 1: MAPA POR ESTADOS (UFs) */}
         {activeTab === "map" && (
           <div className="space-y-6 animate-in fade-in duration-200">
+            <PresidentialSummaryBanner />
             <BrazilMap />
           </div>
         )}
@@ -59,11 +61,7 @@ export default function Home() {
               Auditoria independente de registros oficiais de pesquisas eleitorais no TSE — Eleições 2026.
             </span>
           </div>
-          <div className="flex items-center space-x-4">
-            <span>Base: {tseRegistries.length} registros oficiais do TSE</span>
-            <span>•</span>
-            <span>Tolerância a múltiplos formatos CSV</span>
-          </div>
+
         </div>
       </footer>
     </main>

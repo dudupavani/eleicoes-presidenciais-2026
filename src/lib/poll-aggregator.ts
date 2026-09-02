@@ -1,5 +1,5 @@
 import { ALL_UFS, BRAZIL_STATES_GEO } from "@/data/brazil-states-svg";
-import { StateTseSummary, TsePollRegistry, UF } from "@/types/election";
+import { PresidentialRegistrySummary, StateTseSummary, TsePollRegistry, UF } from "@/types/election";
 
 /**
  * Calcula os resumos por UF com base exclusivamente nos registros oficiais do TSE
@@ -56,4 +56,38 @@ export function getStateTseSummaries(
   });
 
   return summaries as Record<UF, StateTseSummary>;
+}
+
+/**
+ * Isola, dentro dos registros oficiais do TSE, apenas os protocolos cujo
+ * DS_CARGO declarado inclui "Presidente" — ou seja, pesquisas eleitorais
+ * registradas especificamente para a corrida presidencial (em vez de
+ * governador, senador ou deputado). O TSE registra essas pesquisas com
+ * abrangência nacional (UF "BR").
+ */
+export function getPresidentialRegistrySummary(
+  tseRegistries: TsePollRegistry[]
+): PresidentialRegistrySummary {
+  const presidentialRegistries = tseRegistries.filter((r) =>
+    (r.position || "").includes("Presidente")
+  );
+
+  const totalInvestment = presidentialRegistries.reduce((acc, r) => acc + (r.valuePaid || 0), 0);
+  const uniqueAgencies = new Set(presidentialRegistries.map((r) => r.pollingAgency).filter(Boolean));
+  const uniqueContractors = new Set(presidentialRegistries.map((r) => r.contractorName).filter(Boolean));
+
+  const registrationDates = presidentialRegistries
+    .map((r) => r.registrationDate)
+    .filter((d): d is string => !!d)
+    .sort();
+
+  return {
+    registries: presidentialRegistries,
+    count: presidentialRegistries.length,
+    totalInvestment,
+    uniqueAgencies: uniqueAgencies.size,
+    uniqueContractors: uniqueContractors.size,
+    earliestRegistrationDate: registrationDates[0] || null,
+    latestRegistrationDate: registrationDates[registrationDates.length - 1] || null,
+  };
 }
