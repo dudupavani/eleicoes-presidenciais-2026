@@ -83,28 +83,6 @@ export function Header() {
             </div>
           </div>
 
-          {/* Badges de Resumo Rápido */}
-          <div className="hidden lg:flex items-center space-x-3 text-xs">
-            <div className="bg-slate-800/80 px-3 py-1.5 rounded-lg border border-slate-700/60 flex items-center space-x-2">
-              <Building2 className="w-3.5 h-3.5 text-blue-400" />
-              <span className="text-slate-300">Institutos:</span>
-              <span className="font-semibold text-white">{institutesCount}</span>
-            </div>
-
-            <div className="bg-slate-800/80 px-3 py-1.5 rounded-lg border border-slate-700/60 flex items-center space-x-2">
-              <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />
-              <span className="text-slate-300">Registros TSE:</span>
-              <span className="font-semibold text-emerald-400">{tseRegistries.length}</span>
-            </div>
-
-            <div className="bg-slate-800/80 px-3 py-1.5 rounded-lg border border-slate-700/60 flex items-center space-x-2">
-              <Calendar className="w-3.5 h-3.5 text-amber-400" />
-              <span className="text-slate-300">Período:</span>
-              <span className="font-medium text-slate-200">
-                {dateRange.start} até {dateRange.end}
-              </span>
-            </div>
-          </div>
 
           {/* Botões de Ação */}
           <div className="flex items-center space-x-2">
