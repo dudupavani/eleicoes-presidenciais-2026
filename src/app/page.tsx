@@ -5,7 +5,6 @@ import { Header } from "@/components/layout/Header";
 import { NavigationTabs } from "@/components/layout/NavigationTabs";
 import { BrazilMap } from "@/components/map/BrazilMap";
 import { TseRegistryPanel } from "@/components/tse/TseRegistryPanel";
-import { PresidentialSummaryBanner } from "@/components/tse/PresidentialSummaryBanner";
 import { PresidentialPollsPanel } from "@/components/polls/PresidentialPollsPanel";
 import { CsvUploader } from "@/components/upload/CsvUploader";
 import { DiagnosticPanel } from "@/components/upload/DiagnosticPanel";
@@ -37,7 +36,6 @@ export default function Home() {
         {/* ABA 2: MAPA POR ESTADOS (UFs) */}
         {activeTab === "map" && (
           <div className="space-y-6 animate-in fade-in duration-200">
-            <PresidentialSummaryBanner />
             <BrazilMap />
           </div>
         )}
